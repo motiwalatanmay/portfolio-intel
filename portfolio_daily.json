@@ -1,0 +1,2129 @@
+{
+  "generated_at_ist": "2026-04-20 20:39:51 IST",
+  "window_start_ist": "2026-04-13 20:39:51 IST",
+  "window_days": 7,
+  "ticker_count": 30,
+  "tickers": {
+    "BAJFINANCE": {
+      "nse": "BAJFINANCE",
+      "bse": "500034",
+      "name": "Bajaj Finance",
+      "price": {
+        "status": "ok",
+        "close": 917.75,
+        "day_change_pct": 1.05,
+        "week_change_pct": 1.75,
+        "volume": 6184179,
+        "as_of": "2026-04-20"
+      },
+      "news": [
+        {
+          "title": "Buy, Sell Or Hold: BHEL, Bajaj Finance And L&T — Ask Profit - NDTV Profit",
+          "source": "NDTV Profit",
+          "source_url": "https://www.ndtvprofit.com",
+          "tier": "B",
+          "published": "2026-04-17 07:13 IST",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTkNiYjBzTGdvNEJObTZMVjRsQWhvU1BTWG5BVTZfT2JIYWw4eWRFUmJHbW5Qb1lwdngyOXV3VVBsU3JCN2g0dXhfamFqMThwNEx0ek1FbEVCbENWVldjdTdfdVBpcmRra21BS2lsSWl2Q1FZbVR1LXl4VDVsOXhsZnlqVW13U3lwdkN5MmpLbUp3R1VoYlQyQmtoeE9IS3PSAacBQVVfeXFMTVV3ZXJoQTlZdUZVNE1SVDBTMXozTWNPUnZsTnFRN0VhQmpqRkNsUTh5WGNtdHhueFIya2E2bVZOR3FKajRwOXg2Tk1qdm5Fc0pBTUNOY1ZodjVWeXJHOTdiZDlvbEVhY2liWUR0c1QwUlZYM0E2bjNSNkhPXzgzLXVldFdOVXh2Ml9NM2RNQWpsdVc4ZEhiLWNMVUdfeko4NlN3bThzRG8?oc=5"
+        },
+        {
+          "title": "Bajaj Finance - SBI Mutual Fund : HDFC Bank and Infosys among top 10 stock holdings in March - The Economic Times",
+          "source": "The Economic Times",
+          "source_url": "https://m.economictimes.com",
+          "tier": "B",
+          "published": "2026-04-18 15:26 IST",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQd3NsTXRiVkVDV2diV0NOWU5ldG93R1pYb2J4SzBqUVJPMDJEc1lXWG1QMzU4ZGMtdl9tTVhWM2ZUdUtzUzZXSWJaNlB0S2NzQnU2XzNLOTZiWDg5eE9qNU0wM1VwR3ZRYXZsbmRFOE9vTk9QbnJNZDVjZG1JZGpiZHExRWtjV2V1MjFjcHpEblBsTG9WRXRDb3A3dDliU3FaOXlmTDZuZkoxRWk2QjZhQl9MNzBjODBkQlJrWWdhS2puTFRZVkxwTHRHMzloYTBxMjQyNExRTDNXZW41cDVWc3BfaEVHZDQ?oc=5"
+        }
+      ],
+      "bse_filings": [
+        {
+          "headline": "Allotment of Secured Redeemable Non-Convertible Debentures on Private Placement basis",
+          "subject": "Announcement under Regulation 30 (LODR)-Issue of Securities",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-17",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/658332fc-3596-4016-a08b-c370d9838d81.pdf"
+        },
+        {
+          "headline": "Intimation of Conference Call in respect of financial results for the quarter ended 31 March 2026",
+          "subject": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-13",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/9157ee66-c259-4cbd-b127-0b5a36f82f4b.pdf"
+        }
+      ],
+      "nse_filings": [
+        {
+          "headline": "Issue of Securities",
+          "detail": "Bajaj Finance Limited has informed the Exchange about issue of Securities",
+          "date": "2026-04-17",
+          "attachment": "https://nsearchives.nseindia.com/corporate/BAJFINANCE_17042026134547_Reg30_Intimation_of_allotment_of_NCD_290-11.pdf"
+        },
+        {
+          "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "detail": "Bajaj Finance Limited has informed the Exchange about Conference Call in respect of financial results for the quarter ended 31 March 2026",
+          "date": "2026-04-13",
+          "attachment": "https://nsearchives.nseindia.com/corporate/BAJFINANCE_13042026190937_BSENSE_Intimation_ConcallQ4FY26.pdf"
+        }
+      ]
+    },
+    "NH": {
+      "nse": "NH",
+      "bse": "539551",
+      "name": "Narayana Hrudayalaya",
+      "price": {
+        "status": "ok",
+        "close": 1800.2,
+        "day_change_pct": -1.42,
+        "week_change_pct": 4.3,
+        "volume": 245262,
+        "as_of": "2026-04-20"
+      },
+      "news": [
+        {
+          "title": "Four feared dead in major accident on NH-50 in Karnataka’s Vijayanagara district - The Hindu",
+          "source": "The Hindu",
+          "source_url": "https://www.thehindu.com",
+          "tier": "B",
+          "published": "2026-04-19 13:13 IST",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWmVpb2Zta2RQVmF2ZlV6MnhCejFrR0ZJV0tuOVRqVWQydWNjdHFlOUd0NmRZVUM3UUt4NlRrOGhPcjkxOEJjYVR1MmRZejR1YW5qSGF2aUVXVExhTzZLZHlIOTQ5aW9CQkhXN3h4bjlrM2stT05Td0F3dUFPb1REQVhGV2d0OW00OXFQWWZ1ajdtemIyMFdaaGlScHhqV1hYUWcwY1haVzJtRnNTTVJudzlVTk5wMVV5WkJ4dmFLT21qcTZhMm5mTmRveFd1WjdCY2VaelliaGlQdThUZEQ0RdIB5wFBVV95cUxNa1hPY2RzRUpQaTk3TE1fcVU5eWRwaEFYeG1EUVlQLWRObWRkeHpVbS1OZE13bGtOaGFWMmk3VmN0RFZwWVdEQUstUmVSRUo5MFZnajJJQmZXdXFER0VBQ3dPLS11MU8tOHFwWTliRHgwaU9RVTM3UG5HRko5X0k4UEprVWZqdkgxNEctNDNmUlFzVkwyc3R2TS1GaGRiOHkwUkFSaFpSUXJsay1RanduNDNpV1B0R0dpOF9IamlWcF9LYjRPMHBCZFZkZmlFcEhBX05HMFRzSHJjSDh4ZFExdDNpdDYxMWc?oc=5"
+        },
+        {
+          "title": "NHAI to construct vehicular underpass at KIOCL Junction on NH 66 to ease vehicular movement - The Hindu",
+          "source": "The Hindu",
+          "source_url": "https://www.thehindu.com",
+          "tier": "B",
+          "published": "2026-04-15 21:39 IST",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPbXdoVXkza2FQUlJQYU5ES3NnQmprVmEtVF9HYkdwTTR5SDVfbXdIeUFJUUIyY0N6N3lyVGNBLWl4eFdwVlR2VGczOVM3OVN5Mjl0UFRRay0yaTZfRVV6V3NXVzhKOWJCeFpBc1hQUENiMnA2a3JPZXF4SzBJcnJqeWRvYk1SSVBKY2tGendUOTRqSDRJZXp0R1VQN09uYlRRZkg1SWROU2pGcjltWGVUSDBOUEdLSGJKY0tkMTRtTFgzVXh0S19ITU1CUGE0QlVSY3JlRVRNVHV6RmpESmljUU9WRHZBWDlEdHhmTXZhUdIB9gFBVV95cUxQUC1ySWVmREtRUU9DSkFxZXVlWlpnVzBrMjVISHVxNEduUWQ5MGM1ZnFkQ2xUYXI5QWNOOUJ4U0F4ekgzYTBkcnk5ckpRTzQxUUtjSVcwYWgxRHdSLUViMWI2X2RuX25rQ2lDZHhQUGJwZ3R0ek1sX3hmbWdiekNzLXlfTndrUll6Y0pMVW4tV0hxRkdYdGVGN19zVWJVVHJFQUxQZ2dLSTFieFBaX3BLRzFaMlNUUXRsLV9Yb3ZPUVFPei13aWtGSEl3YkIybXQ0STRzTkdJUjFUUlNORGlHME9TOWMzOGRMTy1selZfMVR2SHZ5cVE?oc=5"
+        },
+        {
+          "title": "Minister pushes for four-lane expansion of NH passing through Banaganapalle - The Hindu",
+          "source": "The Hindu",
+          "source_url": "https://www.thehindu.com",
+          "tier": "B",
+          "published": "2026-04-13 21:02 IST",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdlJSaW1Rak5LdlNvNk9JX3Utb1dST2d0WTUxVTBmTG04R2ZLNjhWSGJHMEJkUV9aQ0FfcXYzY2F3N0dtNzZ3TjFuaE1ldlRMWDdtcFY5cHRnd0pIRXRrazVrTFJiQnM3MVMxUXhaOWxlS3UtdmlzQ1NUcFppd0ZMbVdQUV9KNllvOXQ4TDR6bk56dDhCcGszeXhKVHNOdWFuV0syMDVwNDdFRE1IVWYxRkVreEh0dVlfS3F2eHM0cDJfRGpZLVNaM3FRTWdjdzJlT01hWW5HODZhVFFsSUtIaFQwb9IB6gFBVV95cUxOVGM3VmNDNnIxdzZvbldTZW5hMld0SE5HOUhYU1E5NEEwMDB6TGhYS0pUQ0VEb3VnM253TGtJOXk3UXRaOHYwZGk0QkhkMGdMdTVfQ0JPMWVEVUE4QXVHMDlqRjRuLWlPU2UtWmtKcEZJbkpFQ1hiU0hlRmR5QlVuTGxTMjlIVXAxS0lXXzR6RDIwXzZrcmdLT1Mtc0FHcFZrNXl2Z3pSei1qaUxFT0VNYWQ5MUlnZl90Q1FDMnd5M29VSkgzdWFwSEtMeVAzd0lNdGd3ZVctZGhoVDZoOTlubU9VUENEcVZrSUE?oc=5"
+        },
+        {
+          "title": "Girder launching for the six-lane bridge at Kulur on NH 66 to begin in a couple of days - The Hindu",
+          "source": "The Hindu",
+          "source_url": "https://www.thehindu.com",
+          "tier": "B",
+          "published": "2026-04-14 18:55 IST",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWXBwREQ5SEcyRHdxbWplbTFubTVDNG1kTFA0aUxGOWh6Y2VaRmJ4UXl3bnlCMzNXNmxEbVVjSEJsZXBxdC1QVzhYQmNIb1E4cjcyX3VTWlRSdVRaLUV0cngzWDM1U0JuSHdzNW5aY2VJQXVieXRnTU52ZktFRHV4Wm5ndl9SZlpxd1VxVDNNU2E2OHNQTTVVTTJ0NF9BeGlDX3FaRkpWblNvNHVhMmJQOGF1TFhrQnE5Qm53M1lRTnpGNHhtZ2Fpb1NrbHV3UnJSOWtELUdiUlcxR3pfTkxWUkFEZVZmdjAxSmfSAfABQVVfeXFMTXdjUmRaN3VMOXJobjN1dnl2dkh2QWdWejV3Q1FkVm5SQmJaWUZmcC1iVkQ3bnZtTW5oZHd0ejhKOVpJNmhGd0QxMHc5ZEJNX05qWHI3a09vYlZza3pmTVo5NXBBOHhESld5QVRkTzV1SnF3ZnB0b0dkTk9UX0MyZmN6NjRZby1NMERpaVZzazlocjhkV2E4LU5vMXo2MFR5NEFpdFkzcU9LWTVYZlBJdGtpZlhPOEVlNmd4UVlZa2FhZENsV1ZVdXlpd1NnLWNXY2hjM29feFc0clZSS3ZISE03N0VfYWlYeC1lLWRuOWtG?oc=5"
+        },
+        {
+          "title": "Miyapur Traffic police step up safety measures at Madinaguda U-turn and NH 65 stretch - The Hindu",
+          "source": "The Hindu",
+          "source_url": "https://www.thehindu.com",
+          "tier": "B",
+          "published": "2026-04-17 17:02 IST",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQUVvZmZDWXZITnRJcHFFek9LZ2xGMU1EOTJuN29QbVpVWGdxS1YxNDh6TDRRbGx2d1hYeWItVElUUXVnUmh6SjZ5b1p1TlVwbmF5Z2tjZnkwQVVMaVYwZ3gxR1pZSmFEdGlOdXQteXQ1RnhNX05zM0lvTnZ3ZHBpdUJsQTlleE9DNDI5X2l4V1pqYVIzYk1ONldXUlF3NFhvVERUc0ptWF9TOTAxUmVQLU5COXNkUU5tcUdmTXduVHNSdzAwQWZLNTlBbHp2V2xmdEJmbEIyM0dwR3lKbDN5R2dSNHNMQVnSAe4BQVVfeXFMUHdyMjlsRFFCVThiS2t0SlVvcUk2R3VEa2oxaVBlN0xaV1o2azRCR184NWxSdXpTU1BtREdnZXVnblZfZXo1emUxVEllZklwNXlCUUhiN1NTYTNIaGhsdW9YX2JJYXN2Nmc0SVB6T2VYem53Z0QwM3lCTm9ZcHZ3akpndkJOR2tLLXVPWDExN1RRd3VxcTFhOFFsSHRsS3pndEFWTGFtWno3cWs0X0hMMEd4N3Iydk5GVmZNMmR1Qk9ZRng0enFIVXdIeEYzRzJwSjVvbFBtT05CenVkWUkzWVFZM1BFbmxvWFFQekxpdw?oc=5"
+        }
+      ],
+      "bse_filings": [],
+      "nse_filings": []
+    },
+    "DIVISLAB": {
+      "nse": "DIVISLAB",
+      "bse": "532488",
+      "name": "Divis Laboratories",
+      "price": {
+        "status": "ok",
+        "close": 6280.0,
+        "day_change_pct": 0.82,
+        "week_change_pct": 7.31,
+        "volume": 208547,
+        "as_of": "2026-04-20"
+      },
+      "news": [
+        {
+          "title": "Divi's Laboratories - Big Money Moves: 11 large-cap stocks where institutional investors raised stakes in Q4FY26 - The Economic Times",
+          "source": "The Economic Times",
+          "source_url": "https://m.economictimes.com",
+          "tier": "B",
+          "published": "2026-04-16 21:16 IST",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQS05WUWRwcElDeFUwWS1lOWhybWM5OXJXUDhNSkFpQjVzUmJZTDhaeVJTaVdfdEdieEd1bzJ5eTM2N2Q0N1NCb242NHJQUWotZUlEUGdaT1R4T3djWkhOTWstUXVkUzFUa2g1XzBQbE80VnJNYnpBTXd0SzYyakpKSXNTMER5MHlkQXFwTnJ5aUo3YWd2Mml1ZnhBdzBNNXdab1l4Vk1aU1RhenhaWjQzRTNPbUtYQkxvYWNoVTN5V1dYZTY1dWQ1UDlYMjY0N3FXOHdmaUpUVHNYcEtReGF4MGN2TlZFb1RJUzZhcUludUlUcnRNTXJ3blpkdnVLTEYwM00zd1VTTzdma19P?oc=5"
+        }
+      ],
+      "bse_filings": [],
+      "nse_filings": []
+    },
+    "GPIL": {
+      "nse": "GPIL",
+      "bse": "532734",
+      "name": "Godawari Power Ispat",
+      "price": {
+        "status": "ok",
+        "close": 300.05,
+        "day_change_pct": -1.8,
+        "week_change_pct": 5.65,
+        "volume": 1872831,
+        "as_of": "2026-04-20"
+      },
+      "news": [],
+      "bse_filings": [
+        {
+          "headline": "Please find attached herewith the intimation regarding updates on disposal of stake in Ardent Steel Private Limited.",
+          "subject": "Updates On Disposal Of Stake In Ardent Steel Private Limited.",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-20",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/b419352d-c3ff-484a-ab99-1b7a70b64492.pdf"
+        },
+        {
+          "headline": "Allotment of 13,61,000 Equity Shares upon conversion of Warrants on 20.04.2026.",
+          "subject": "Announcement under Regulation 30 (LODR)-Allotment",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-20",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/4d3f9657-a788-4649-be28-d14c2d5215ec.pdf"
+        },
+        {
+          "headline": "Please find attached herewith intimation regarding Acquisition/Investment in Godawari New Energy Private Limited, a Wholly owned subsidiary of Godawari Power and Ispat Limited.",
+          "subject": "Announcement under Regulation 30 (LODR)-Acquisition",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-15",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/7c722653-ef7e-4e44-bbc4-d63439b3b55b.pdf"
+        },
+        {
+          "headline": "Please find attached herewith intimation regarding participation in Television interview with NDTV Profit scheduled to be held on 15.04.2026",
+          "subject": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-14",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/e0fbd9da-777e-492a-847a-9b73f2f70e52.pdf"
+        },
+        {
+          "headline": "Please find attahced herewith the updates regarding Godawari New Energy Private Limited, A wholly owned subsdiary of Godawari Power and ispat limited.",
+          "subject": "Execution Of Supply Agreement For Purchase Of Key Battery Raw Materials That Is Lithium Ferro Phosphate (LFP) Cells For Manufacturing Of First Phase Of 20 GWH Of Battery Energy Storage System, By Godawari New Energy Private Limited (GNEPL) A Wholly Owned Subsidiary Of Godawari Power And Ispat Limited.",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-13",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/44e702a8-a43b-4cf6-a4f1-e26c76b9538f.pdf"
+        }
+      ],
+      "nse_filings": [
+        {
+          "headline": "Updates",
+          "detail": "Godawari Power And Ispat limited has informed the Exchange regarding 'Updates on Disposal of Stake in Ardent Steel Private Limited'.",
+          "date": "2026-04-20",
+          "attachment": "https://nsearchives.nseindia.com/corporate/GPIL_20042026170139_GPILNSEBSE20042026.pdf"
+        },
+        {
+          "headline": "Allotment of Securities",
+          "detail": "Godawari Power And Ispat limited has informed the Exchange regarding allotment of 1361000 securities pursuant to Preferential Issue at its meeting held on April 20, 2026",
+          "date": "2026-04-20",
+          "attachment": "https://nsearchives.nseindia.com/corporate/GPIL_20042026165235_GPILNSEBSEALLOTMENTOFEQUITYSHARE20042026.pdf"
+        },
+        {
+          "headline": "Acquisition",
+          "detail": "Godawari Power And Ispat limited has informed the Exchange about Acquisition/Investment in Godawari New Energy Private Limited, a wholly owned Subsidiary of the Company.",
+          "date": "2026-04-15",
+          "attachment": "https://nsearchives.nseindia.com/corporate/GPIL_15042026183433_GPILREG30ACQUISITION15042026.pdf"
+        },
+        {
+          "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "detail": "Godawari Power And Ispat limited has informed the Exchange about Television Interview with NDTV Profit",
+          "date": "2026-04-14",
+          "attachment": "https://nsearchives.nseindia.com/corporate/GPIL_14042026170312_GPILNSEBSENDTV14042026.pdf"
+        },
+        {
+          "headline": "Updates",
+          "detail": "Godawari Power And Ispat limited has informed the Exchange regarding 'Execution of Supply Agreement for Purchase of Key Battery Raw Materials that is Lithium Ferro Phosphate (LFP) Cells for manufacturing of First Phase of 20 GWH of Battery Energy Storage System, by Godawari New Energy Private Limited (GNEPL) a Wholly Owned Subsidiary of Godawari Power and Ispat Limited.'.",
+          "date": "2026-04-13",
+          "attachment": "https://nsearchives.nseindia.com/corporate/GPIL_13042026174837_GPILNSEBSEREG30SUPPLYAGREEMENT13042026.pdf"
+        }
+      ]
+    },
+    "TITAN": {
+      "nse": "TITAN",
+      "bse": "500114",
+      "name": "Titan Company",
+      "price": {
+        "status": "ok",
+        "close": 4513.0,
+        "day_change_pct": -0.29,
+        "week_change_pct": 0.85,
+        "volume": 1646815,
+        "as_of": "2026-04-20"
+      },
+      "news": [
+        {
+          "title": "Kalyan Jewellers, Titan shares fall up to 6% as Indian banks halt gold and silver imports - Moneycontrol.com",
+          "source": "Moneycontrol.com",
+          "source_url": "https://www.moneycontrol.com",
+          "tier": "B",
+          "published": "2026-04-17 11:51 IST",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNmMwQ1BlMEdSa1VOM0tLX09iQ21ONWoxSDQyNWd2RkcyYk9vaTVHTF9zY3U3X296cmhaaFRERnRFQk50bmNheDF6OGNwcndidlE1SGpGUjNlZDR4N0Z6WTZNTXRjRDg4WjJzTWkyU2hOOFVMS1k4OUUyWExPeHpJSVFtVkZ4Nk9tMUtQbjNoVU9sNW94QWdtcnlUNjFkOTJJNnhLY2dxT3FWclg3QnE0MThMdjBMUkxocVBoVXR2enFwLVBrSm1YZVVwSTVyeHMxTUl4YmVjZllMMjB5M3kzbkNud21CbUHSAewBQVVfeXFMUHMzdHMzRnc5NzJiMVpFcDRPQzZ1NFF3aVdmLXBRRzdUM1NUZ2tOUnpmRE1XWTJRZVJ4eEdmb2RuZHpuUXZPeFR2Y3NVWnFtd0ZXRnlOTDlnVER1MGY2V0h1djRadGRMNGpJcEZLM3ZSVzdVM2I1THgyVnJDVDZEYVF1bGh2RE5lMFRvM3lWQ0hCVWhISF9VdnFsaENMWXE1Z0gzWmFVTlUwVVJ4T1E2Qkc5clNCQjdvRklVQU1PTzJ3VkY1dmkyd05nWE1qajlrRW1URkR1NEd4bm93dWZsNUhtUFYxS1loVGpTUW8?oc=5"
+        },
+        {
+          "title": "Kalyan Jewellers, Titan, and other jewellery stocks tumble up to 6% while MMTC rallies 16%. Here's why - The Economic Times",
+          "source": "The Economic Times",
+          "source_url": "https://m.economictimes.com",
+          "tier": "B",
+          "published": "2026-04-17 13:05 IST",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZDdXWEhmSnROUnpUOFpVZ2Jhc0drMXdMSUh0RGRrYXZfQnRLSjJUSFQ5VzRSVTNNbDVQQzZOb2NNaFRHR3Rkcmg0STVtUFQ1Rnp5aWxmUXl6eGpqcE9OYlZvYUVsZ21ELS03WFJsX0xhODBXS2tkZ2ZKdDlEUnNueDRkM2JBZzB5dzFDdXVBck45bnlJeFl6SWdWdEkwTFJKMGkxN29xVm10NVZhTmw1ZFdrVGswR29xbFZ4UlJCSDlWUHRJbjVuNE0zeTJJVkppWWx0UV8ybFE0cVVBdTBzRks0QTh5dDJPRkx3b1J0S2dfUFR3VVBWU1JBLUxFZE3SAYQCQVVfeXFMT3F0dWdZVG41SnVDQU5iUEpYaVJ3eF9OZVZaeDcycEc5aWdqX2pMeHA4UmZzdk1YMFowXzZYN3JhMkY1eVlhM0R1cEw4RDFSQ1RVSGNmNDg5ZkN2ejJKWTZSN3ROaENHUFZzTVFzT1lPMjB2ekRTVjAxaTJVZzdHUDF0N3VaNENoNVBiZE5GbmlXMDQ5c1IybXd4S0haQnc4c0l1ZWh0VWoyRVZCVzlYVUtiWWJVeHFvOWNMNXRseUxIVGJndm5SbEZZRndIR1hELWlRT2I5MnVEYjB5SmhrODJEQ3IxVWsxNlBPWDVQbnM2Z1l6bjZKZkI0bXhyVW1EQ2dZTXQ?oc=5"
+        },
+        {
+          "title": "Titan hits new high, up 15% in Apr on strong Q4 update; mcap crosses ₹4 trn - Business Standard",
+          "source": "Business Standard",
+          "source_url": "https://www.business-standard.com",
+          "tier": "B",
+          "published": "2026-04-15 13:29 IST",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNGxRVEktU291aEFGOVlXZ1JZTTNpZDh0RkxnTlBBZlBGQXRkaXZCeE5na0xFeG9fOF9oQWJSdDZJdy14Sjd3WDhxTEFQQlpGa1lWczdBVVFUSzZXd2lGb05nUDEyeDFYdDRPNEEzeEd3Vm9yWkJvSHpKQlVIQzR6cG1rbWlWeUZWLXZONHN0b3JiUWFzR1k4TlY4RUFGd3lSMHVGQlBoMmlyb3BFalMtMW1HLTlSSnIyaW16bk5jdDdzNW1EUWMxUmdQX1hKSXdLMG54TzhUWkVpQ1RDZDZmNnhZZmNfSjjSAewBQVVfeXFMTVl3ZjAzWTBIQ3ZyOGRpMGFnT2lMckFTV21YR2VZbEhxa0QtVnYyYnRrQjVybTU5M0pOWWtWTV9pZGltblczUnJ5MjlNYXU4bXBsYkN1bFJ1OE1QMkwyWFZOWjlHUDVyeTQ4d096Ulk1X2xYTjYxZEFkb0liSkdzOHF6cWRTbmwyLVRUZy1qLWtjZ2t6ZERMNnZvQmZpWWx2Uzh3cXFXNXBEMlBocU5wZURRc01yTnlpdWhBZ3Aya3cxRUhNRWZOQy1yN1ZGVHdWT3hNNzgyTmYtNkNxaVN1V2J6aDZDYmlMQXR2V1E?oc=5"
+        },
+        {
+          "title": "The depth test: Titan dives deep to earn a place in serious horology - ET BrandEquity",
+          "source": "ET BrandEquity",
+          "source_url": "https://brandequity.economictimes.indiatimes.com",
+          "tier": "B",
+          "published": "2026-04-14 07:25 IST",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbkRzMTdaOWJ2UzE1WjZvTW9EUXhIbm10VjY1OHhTVVZNM1hkMF9Ma3hOXzlhampTOUxvTFRkQ0JZS3Y3UlZoRm1pY0dGQWZFbmcyak1nYUpZRXI3Qm5RYzRUenVmU29WWF9pTWhZZld3QmRYYUZEM2VNdWlrZllyaE9abFpCRkdPMng0Tkp2YXBNZzRqUkxKX2s4WVBWbTY3eFlra0RmeC0yMVQzdlFkZXU3cUpXU3ZoNHA2OWJaYlowSC1EQnQzOFRVWDRjMzRqZHZWTVlnSFjSAd4BQVVfeXFMT1JNVDF4TEFmZkl6SE12VzVxMkpVc0Rla3loSTUxYlZtRnV1QzFUSlVZXzVoQ09mTFFIVTlRVjdlYTUxUlZhWURVQ3ZHa2RIYlN6cWtwRVJFcW0wZDZOTWc1NE9HVzZFMk9pOXNuNnJzaTZPWEFqOUJHOHhuWFdDSUUtM0dDb0dDbWpvcmw1T0RwR2dZc2MyMjJmX2pqUTNrVHBTeHJ6ME5kYmkwMGJKSHpZcXluRlc0ZVpicTEtWjlGNlNYQ2Ztd2RVcGlHQXk3cWdCLXJHU0hYcVhIekR3?oc=5"
+        },
+        {
+          "title": "Bargain buys! Titan, Asian Paints, 8 largecap stocks that make ICICI Securities’ list. Do you own any? - The Economic Times",
+          "source": "The Economic Times",
+          "source_url": "https://m.economictimes.com",
+          "tier": "B",
+          "published": "2026-04-18 13:52 IST",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPU0o4RFI4V0xZSUxoUTBqTUNBbGJhN1FNcGFKckMzWmtTYmxZWEhHenhZOTBhbDlPX3RTRm1XMHlKUTRoSG5waDFQSGtrTFB5UVE4MGo0S0dYR3dGejEzQ3BIQzdSVUtpYjNTeWFsV1o0c0w4NmVLbnZISm5PV1VKNUdfTEVsajZKMTA1dE9tYXg3V2x4Tkl4d25GOWJ0YnZPOTVFY3QyQVhMbjI5eHFIbnJySm54QklNLWljWTh2TkNyZGpHSWtnY0Vpa3B1azE2WDRGMENfQml6UzhFbm1jMl84dFREWWh4eDhZRnNwYUJNaGtDTURtOGpxU0ZRdHdDbVNvRFhTenRmQQ?oc=5"
+        }
+      ],
+      "bse_filings": [
+        {
+          "headline": "Certificate under Regulation 74(5) of the SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended March 31, 2026",
+          "subject": "Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-13",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/367b5222-019c-41d4-9eb4-1fa0f9d8b085.pdf"
+        }
+      ],
+      "nse_filings": [
+        {
+          "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "detail": "Titan Company Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "date": "2026-04-13",
+          "attachment": "https://nsearchives.nseindia.com/corporate/TITAN_13042026142648_SERegulation745.pdf"
+        },
+        {
+          "headline": "Disclosure under SEBI Takeover Regulations",
+          "detail": "Tamilnadu Industrial Development Corporation Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
+          "date": "2026-04-13",
+          "attachment": "https://nsearchives.nseindia.com/corporate/team_sandeshc_09042026122906_MPL_4.pdf"
+        }
+      ]
+    },
+    "ICICIBANK": {
+      "nse": "ICICIBANK",
+      "bse": "532174",
+      "name": "ICICI Bank",
+      "price": {
+        "status": "ok",
+        "close": 1356.2,
+        "day_change_pct": 0.7,
+        "week_change_pct": 4.33,
+        "volume": 21551520,
+        "as_of": "2026-04-20"
+      },
+      "news": [
+        {
+          "title": "ICICI Bank earnings up 8.5% in Q4; announces ₹12 dividend - The Hindu",
+          "source": "The Hindu",
+          "source_url": "https://www.thehindu.com",
+          "tier": "B",
+          "published": "2026-04-18 20:11 IST",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa2dfMXo0VFFwa1A2VFg4TE9NbWt4N2kzV2NJcGt5bm5QdEV2aksxN3Y5MUo3T2hHbHJtQTJUX1Zha0tiRS1jcHlxbF9KVlB5c09kZVViWjZJLUNEWXRYR3BFemlGOHNJa3o3V3drMFJKTS01WDJUNHdzbS1nLWRJdUdfcTRxOXZicWhDOHRxaGt3N3cxZy1UWFZwM1dMa3drMnREdmRFYTZXZkHSAbIBQVVfeXFMTXpmNTZDNENwaE00VC11bThQR3hpTlR2Ui1qWTRHQW4tSlFPSnlMYWpkbkpRVGV6NVJBWmxtUUV1MHVjVXNrbl8xR2puSXhINm5wbnEwRkN0SWZ2ajNLYTRIMF92SlRjNFlqMGxSR0t4QWVOZjdibzdLbGJnNWczMXM2V2lyRDBxaDIyNG5XLXU4Q0oyTEhnSzRnSS10Yy1HTWpJSWtiTVZjQUtzQTBMQVIxZw?oc=5"
+        },
+        {
+          "title": "ICICI Bank shares climb over 2% post earnings announcement - BusinessLine",
+          "source": "BusinessLine",
+          "source_url": "https://www.thehindubusinessline.com",
+          "tier": "B",
+          "published": "2026-04-20 11:15 IST",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTTlZbG4xd25wd01rZTB1b01LX3I3bC1fVFBNTmhzQzI0M3Zqc0xmUUdCN1p0TUg3RGdhVHg2RzJmcWdfdFZUVldNX2xFMFFHbzBiTXI2dGhfX2Vxb3huSkp6czllTEx4ZkZLOTZ0TXBLWkgtWmEwaTVyRVc4NjVURGFBSWpUT1l4MVNjZmtmMExzbmJKTExVbTV5YnVaZmdLSG52d3Bud2p3VTNKX3VWbjJyQTdjWmQzd1VwWktFX01LbV9yb2lOdzQtTzRQT2gxZmfSAdgBQVVfeXFMUHZfOEtmaUluQWxoX091Si1PdkREd3ZmQXdoNWlFdndCMXBlT21vS05yS1FtTUl5SUhCdlhoQWRUZEdSR0lkckx1M1RTVXhoQUpvR0FxTGEwSmo3R2tFZ08wLU02bjdKUWZ6VVlESC1SWkNOZmtwemZMYktWRlFRekpaMUNjcy0yeW1FREZVbFV5VlNrLTRka0ZvTUpIclV2eTQxTTl2TXZvZGVZdVdEU1hyOGdBdVJHWndsZDAySmdxWkxDakJLWVFGQWZRUmE0cEpiNV9yemow?oc=5"
+        },
+        {
+          "title": "ICICI Bank Q4 net profit up 9% at ₹14,755 crore, provisions decline sharply - The Hindu",
+          "source": "The Hindu",
+          "source_url": "https://www.thehindu.com",
+          "tier": "B",
+          "published": "2026-04-18 16:43 IST",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPa3lkcmd2VG0xQmM3anQtX3lXSlZZT0hpM1VzMjE3TzJRZXRORk1fWUpsTnh4X3JaMmQ0bmlIaWZBenJsYjVqNWVxdEY3cUozZVlyZkEwcE0xS2d6VkhnSlpHdXNaN3M3U0pnUnVoM3NZSGVCaDI4amJ5aUlqMWo2Nm02SUp4RFhUUG82OEcxTWhDamxfRHVQM0ZfX19XbWdOSTBIdUtSOWZEMl9MYlBzX29hM0FqVEFaNkdTXzhROWZ0enNxeU8xQ2U3SUJ3U1nSAdYBQVVfeXFMTjFibjItcWpDdU1iem43S3dzM3JOYjBLdkw1R3YzczlZMHNlMVh4NWZoR1ZiZVdHOFNqOGMxOHlTVmVpTERWeEh2WTU4ZmUxS2Itb29XdERMc2RfWHJUemM4R05oV0xXMk9uTHJ1VlFBSGtVd3AxYXctVTB6TVdtRmwybTBncmZEdXQxNjk1c0JNdTl3YWpPZ0NvRkhkVW01ZHJ0U1gyUmNjRFctalZhRzVvSE5HUm50VnNxQ0dWRWh4R1VhcHMzUjZOaVFqenBRam1YR0lfQQ?oc=5"
+        },
+        {
+          "title": "ICICI Bank reports 8.5% rise in Q4 net profit amid lower provisions - BusinessLine",
+          "source": "BusinessLine",
+          "source_url": "https://www.thehindubusinessline.com",
+          "tier": "B",
+          "published": "2026-04-18 15:40 IST",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQnVuMW9PbU51NE5YV1JIOGxXLVlFTDc2S3IzTHNaNXNBUUZlUDV1MkF5N1pneVJaTHd4Wnp6dFhsa3QyUmFUWWtqcXk2U0hIc0VfaHpfMnYwRmltdDR1S0NWbG5JLUhPY25qRDQwN1dWN1dVVG1Ma25SUkVfQzN5QTJpUXp2VDJqZ2JnU2loN2M5SlZobkp5c1VCSHlvU004TXJ2QVVLc9IBrgFBVV95cUxPMjA0TzNmTnNKeFNsRU5BQTk2Nl9PZEFCT1hZMmdMOHFRY19nWVQ2RzhROEFValZFQkt1d1pQYlBwRkpCeVlkTDdGNnhmR0pKZkpFbnZidnZzYnBiT0tBMlFXaHpaNTU0UnZjZWJublhETzB6S1lxNklTeUl2Q0tmakppbGVPYzhZQlVtZEdvRF9xYTAyN0RCYXhuN3NfYWFfR1dTQjY0RXY2QWVIa2c?oc=5"
+        },
+        {
+          "title": "Fall in provisions help ICICI Bank's net profit in Q4 FY26 - The Economic Times",
+          "source": "The Economic Times",
+          "source_url": "https://m.economictimes.com",
+          "tier": "B",
+          "published": "2026-04-18 17:53 IST",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaVlwdi1tWUZxd2VsSGd3N0h6ZWd4WGlUMHk0QTlGc1BDdk0zUlp2THhZMnRvYzRZN0ZSLVJtXzBhcDRwaVE3MFh3TGJBSVBrZHRYSmlrMHBaT3ozdUJjenpZNW5oRUlBM2tUdlpKd1RIYnU0Y2w0TFJibEo5YTRmYW1FZVVUVjB0ZGhRRHFfNGlUWVVRQWl2ZVVSUnMyeXJoam5kNU44eEVveGVQNG9iTXdCcTFlQklqUWM2V2U4bFBzc2NoVHNQWVpGRXVpYklO0gHWAUFVX3lxTFBXbzdZOVJBNWFnZ1RLcFlUMlJPcDdQSkVCQjZBXy1LVGQwYUhYdTV6MERrU0tmZzVVa3p3SFJyZ1BfcEY0QlR1OHltXzBjUENNSnJIQVhua2l6OGdsamNhTElVcGthbzFQVW9obllndFhpZ1ZXR3pZQ1NvWFlMY1h2MjNqdG4yR1dqaG9fN2tWb04yOUJkZm0xM3pGYTM5QnRaOFItMUFmd25PMXV6UW9GVUVsa0s3OHpCQUt2d19VS3hjenM4ejg3ZFdvOWRPWFFaajBmeWc?oc=5"
+        },
+        {
+          "title": "ICICI Bank Q4 results preview: Profit may stay flat, margins under pressure - Business Standard",
+          "source": "Business Standard",
+          "source_url": "https://www.business-standard.com",
+          "tier": "B",
+          "published": "2026-04-16 10:30 IST",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSURWMkVmczh6NlNBVjFrQ0M0ajV1NlRDY0doYkhCb1hnU3JRU09BU3lucVJqSW1MZmNkc0oxTDNrT0t0QVhMQmNTQzZaZ2lwRjN4OFlBakVKLXhadWVRblZoMk5WQWdFdEItMGtfbk1yTklsYlZ6R1BwNC1PZXRYcXFFUGstc0FYS1IyQTJCZUs1d2Q0TlhFZXJ3YnRIbDlzLVI4NWphSlBXLVBHb283ODdONmY3bUs5c20yM3JBYlNGNTlpLTh1Y2luTURiZGZsbEJ0TjlZYVHSAd4BQVVfeXFMTVJ1TkNIQXBSRHg0Q1BVdXpBa3lCbjJSTVplRm9FampLVm81THB3UldBcHdCZFphTkRKWDNvaUl5ZHd3dkloVWJVdVZkWkp4Z1ZIc092OXI5UWVIRlVKUEFncll0QUhVRFRiVHBnMWZaYy00SGJFRUVjUFUwWHdBVlFoSzUtYzBpN1FFdk5SZnBoSmNwV0JzRkE5VmFoQzM3blVZaHYyZDFwZG5Ed1M5blZXcXhpeUJScXhaNGRGSS1SSTN4YWp4S2hKUm5LUEl6ZWRrcXM4U01IVjJsb1Z3?oc=5"
+        },
+        {
+          "title": "ICICI Bank stock gains after Q4 profit beats Street, brokerages bullish on strong growth and low credit... - Moneycontrol.com",
+          "source": "Moneycontrol.com",
+          "source_url": "https://www.moneycontrol.com",
+          "tier": "B",
+          "published": "2026-04-20 09:32 IST",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQYTVlR2c5c1pwMXFSMXlvMnlpLWpoYThIT0NUNjI3WHI3bXJmbXBMdExJSV9UZEp2M3lwaFUzSGdTQS1tWTNGcG8wWC1TLXJTWkpoNnVPWlhwOXdKUU1RYVFrNzVEZDlnZmlXV01uVkkzQmctdDE0VHZWWGJTQ1Qta09DWUpMTzBTOUdoNUVsakgxQmlEWDMwd3N2S2RtSDBDMWwxc0RLNHpvaENGcFRndEJNWkE5cV8xUVdCWmt1WHNUV29NQVZtMmVyNE84Y1JUeE9vMnA0R0tBUGtBb1F0M1NQOVhjOHVwTm5EMWVlVzd6cG03c1U5R1R2a0JVbXRzSFHSAYcCQVVfeXFMTktYRzdCU0N1TzdqLV9Xb2hURDV1RVgxM1B5ZWVvWnQ3N2pSb3BZRW9WNmhVU3lQTlBjZXVmbDFMeE9JZml3UnNBNkhOdzNUYW51c2pqdGttTzB4WXV5cC1tVU9TMmE3Z19rVEo1NzVweFdiRGI3UU82eVh1YzNPendCRURuWkY2ZVNoQ0RhYXFoLURqbmp6N0hSUnpOcUdaY3ozVllyTV9sem9TcmRoWmU2VU1mSlhxUmYzTTl1RENQeDJzSUZvaDJpVVFiRXRuc2lDbDMxdGZHa1Y3RTdUMUhJc0M1aktFLVBvaVpZZlY0S3QyaGhLcXdYVklOWFlGQVBSLXlxZ3M?oc=5"
+        }
+      ],
+      "bse_filings": [
+        {
+          "headline": "Audio recordings of the Call with Media and Earnings call with analysts and investors",
+          "subject": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-18",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/e443fb63-79c0-4875-8088-f7413a62271e.pdf"
+        },
+        {
+          "headline": "Please find attached the investor presentation which will be referred during the earnings call with analysts and investors for the financial results of the Bank for the quarter and financial year ended March 31, 2026.",
+          "subject": "Announcement under Regulation 30 (LODR)-Investor Presentation",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-18",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/245b872b-cdb6-4c0d-b8ae-1c9d3d3ee9af.pdf"
+        },
+        {
+          "headline": "The Bank at its meeting held today, recommended a dividend of Rs. 12/- per equity share.",
+          "subject": "Announcement under Regulation 30 (LODR)-Dividend Updates",
+          "category": " Corp Action",
+          "sub_category": "",
+          "date": "2026-04-18",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/61585fed-0182-4473-9cdc-7e5e13863426.pdf"
+        },
+        {
+          "headline": "Outcome of the Board Meeting held on April 18, 2026",
+          "subject": "Board Meeting Outcome for Outcome Of The Board Meeting Held On April 18, 2026",
+          "category": "Board Meeting",
+          "sub_category": "",
+          "date": "2026-04-18",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/ff135dfc-8474-4a53-b473-2daca04b62c4.pdf"
+        },
+        {
+          "headline": "Audited financial results of the Bank (standalone and consolidated) for the quarter and year ended March 31, 2026.",
+          "subject": "Audited Financial Results Of The Bank (Standalone And Consolidated) For The Quarter And Year Ended March 31, 2026.",
+          "category": "Result",
+          "sub_category": "",
+          "date": "2026-04-18",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/78831497-e663-4d85-b1e0-9d8958755723.pdf"
+        },
+        {
+          "headline": "Allotment of 3,001,435 equity shares at FV Rs 2 each under ICICI Bank employees Stock Option Scheme 2000.",
+          "subject": "Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-17",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/105b283a-b103-4f13-83c6-d32d9cba06cc.pdf"
+        },
+        {
+          "headline": "The Bank will host an earnings call with analysts and investor at 5:00 p.m. (IST) on April 18, 2026 to discuss the financial results of the Bank for the quarter and financial year ended March 31, 2026.",
+          "subject": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-13",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/856a6273-a181-4b10-bf98-a465e6322f86.pdf"
+        },
+        {
+          "headline": "The Bank will host a conference call with media at 4:00 p.m. (IST) on April 18, 2026, to discuss the financial results of the Bank for quarter and financial year ended March 31, 2026.",
+          "subject": "Call With Media On Financial Results For The Quarter And Financial Year Ended March 31, 2026",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-13",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/a0cc3417-2329-43de-a49e-49a01bef74ef.pdf"
+        },
+        {
+          "headline": "This is with reference to our earlier letter dated on March 18, 2026. We wish to inform you that the Board of the Bank at its meeting scheduled on April 18, 2026 will also consider, inter-alia,  the \"fund raising by way of issuance of debt securities including by way of non-convertible debentures in the domestic markets by way of private placement and issuance of bonds/notes/offshore certificate of deposits in overseas markets; and buyback of debt ....",
+          "subject": "Board Meeting Update",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-13",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/90595146-8547-4f99-8f2e-dcde20eaafa9.pdf"
+        }
+      ],
+      "nse_filings": [
+        {
+          "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "detail": "ICICI Bank Limited has informed the Exchange about link of audio recording of the call with media and of earnings call with analysts and investors on the financial results for quarter and financial year ended March 31, 2026",
+          "date": "2026-04-18",
+          "attachment": "https://nsearchives.nseindia.com/corporate/ICICI2022_18042026215028_NSEBSE.pdf"
+        },
+        {
+          "headline": "Investor Presentation",
+          "detail": "ICICI Bank Limited has informed the Exchange about Investor Presentation",
+          "date": "2026-04-18",
+          "attachment": "https://nsearchives.nseindia.com/corporate/ICICI2022_18042026163627_NSEBSE_18042026.pdf"
+        },
+        {
+          "headline": "Outcome of Board Meeting",
+          "detail": "ICICI Bank Limited has informed the Exchange regarding Outcome of Board Meeting held on April 18, 2026.",
+          "date": "2026-04-18",
+          "attachment": "https://nsearchives.nseindia.com/corporate/ICICI2022_18042026151613_NSEBSE_18042026.pdf"
+        },
+        {
+          "headline": "Dividend",
+          "detail": "ICICI Bank Limited has informed the Exchange that Board of Directors at its meeting held on April 18, 2026, recommended a Dividend of Rs. 12/- (Rupees Twelve only) per equity share of face value Rs. 2/- each, subject to requisite approvals. The dividend on equity shares will be paid after same is approved by the Members at the ensuing Annual General Meeting of the Bank.",
+          "date": "2026-04-18",
+          "attachment": "https://nsearchives.nseindia.com/corporate/ICICI2022_18042026150959_NSEBSE_18042026.pdf"
+        },
+        {
+          "headline": "Outcome of Board Meeting",
+          "detail": "ICICI Bank Limited has submitted to the Exchange, the audited financial results (standalone and consolidated) for the quarter and year ended March 31, 2026.",
+          "date": "2026-04-18",
+          "attachment": "https://nsearchives.nseindia.com/corporate/ICICI2022_18042026145407_NSEBSE_18042026.pdf"
+        },
+        {
+          "headline": "ESOP/ESOS/ESPS",
+          "detail": "ICICI Bank Limited has informed the Exchange regarding Allotment of 3001435  Shares.",
+          "date": "2026-04-17",
+          "attachment": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_17042026121419_Lettertoexchange.pdf"
+        },
+        {
+          "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "detail": "ICICI Bank Limited has informed the Exchange about Earnings call on financial results for the quarter and financial year ended March 31, 2026.",
+          "date": "2026-04-13",
+          "attachment": "https://nsearchives.nseindia.com/corporate/ICICI2022_13042026190823_BSENSE_13042026.pdf"
+        },
+        {
+          "headline": "General Updates",
+          "detail": "ICICI Bank Limited has informed the Exchange about about Call with media on financial results for the quarter and financial year ended March 31, 2026",
+          "date": "2026-04-13",
+          "attachment": "https://nsearchives.nseindia.com/corporate/ICICI2022_13042026190428_BSENSE_13042026.pdf"
+        }
+      ]
+    },
+    "HDFCBANK": {
+      "nse": "HDFCBANK",
+      "bse": "500180",
+      "name": "HDFC Bank",
+      "price": {
+        "status": "ok",
+        "close": 795.45,
+        "day_change_pct": -0.56,
+        "week_change_pct": -2.4,
+        "volume": 52148044,
+        "as_of": "2026-04-20"
+      },
+      "news": [
+        {
+          "title": "HDFC Bank Q4 results: Net profit rises 9% to Rs 19,221 crore, declares Rs 13 final dividend - Moneycontrol.com",
+          "source": "Moneycontrol.com",
+          "source_url": "https://www.moneycontrol.com",
+          "tier": "B",
+          "published": "2026-04-18 14:55 IST",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNV09mR18wR1JMbUo0V0JNRG90QnE1WTcwV3g3OWtHWENiSVVSczBTeGRnbnRaUzJrUGhwSGY3SE54bURPdS0wY3AzTnJIekpYZDYtQ04tU21YNkExZHh6amlSOU5NRDYxNUFSTXNrVTFrd0dOQjJqQ1EtcThNVzdXY0NaYWFmYXV0WUxSdXo2N2tIQVVLSUtweXowaTZxN1FSWkVRRTZkaUtsRmZxS05Ud05SVUVJNzFjTncxTmtfcVFLZ0hTZ0RVZTN1MlY4NVF5OUZRWnJFYlZqaHk2YVJpQ3B2ek9KcmUtTld3RXBuVFVxOEJEeWg3S05RS2JoLUnSAYQCQVVfeXFMT010NUN3Y3RPT2ZiNU9mNTFPZDRWaVVwYWZ1ekY3Y2daaEpiRnNMd2V1ZlNXbGNoeEl6cjNRMjZlNU4yV29xWEFycElRR0kzZUdhbHUxc3UzNUZLdEU1cGNDdlpNSkZBRzBZV244LU5MNkx6c2FkTlFKTGhrUzZ3czEyYW12Zk1aOThERkFRVHRtWEkzOVRnbXh0NGdtRnhRR3QxQUtnZHBLQy1MYTZFRFdLYzFpQ1RxRktDazRyZURPbWtwRGpmVS0yd0lNNGx1YWQ5bldGbWQ0Y0FhOUNTLVA3NlVaWnVxZFp6WjJ0WnY0ejhtekpUYlI5S2t6Tk5PN2ljRHQ?oc=5"
+        },
+        {
+          "title": "HDFC Bank Q4 net profit rises 8% to ₹20,351 crore - The Hindu",
+          "source": "The Hindu",
+          "source_url": "https://www.thehindu.com",
+          "tier": "B",
+          "published": "2026-04-18 16:40 IST",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa0hMUGE5T0xVRmNSdE5DcHVpaVZwZnJkZUZrd1ROTWI4blh6eS1GdFpXWmNmcXNFSGtiUVl6RG5Nc1VmdUVsUzI1cUtlWWd2eVdnTXZXZ2ZRNUVfUmhhbTE4dGo3X1VCZlQ4N25PSjV4WEVpdzhnNW9IQ08wY0NtMUNBeVRQNDBEckwzQVRnOU95Vi1uLXdGZzh4d1ZYM2ozSGtJVURJVGdjWkhmYXfSAbQBQVVfeXFMT21kV0c3R0NvNHczN2paZlI1RFI5X2ZCUkRSZWdOSWZGWHo0TmJfSEpRdjJLaFBaTWUwUFRpZFMyRVBDZ0pqeHEydUtBamxRRGtsendRZm9DeDFISmpkdVdMWVdGa0drbFpRZVJHd0lhckpwVzZoYXVqcy1zV1lBWWt5NDVWUi1mSFotSTJTZFRvYXJYUGpsMDNSNGdTdDFVZHRlT0ZSOGpMQnZCanROc01aYXJ5?oc=5"
+        },
+        {
+          "title": "India's HDFC Bank beats profit estimates on strong loan growth - Reuters",
+          "source": "Reuters",
+          "source_url": "https://www.reuters.com",
+          "tier": "B",
+          "published": "2026-04-18 19:26 IST",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWTZtQkdCYnZseC0tZWFZRFhzMTl2d2x2UlJtMWRlQmFsQVVTZzlZMTlXWDlsbnZIUVo1cmROQVZ2RjFEcDhrYzdDdDlnaGIzSndudjNkZ0VScDNKMUh3bjZ6Ni14dkNlMjVFSHBjN3hkQzhkSmw3NmsyeER5X3VjQW1xbnAtckRMcUJWdlAtQ0Q2T3R0NHRLRm9wYVFPUmd0cFQ4S0I2Y2xKZw?oc=5"
+        },
+        {
+          "title": "India’s HDFC Bank Beats Estimates as Loan Growth Stays Strong - Bloomberg.com",
+          "source": "Bloomberg.com",
+          "source_url": "https://www.bloomberg.com",
+          "tier": "B",
+          "published": "2026-04-18 19:09 IST",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdl82eFhudkRoWHdGLVA3YXdUQWlaWkwwSEdlOVA5NjBHOTB4SGhEa3Z6Q3d4UUlBTzZIMHlDbDg5N05xdFNQcHlreURKMTIzR09jZEF5X1U2V0V5cEo3RVAzaWhYQXVVcU5uU1U3c1h4S2hsR0dtZV9EZktZRzc3czUzSXNHT05EWUFLR0ZlV013RnNVLUlmYUVqVXcyLUFzY2hnS1ZXaVN6NGVMdElhUlVB?oc=5"
+        }
+      ],
+      "bse_filings": [
+        {
+          "headline": "Copy of newspaper publication",
+          "subject": "Announcement under Regulation 30 (LODR)-Newspaper Publication",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-20",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/7d42212e-1840-4756-90b3-96fa36b8db1c.pdf"
+        },
+        {
+          "headline": "Notice of Postal Ballot",
+          "subject": "Shareholder Meeting / Postal Ballot-Notice of Postal Ballot",
+          "category": "AGM/EGM",
+          "sub_category": "",
+          "date": "2026-04-20",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/c6af8652-0457-4cee-8fa5-02aea09df011.pdf"
+        },
+        {
+          "headline": "Audio Recording of Earnings Call in relation to the audited standalone and consolidated financial results of the HDFC Bank Limited ('the Bank') for the quarter and year ended March 31, 2026",
+          "subject": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-18",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/f13455a0-d89e-4e04-b46f-fe5abf0272bb.pdf"
+        },
+        {
+          "headline": "Retirement of Mr. Bhavesh Zaveri",
+          "subject": "Announcement under Regulation 30 (LODR)-Retirement",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-18",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/2cf2bc40-5a4c-4d22-bc8b-f414dd54a2ae.pdf"
+        },
+        {
+          "headline": "Presentation to be made at the Earnings Call",
+          "subject": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-18",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/e5717092-247c-4808-b98b-407a36d926c4.pdf"
+        },
+        {
+          "headline": "Financial Results including the audited standalone and consolidated financial results of the Bank for the quarter and year ended March 31, 2026",
+          "subject": "Financial Results Including The Audited Standalone And Consolidated Financial Results Of The Bank For The\r\nQuarter And Year Ended March 31, 2026",
+          "category": "Result",
+          "sub_category": "",
+          "date": "2026-04-18",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/ea66a60f-a54e-4aac-bbcc-789303bf74cc.pdf"
+        },
+        {
+          "headline": "The Board has recommended a final dividend of Rs. 13 per equity share of Rs. 1 each for the year ended March 31, 2026 subject to approval of the shareholders at the forthcoming annual general meeting",
+          "subject": "Corporate Action-Board approves Dividend",
+          "category": "Corp. Action",
+          "sub_category": "",
+          "date": "2026-04-18",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/c1a1b295-4c19-4250-b509-8f906ff81a67.pdf"
+        },
+        {
+          "headline": "Outcome of the Board Meeting held on April 18, 2026",
+          "subject": "Board Meeting Outcome for Outcome Of The Board Meeting Held On April 18, 2026",
+          "category": "Board Meeting",
+          "sub_category": "",
+          "date": "2026-04-18",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/ed386d4f-c9bf-46a8-9148-956265c347e8.pdf"
+        },
+        {
+          "headline": "Investment in the equity shares of HDFC Life Insurance Company Limited",
+          "subject": "Investment In The Equity Shares Of HDFC Life Insurance Company Limited",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-16",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/2563419d-3203-47f0-9a13-ae94e6f5ad9c.pdf"
+        },
+        {
+          "headline": "Certificate under Regulation 74(5) of the SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended March 31, 2026",
+          "subject": "Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-16",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/1e60a870-f035-4b8d-8252-43af790d0f13.pdf"
+        },
+        {
+          "headline": "Update on the Earnings call in relation to the audited standalone and consolidated financial results of HDFC Bank Limited for the quarter and year ended March 31, 2026",
+          "subject": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-14",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/2b836718-1cd0-4eb5-a92e-d010dde5e987.pdf"
+        },
+        {
+          "headline": "Earnings call in relation to the audited standalone and consolidated financial results of HDFC Bank Limited for the quarter and year ended March 31, 2026",
+          "subject": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-13",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/c569cf19-72cb-495e-8ada-cae2d42743bf.pdf"
+        }
+      ],
+      "nse_filings": [
+        {
+          "headline": "Copy of Newspaper Publication",
+          "detail": "HDFC Bank Limited has informed the Exchange about Copy of Newspaper Publication",
+          "date": "2026-04-20",
+          "attachment": "https://nsearchives.nseindia.com/corporate/HDFCBANK_20042026125129_SE_-_Newpaper_adv_Saksham_Niveshak_20042026_combine.pdf"
+        },
+        {
+          "headline": "Shareholders meeting",
+          "detail": "HDFC Bank Limited has informed the Exchange regarding Notice of Postal Ballot",
+          "date": "2026-04-20",
+          "attachment": "https://nsearchives.nseindia.com/corporate/HDFCBANK_20042026114906_SE_Intimation-_Postal_Ballot_Notice-_Apr2026.pdf"
+        },
+        {
+          "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "detail": "HDFC Bank Limited has informed the Exchange about Link of Recording",
+          "date": "2026-04-18",
+          "attachment": "https://nsearchives.nseindia.com/corporate/HDFCBANK_18042026222238_SEintimation-RECORDING-18April-_2026.pdf"
+        },
+        {
+          "headline": "Retirement",
+          "detail": "HDFC Bank Limited has informed the Exchange about Retirement of Mr. Bhavesh Zaveri",
+          "date": "2026-04-18",
+          "attachment": "https://nsearchives.nseindia.com/corporate/HDFCBANK_18042026194551_Outcome_of_BM-18APRIL2026BZ.pdf"
+        },
+        {
+          "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "detail": "HDFC Bank Limited has informed the Exchange about Presentation",
+          "date": "2026-04-18",
+          "attachment": "https://nsearchives.nseindia.com/corporate/HDFCBANK_18042026153755_SE_Intimation_earningcall_presentation.pdf"
+        },
+        {
+          "headline": "Outcome of Board Meeting",
+          "detail": "HDFC Bank Limited has informed the Exchange regarding Outcome of Board Meeting held on April 18, 2026.",
+          "date": "2026-04-18",
+          "attachment": "https://nsearchives.nseindia.com/corporate/HDFCBANK_18042026150823_SEResultOutcome18042026.pdf"
+        },
+        {
+          "headline": "Dividend",
+          "detail": "HDFC Bank Limited has informed the Exchange that Board of Directors at its meeting held on April 18, 2026, recommended Final Dividend of Rs. 13 per equity share.",
+          "date": "2026-04-18",
+          "attachment": "https://nsearchives.nseindia.com/corporate/HDFCBANK_18042026145701_SEResultOutcome18042026.pdf"
+        },
+        {
+          "headline": "Record Date",
+          "detail": "HDFC Bank Limited has informed the Exchange that Record date for the purpose of Dividend  is 19-Jun-2026.",
+          "date": "2026-04-18",
+          "attachment": "https://nsearchives.nseindia.com/corporate/HDFCBANK_18042026145049_SEResultOutcome18042026.pdf"
+        },
+        {
+          "headline": "Outcome of Board Meeting",
+          "detail": "HDFC Bank Limited has submitted to the Exchange, the financial results for the period ended March 31, 2026.",
+          "date": "2026-04-18",
+          "attachment": "https://nsearchives.nseindia.com/corporate/HDFCBANK_18042026144226_SEResultOutcome18042026.pdf"
+        },
+        {
+          "headline": "Updates",
+          "detail": "HDFC Bank Limited has informed the Exchange regarding 'Investment in the equity shares of HDFC Life Insurance Company Limited'.",
+          "date": "2026-04-16",
+          "attachment": "https://nsearchives.nseindia.com/corporate/HDFCBANK_16042026163558_Outcome_of_BM-16APRIL2026_-_HDFC_Life.pdf"
+        },
+        {
+          "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "detail": "HDFC Bank Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "date": "2026-04-16",
+          "attachment": "https://nsearchives.nseindia.com/corporate/HDFCBANK_16042026153155_CERT_REG_74_5_31032026_FINAL.pdf"
+        },
+        {
+          "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "detail": "HDFC Bank Limited has informed the Exchange about Schedule of meet",
+          "date": "2026-04-14",
+          "attachment": "https://nsearchives.nseindia.com/corporate/HDFCBANK_14042026152654_Earning_call_intimation_Update.pdf"
+        },
+        {
+          "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "detail": "HDFC Bank Limited has informed the Exchange about Schedule of meet",
+          "date": "2026-04-13",
+          "attachment": "https://nsearchives.nseindia.com/corporate/HDFCBANK_13042026171746_Earning_call_intimation.pdf"
+        }
+      ]
+    },
+    "MUTHOOTFIN": {
+      "nse": "MUTHOOTFIN",
+      "bse": "533398",
+      "name": "Muthoot Finance",
+      "price": {
+        "status": "ok",
+        "close": 3531.2,
+        "day_change_pct": -1.12,
+        "week_change_pct": 2.03,
+        "volume": 428767,
+        "as_of": "2026-04-20"
+      },
+      "news": [
+        {
+          "title": "Muthoot Finance Q4 Results 2026 - Find Muthoot Finance Q4 Earnings Result | MUTHOOTFIN Q4 results - Mint",
+          "source": "Mint",
+          "source_url": "https://www.livemint.com",
+          "tier": "B",
+          "published": "2026-04-17 12:30 IST",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONmppdVpVUzBjTGp1TUpqeXBDZ21VWU1hdVF1QzU2VEtkMXlBZVJyazVzNVFvOFpsdG1jOTZRR2sxMGpQcHBUQ0d0M2J0NUhrUTkxNmVMekZudm52Tkl5U0FheEt5UGtyT3VKaVBNNF9ZWFItaV9NR2NZT3VEc0JvVE8wbGllb3c?oc=5"
+        },
+        {
+          "title": "Muthoot Finance plans entry into insurance distribution business - CNBC TV18",
+          "source": "CNBC TV18",
+          "source_url": "https://www.cnbctv18.com",
+          "tier": "B",
+          "published": "2026-04-15 11:58 IST",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUk5PTFZWOXFteExWbVR6aHgxRlRjdTRXUmdKcmhGNFduZzgzdGQ4WjVVV3NuY25hTHB3cTBKeDVVZUVBQTNxcUVVY3Q2WVhCVWJnLVlhLUtwMkswV1l5MnAxemR0WEw2czM3SUFVSVZFNlNxSW9VNm95VG1FN1NrNnZpYmpQRWVkdUpUUXpfYVpLQjFaZ0xkLU9kY2h4TXZtaGVXaGVRWWNqZ0p3UUk0VnZKNmlfNzdRT0pnVEZXR29RZDDSAcgBQVVfeXFMUFFyQTNBQXhiRVdOa3M0RmZNMFBhRWdwdEFXd3FLSTB1RnRabTRsZzZrSExaUlBUQ0RpUlVXZ2traGNBdTRpcVppTm0wOVJ4RXNPUEZfOTV4N3hKaU11UmZFdFZiQThid1BfaWdMV1BaQ1NNa1VDU3hodVJuOWpGeXIzVm1iUi1qZ0FjT3lwUTh0S1h0LVBZaHVzSGFfVXZPcF9fbkpNLU8wMlJkZFpvRnlvQzFNZUF4NEktME5NNEtpT0NjWmJQTmU?oc=5"
+        },
+        {
+          "title": "Muthoot Finance seeks shareholder nod for entry into insurance distribution biz - The Economic Times",
+          "source": "The Economic Times",
+          "source_url": "https://m.economictimes.com",
+          "tier": "B",
+          "published": "2026-04-15 14:26 IST",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSDhEU0ZZcFdBUGE2ZkNEeUJ3d2hRRWNzZ2s3ZTRBeVEtcXVsWEpNWHVHejdBYThwS1cxVDNjSy03RDlhclo5VGplMlVienl2RTdiMWc1U0VaWmY4SHh6QV9pMTNTeWtsWldCWmppTjQ5UWs5V3cwdjBNWnVfNHdkMmItSmF6VVBuZW9YdmVRYzlUbXBrR2MwUHA4Y0RsaF8wQ1pPZFRxbjR3Mm1CV0J5RkpXWmRPQWpBT0NKQjB0WGNqdTdUSVM2WGtmQWQzbC01Q3ljT2t6VHp0UnNCUk8yNXRvUm1OdmgzQzJOYzNIZEpjVE4tNXRJQdIB_gFBVV95cUxPTUVNYTRVeVJYSWhHUnJwU29mRXV6WDBrRHBZQUlTZnV1WXM3WWlLTzVLVkZRRzdXai12YjFTeU9IS2VrN1c1UkRpS1NUQ1hES1FlczlTb0lBRjcwaUVHX1pWelBOVjBrYkNBYmxHSzY1R3NJeXEtUXd1dFFoaW5RM1RvWXc5ZW1IcXFyRTZNeElxeXppNUJjOWRtb18wRmdZOUVGS1I4V1lnOGN4YzhTdVo4OVllOGEwNEJVQlpvdXA5bUlTVnhYakVDWDhES1pmQzRMUTRjNTNIc1dXLW8yNXZUdkVOdkZnemVHcU9DVzhvbF9CUDJpbzlGenE4QQ?oc=5"
+        },
+        {
+          "title": "Muthoot Finance to enter insurance market; Seeks shareholder nod as board approves proposal - financialexpress.com",
+          "source": "financialexpress.com",
+          "source_url": "https://www.financialexpress.com",
+          "tier": "B",
+          "published": "2026-04-15 16:51 IST",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRUtOVjRlMzIxa0VNem9VOEl5WlY1T3hLblItOWNWb3d3ZU5OallMQ281c2x3Smh1SXhKanRISjNGdUo3RXBONjRHcm5yQmxCMlJGYXlidlNSNGx0UGtZZ1VZSFRxZ2NBdVdaTHRlX2pyNjZNMDlsQVpDTjBmVUpMUGNFbGVrUkVKR051ZklaelppakZQTEI1dnBmUlpITVBscXdqdHJiYnhBejVZRTc2Zk9qeTJKaGhmcVN5eGVVbm1kdk1PWjRHclh6eEVPc0U4RzNOQUg1bmhCTlhPdm93dzJBMWdhS0g1dHfSAfABQVVfeXFMTTBFNlkyczJCcGhwTHNDVGh4ZDQ5c1lmckNwLUhlUnpDeG95NTM2V3ZJaHlLaE1qbW5seHZ5UDdHa3pOU1FKNWc3U19YWVlENDAtaldhQndlR3BTNmdsaFVGVDNoSVUzRE9mLXBaSjNfdnh1U29vczRXZzV4V05ud1VIVk5fT0FSbnhIOXNOMzA0dXplM3g2dXJCdUZiLURybFJmVWo2SExMb0VPWFpHT0hqZEhvY3l1SVpPeVA4NGhuY3htWVVmUF9ubFR3MHp4eDBTREh2a244V2l2U2c0Y2d3QW9raWhMd2dBNjFtSXdN?oc=5"
+        }
+      ],
+      "bse_filings": [
+        {
+          "headline": "Newspaper Publication",
+          "subject": "Announcement under Regulation 30 (LODR)-Newspaper Publication",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-17",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/02af82de-4af7-46e9-8a0b-83fdc4c05a6b.pdf"
+        },
+        {
+          "headline": "Notice of Postal Ballot",
+          "subject": "Shareholder Meeting / Postal Ballot-Notice of Postal Ballot",
+          "category": "AGM/EGM",
+          "sub_category": "",
+          "date": "2026-04-15",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/b50de736-1364-4f37-b5ed-efc1ae57edc5.pdf"
+        },
+        {
+          "headline": "Certificate under Reg 74(5)",
+          "subject": "Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-13",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/e6d38aaa-9159-443a-bd11-85cf04d0417f.pdf"
+        }
+      ],
+      "nse_filings": [
+        {
+          "headline": "Copy of Newspaper Publication",
+          "detail": "Muthoot Finance Limited has informed the Exchange about Copy of Newspaper Publication",
+          "date": "2026-04-17",
+          "attachment": "https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_17042026160752_Postal_Ballot_Newspaper_Final_sd.pdf"
+        },
+        {
+          "headline": "Shareholders meeting",
+          "detail": "Muthoot Finance Limited has informed the Exchange regarding Notice of Postal Ballot",
+          "date": "2026-04-15",
+          "attachment": "https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_15042026115354_Reg_30_Postal_Ballot_Notice-combinedSd.pdf"
+        },
+        {
+          "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "detail": "Muthoot Finance Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "date": "2026-04-13",
+          "attachment": "https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_13042026104238_74_5__sd.pdf"
+        }
+      ]
+    },
+    "JMFINANCIL": {
+      "nse": "JMFINANCIL",
+      "bse": "523405",
+      "name": "JM Financial",
+      "price": {
+        "status": "ok",
+        "close": 133.31,
+        "day_change_pct": -2.97,
+        "week_change_pct": 3.35,
+        "volume": 2633492,
+        "as_of": "2026-04-20"
+      },
+      "news": [
+        {
+          "title": "JM Financial PE leads ₹150 cr investment in contract manufacturing platform NG Electro Products - BusinessLine",
+          "source": "BusinessLine",
+          "source_url": "https://www.thehindubusinessline.com",
+          "tier": "B",
+          "published": "2026-04-16 19:42 IST",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOT2ZFd2drR2ExNFlyU19GTkFaY184MXF5YVlpY1d4RlZqejJtaC1taEpza09pY0xxTHFoamlpOGpTTEJUOEM1VHhpUl95RGxJWm5PODZ5OUxpcy1CcXNBblQxcnRFazhfcy1ucUExYUU4Mm80c3pNRWJ2WjFHUi1BcmtsYjNoX1VIaXVkOWJIdTB6aTdYTTZrc1VmSFRkdjd3RHdGQlhoMG9Bc2ZWNV9RUHNpcGI1cjRVTjV2Mng2WmNlQmphSURRRWxFZzNQM1FNdDh5NWNEM0dVU3VpTU9yQTR3VlNJT2lYWXVOV2xBdWpnQnfSAfoBQVVfeXFMUC1wVHQ1aXJuVEJlTDBpMFZoNnVzQXFWZjdnZFcwaGdvRGJSbXBjeDlrdHZKQmRZLUV2RjlPSHhEZmVmREVWaDhTWjEzeXFmNjhpdGFxelZaUkpTeFFXaDNJSjl4RGRyUmlSbk50QlpOZGtER19FZExaLVhHcmxGLV9ZWlVUNlZ1aEg5ZFVUdlNkUkYwNzhBYjRZS20wM01BaTdJcHZzek1MMmduYXB2SXhGV00yQTJreDBpNTExQ2duYVZGRWdyX3pwdFdlRGxxSU03UnFRUWtEM3lEMW9veXZIM2w5a3FldXpMNGpubDh5RWVkVkRYZUF3Zw?oc=5"
+        },
+        {
+          "title": "Nifty's roadmap to 24,800: Rahul Sharma of JM Financial explains why he’s buying the dip - The Economic Times",
+          "source": "The Economic Times",
+          "source_url": "https://m.economictimes.com",
+          "tier": "B",
+          "published": "2026-04-16 16:37 IST",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQaDZVLS1lNldFM0FfUXMyRzFpY0p3amNZeXZNTkJ4ZVMyZnZLSG1jdXU5RXNzVF95bkMydGFiQklHZVp6NGJQMkYxS2RPY01jb2ZhRXoyZFozMHBYOXdBNHo2WGpTUnhiRDlhLV9CekFoWDRWZko4NEQ1d2NWcVJHN0NEaGFpSUo4dm95eS1XVEtsenR4ZDZ2WmFheWRHSjBZeGhyTG9VRHJnSVQwbmhac0V1Nk5sckJ2aHdLSjV3eUt5TUZTVS1UQmk3a0gzdUhVbnFoWXZGZW9NV3d6OHFObjNfa3Q1bzkwYlpoMG9QVdIB9AFBVV95cUxNOXhTZ3IwWXhzVjNXVGRsZU1Jai1yNG1EdGxLM1RubkVJM2JPVmFMU2Z2Qkt2ejczeVE4MzlDZEl4bzRXREx5MkEtUExqdkZGejJ2RFI5cU50bV9EUVBVb1oyS01TRGhmWEZ6ZnV3aDEyR3hna3QzdnJpaGM1cFp5WDZ1RWR5S3JVb1JpZzJPaHJQbWxhYzFjYXNsYzJXd3NWenBsQ3dPQnozZVRaVlFzSm1zd3l2Z2FPWmNuR29paGt6d2dDNk9WQkdiQXAzNU91czJOZm1aY2tuUnJ6a3prdmluQVhNb1M0aGpOYVFnMkZNR2NX?oc=5"
+        },
+        {
+          "title": "3 ‘Buy’ recommendation by JM Financial, with 31% upside potential - financialexpress.com",
+          "source": "financialexpress.com",
+          "source_url": "https://www.financialexpress.com",
+          "tier": "B",
+          "published": "2026-04-14 14:20 IST",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRFoxRk1oM0N4X1NXbWdVNDFkQldtbmFwb0pkZWZ0dC1pbUtZYktIU3Q4dE1tTWhFOTNmYVQ2Y29vU29ja2NjZjlSSkNaaFRfajE4a2l3QTI1OTI5ZTVfTFJqM21MUWVNU3Q5RER4NDJoQnVHUlJ4SlFSNVJNNGw2TEdJN1F6SDNDWVhacU5ZS1JoalJzc0hyMk9NMGdYTXRjUmtfdGgzZGRPQnJHWVY00gG2AUFVX3lxTE11ZGNOZ0tIXzh1el9yS2JEYzZsS1dodHZUUzI3UVlITUdwQm9JVWlIeXJWYTdFLTJFTm9VeHJpM012YTJlVWtkVUdCSDBxbGEyRUdzVTRZaWZvcG5maEhnQV9uZDlOX1JHVVRfVkZ0ZW11eTA0UWRQRklGYkZVcXFjT2JEeEp4aFFFbzgzcV80UHpjV1djWW5oVlMzTjNvdHRTNTZIWElnS2gta2RWNjZNem1HZmR3?oc=5"
+        },
+        {
+          "title": "Better pricing, inventory gains may see Q4 earnings better than expected: Satish Ramanathan, JM Financial - Mint",
+          "source": "Mint",
+          "source_url": "https://www.livemint.com",
+          "tier": "B",
+          "published": "2026-04-20 05:55 IST",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdkRienN5aXVyaHB0QWlpNFlLUTZVRDhQSUVWWVhkcmVWVmJETnRfalk5Z0VmWkpPaWtUNmFBN2F6aW5qNzNZVGd6ZzlJZXV5U0hqWjNrWUFPeDdWVll5c1Y4N200c3BNdG9LQ19YZlBCYWVhZDRmeWUwaWc2Uk54SGs4WDlqczMwNkx2YWZhNldRZ0o2LV9VU1FwelNXbWVmd3JtSTEzRXk3aERyMlJsSmxDZDDSAboBQVVfeXFMTUZtNGlJNUY5T2JvekJLdEFvN244ZEt0MXgwWXFVdTlPZ2Z4M081M3ZBX2VkSHdUc0prSXZZc0RtZW1waWRXNWpwRDlMVFBmSDhGRjhNQmlKS19kYWRZZ1RwM3BEM0ZTLWpUSWYyRWxmem9mMUh2X285emRjM0x6NjZaZFpqVndsNGk2RVR3SU40cjNLSzljVU1KbF91Y1plWWtiRE5BWG1sSk1oUW5mUEtyVVROUU1oMENR?oc=5"
+        },
+        {
+          "title": "Stocks to buy in 2026 for long term: ACME Solar, Jindal Saw among 5 stocks that could give double digit returns - The Economic Times",
+          "source": "The Economic Times",
+          "source_url": "https://m.economictimes.com",
+          "tier": "B",
+          "published": "2026-04-16 10:40 IST",
+          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNaTg2bXRnR0thaEhaeHVUQ0ozLURrOGppXy1kVkdMWHNaQ2kxbkRhWTFZay02SkpUVW5RVE1OUjR5X1JUZ2Izc1YzcnJ0Ylh0aVNSQklIdlg0UF9mOUZxdjlIenhTRDBmb2gwemlNbzIwVEpFSklfUWNGQ0hwWnh0b2w4M2YtR21adVVKQlFzcnNVVG95VjJ0VVVZZHJlbVVGRlhNRmItb3VoRkdyRGRFM2ZIVlpFY2VWMlFscE5ZNW41eDVTb0JMTlEyYVJVQkdWVEpRUWptdTg4X0RVU1ZaaGg4Y1hWeGx2YTlPR3JMaVllLUR1alJELXBIc0NrU2pPLTQxdmQ0azZpTWI4RHF6UUJwSkFOM0l0Zk05Ty03VloxYzZVRndEMFp4a0hJdEk?oc=5"
+        },
+        {
+          "title": "Waaree Vs Premier Vs Emmvee: Why JM Financial ratesonly 1 stock ‘Buy’ with 31% upside potential - financialexpress.com",
+          "source": "financialexpress.com",
+          "source_url": "https://www.financialexpress.com",
+          "tier": "B",
+          "published": "2026-04-15 06:53 IST",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdmdGcXNpWG1Kd2hMMXN1QjlBTEx2ZVlNbGJNN2xnN3Z0SjhxYXBaTnRkUEpyVzg2UkpXM2RHWldOSWM1STNtLU5SR1kwQ1MtTWpZLS1ya2x0TnV4a0J1VUlQcDN0THpNS3lBTTZVNmNSNk9VVnhJTW5iWVl6Ym5OX21vR3J6SzU5M3RfNVFfbnpKTC01VXl5TFF0Yll1eDhXdW9La1Q0RWZsYy1oanV5ZEZxZVQ5dl9HSzlWSFVMdEh5SE1TUm9Telp1Vnh2UXNwRU1fbTUzQUJ2QlBN0gHjAUFVX3lxTE1fN0kxYjdzT2Q1UEZIYzZnVHpQT003VzZNRGpIb2MxLVV5WW0yVE5tYjYya3c5V3lUUF95dm9xVjJhTFppWmUwaEt1ZUFnVHFmOTNVa2JnNGhOQ1hHRzNzRjhweHMyY3JpUWVtNngwTnZURWd4RWtSTmxUWUhFeENRUUxuNEJMSXVBOHRNdHlRQjBycGJqV3ZDa0hIeHlrX1JRSnVWNTNLaHhCYzZqQk5BNjc2TG1nU3dtQUJaMUhNX1lIcmIyZHJfRVdHd0YwMGFCQXdQaE5WOV9WVkRWWG5WVGZB?oc=5"
+        },
+        {
+          "title": "Stocks to buy in 2026 for long term: HDFC Life, Nuvoco Vistas among 5 stocks that could give 10-20% return - The Economic Times",
+          "source": "The Economic Times",
+          "source_url": "https://m.economictimes.com",
+          "tier": "B",
+          "published": "2026-04-20 07:57 IST",
+          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOOW5vdkNpc0JHdG92c2w5NS1NUkx2WkJwWmR0Yk1CcDFiaE40WTk2dWlTNWR0emF5cnhNMDAtdVBjOTRLQTVmMnNuOVhGOGJBbm1ZWVgxemxjT21HTENvZDdsaE5iUl9pUlNhZXh2NmJKLWZ2OTNQZ05oTHJiRjJHY3V2R2szclgyTUFhYjBHb3FKUHFCZi1SV3FnTnFBZG9lOFdpX19TNUN5U0w2Rk14ZFQ3Q2RVSk1oR3VkejlwSl9MckstVG1TMlV5cDZvREoxWjVwOTl2a0pieU5Qd2xmY2Y3VDI4RGZ4VFQ2YVB4MUNiVGJNMzZMRjE2WDRuTmRheXE0Nm1TaUJyYkNfVHJkWVhySl9ObVEySlJ1STFhTXJ0U2pvc0ZJdjRlZzV2UQ?oc=5"
+        },
+        {
+          "title": "IHCL to Lemon Tree: JM Financial’s hotel sector picks with 33% to 79% upside potential - financialexpress.com",
+          "source": "financialexpress.com",
+          "source_url": "https://www.financialexpress.com",
+          "tier": "B",
+          "published": "2026-04-16 15:47 IST",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd0lZSVJLUDBFUFBVbGxHeWlfS0VXaGtTMEk1ZnJabmtXVUFEYXRjTjBfcXhzMllyTk90S2dYMFJnSlp2WkxUREFYYzRuRnVOTVo3RVNncVpYVFJfN3BrQnhBREN6Q2JqeVdZVTd2ZllLTEZGVnZvOTFXbENIZU1hNm4wRFVieGYwS3BiZG9PRmVCQ3g0TGZPQlVhR0h4SWJUT0ttb3dpZE9DWVo2c0VjS1hrTllHZ0pCNXh0eWZabkF3UXNPTmNFWi03MNIB0gFBVV95cUxNYWx4YWRnQnlTSHB5ZEFKb3QyaGZjWVFMa1Z6Z3RqekhWLWF4R2syT0xqalZHRmQ2dnB5d2tKWnEzS1NQcGxYYjJWZVRqV2ZxeVpqdHRaOTdLMW1xUVRBR1dFQjBjMTg3eFJCa3cyWF9iX2EyQU5DSmhkNlR0MXV3dmV5bldFcmNCdkUyaUVCbG1oOFk5VFVPREF3dEsxS2lYTXJfcXM5NVRXbW44bjVsVG9qaFd1dHkzalc4WkwtMWcyTExpZ09hOUNKcmlLNGtMRVE?oc=5"
+        },
+        {
+          "title": "HDB Financial shares surge 8%: JM Financial, Motilal see over 10% upside potential – Q4 profit at 6-quarter high - financialexpress.com",
+          "source": "financialexpress.com",
+          "source_url": "https://www.financialexpress.com",
+          "tier": "B",
+          "published": "2026-04-16 11:34 IST",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOY09FV0VybWlwS2dMa2dKWE5XZm1SYWhnVXd5RHRaeGpLVGJjLVJHNm5XcjFpaDJZUTZKTkVNbmlud1JrZzlod1k1Vm5VZGZ5a3NxN090TUFjNE9SODA2NnhEcFNnazZKMWl4OTBYWGpwMU5kQ1RTTGxUSzhMTGhGUU5jWG5oSElEV1ZweDVlZzQyYTY2NkFmbENwSkR4UWNWRUpsZGNKcThUdXVZNy1ZQVRTSTZyWFZSQ29jRUFFNzJ2dzZmRFhnNTQ2c3QyWWp0eU9sNzhYMkJlaThNN0Z1Sk0wQmtPRDlLSGFZ0gHyAUFVX3lxTE9IaHlaY0dQLUNpb0xLYUU3dVJYZG1DbFlPUzlzcnFZakxxVVJhbjM4QnRmM19QeFJzTXdVNUhVTzlNODBtcDZGMlZuTjV2QnNKUFM1RlRYdWlSX0lGN25mRFZJV1BjWTYzSDRWOFIwekpKemduVV9ZNFBCNjdkS1B0NEJub0wwX0xMRVRxTExjYXlhQWM4WXh4MlJMS096M21va3A1d3ZrTzdsSlVtdEJ6RmY3SU15TTlsODhNWWhZeFFBUElTRUhhTEVYMGtDYmRwUmlzWWJoT3RxckRwLV9QbVhFTnRITWVVY19hN2llU2h3?oc=5"
+        },
+        {
+          "title": "Water the new oil? Why JM Financial sees 30% upside in this ‘pure play’ water stock - financialexpress.com",
+          "source": "financialexpress.com",
+          "source_url": "https://www.financialexpress.com",
+          "tier": "B",
+          "published": "2026-04-20 12:04 IST",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ2lReVh6TjJHNi1qNTBPQWtaZUhtUlhDYnRObHprWF9lNFN4a0lCQmpPRWhTSTJtZHNPYTVGWE9MbGRrMjVFSXNRQk9NMVBXTGNKN2ZoLVd6UFpLWEhJRVpkTDNsUWxBdy0tRkg0aHA0aHJOT0phSFREeklyOFRxZUNfcl9RTkxsaGxTNUhtc1BMRXZIR2hNWU1WaG5xZzR0UDNYZ21EREJzS041Q29hTW1xSnBzalVFVEtCcWZmZDJfY0dkTGk00gHOAUFVX3lxTE9FMEJ3U3F4dDNOeGd5dENoMHVRSXVJZmtBSzhNS01vaTJ2S2o2OHhaclZlc01UQ055U2dLSmVuWENoS0dvMVN0bm9MVmF5R0piZG5SRUVWWUJ2cFFmNGowRnp2OVlTTkhOVmNabkZRX2didFVCYVkxSGYxanFYamI2ZnphSkdsak9FWEVxcXAxVWd3Q3A0Ty1WUjgxZ2gzNERDd283ODlhd0NVMTNpa2puUEVidjlsTTNKdkpFS1BiSjNBOXhmaWMxUlVOMTZR?oc=5"
+        },
+        {
+          "title": "Angel One shares drop 2% as JM Financial downgraded the stock following Q4 results. Should you buy, sell o - The Economic Times",
+          "source": "The Economic Times",
+          "source_url": "https://m.economictimes.com",
+          "tier": "B",
+          "published": "2026-04-20 12:49 IST",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNQ2xubTVTbGV2bWlaMVJYOENfZzdleVZYSjVRcy1OeXltYlk0UkZnMm1oMG9JY1NBSW1BWFVMNldOdU4zcTZ3STRnaFN6Y3JoZk9oakg1OVp3X1d6SzNEa3RzMFVVc0hGTnYybEZXNi03aVVKQU1EZm9HWTFvcmxOTUpsSS12YVpBdkt4V2ZvOXlNeURENWZMYklVZW9QMFZOT2N0MXBMMkFGcDZ2TjZXeU1MSElVam5peUZLZFJCVEFVSTZGYzdOMmctYkYtd252Nlc3SFhuWnRhRXVSQnJnaVFRaEcxWlNLdGNucmEwRWdTTmhXNUdXaUhIa3VBSHpYUVdUaGxubzJPT2U2RXY5WdIBlgJBVV95cUxPbURxakdHTFB6cnBqdGtXaXdDUVZuUlVsZVVOMFp3R3JJQUhKTnQycHlnTXBOQUdSRTB2QnRsNFYtRjBKWDZFaVdkRjJFLTVNdEFzUE40ZGo2dWlhNlN3ZUV5MnlVY0VmZmpqVUw4NHZ1NUdFWFFOMjNhLW5vRU45U2lpU200QnVPbEVySFFfaDd4WDQwSFpyRTBGN1pjeUdTWTJGWkx5OGw5ZjI1Q29lLUQwTjFOcXRTcTZmOUxKOFhzakd1dmVObkp3eF9nSFMxTlVERWZZaXlzVEN4WkRfRjBrV1M0STN1cVdZUlAtbGk1UFhSY3psSXpQc3JidGpCNHNJc3pjX1hDZUJLVjZkSkVhU1FGdw?oc=5"
+        }
+      ],
+      "bse_filings": [
+        {
+          "headline": "Allotment of equity shares upon the exercise of stock options by the eligible employees",
+          "subject": "Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-20",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/659c8c91-5203-4f7f-a75c-42874ac44d8a.pdf"
+        },
+        {
+          "headline": "Pursuant to Regulation 30 of SEBI(Listing Obligations and Disclosure Requirements)Regulations 2015 we are enclosing copies of the advertisements relating to Special window for re-lodgement of transfer request of physical shares published in Business Standard (english) and Sakal (marathi)today i.e., April 18, 2026\r\nThe content of the above adevrtisements are self explanatory. The same is also being uploaded on the Company''s website at www.jmfl.com ....",
+          "subject": "Announcement under Regulation 30 (LODR)-Newspaper Publication",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-18",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/6c0aab04-e1ec-4a1d-88ea-1f3975c5f776.pdf"
+        }
+      ],
+      "nse_filings": [
+        {
+          "headline": "Allotment of Securities",
+          "detail": "JM Financial Limited has informed the Exchange regarding allotment of 95642 securities pursuant to ESOP/ESPS at its meeting held on April 20, 2026",
+          "date": "2026-04-20",
+          "attachment": "https://nsearchives.nseindia.com/corporate/JMFINANCIL_20042026181239_ESOPAllotmentIntimation20042026.pdf"
+        },
+        {
+          "headline": "Copy of Newspaper Publication",
+          "detail": "JM Financial Limited has informed the Exchange about Copy of Newspaper Publication",
+          "date": "2026-04-18",
+          "attachment": "https://nsearchives.nseindia.com/corporate/JMFINANCIL_18042026171507_AdvertisementPhysicalShareTransferwithCoveringLetterSIGNED.pdf"
+        }
+      ]
+    },
+    "SHRIRAMFIN": {
+      "nse": "SHRIRAMFIN",
+      "bse": "511218",
+      "name": "Shriram Finance",
+      "price": {
+        "status": "ok",
+        "close": 1045.15,
+        "day_change_pct": 0.79,
+        "week_change_pct": 3.47,
+        "volume": 4670588,
+        "as_of": "2026-04-20"
+      },
+      "news": [
+        {
+          "title": "New FD rates by Shriram Finance: What women investors and senior citizens should know - The Economic Times",
+          "source": "The Economic Times",
+          "source_url": "https://m.economictimes.com",
+          "tier": "B",
+          "published": "2026-04-20 12:42 IST",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZXF2cm5wbjRWQUZ4bU4wM3NoNUt4RkV6MlhpX0VNa3ZudnRwMHUwNUhTZDZVRndxZ0x4bXM3dUphMzJBSmJYRDNMNUNNeHZYd2x6UXNmRUt5QUR4OTVhTUcyaktmRUdYQ2o4VWZuVkdkVGlJbXJaaWNlTHR0ZlRZUXNZODJuSWN3SmxSV0dzTV93a2hzM1F2V1RzamYxN3pUQldoeUhTaGNXY0pDWjZmQVlROXQxT04wN0thNDhuM3JvVElIM1lXeDJTR05EdG51R0NSN2VuN3oxUV84UlBqV1dERXNDa2fSAewBQVVfeXFMT1ozeDZoTnJpdGZIQ3B0QkNCX0Y3b2kzeDJhLTFoT1hBT0UySW1NXzA0ZFJyS1Vlb2ZLanR3MDNZVW53bVIzOGpjYi1wckhwcjdvUEJfZnZMdlYzTWx5cEN4VW5JWHJhTDA5UHVoWW9XOVFFTm9sTkFtOFdhN0RRY1d6SmEtV0ZxYmpPYllQZjB0d2ZDQ2ZSZGNNSWtNeGsyUURFMTVsc2V6MExpeElaSjZxRXN4SG8zbEV0aHpWM0YzTTgzekxKUUxVLXJNeWExWlBibDhRRzBublRRMWNSSFBrM2VSWlFBYmdPTlo?oc=5"
+        },
+        {
+          "title": "Shriram Finance revises fixed deposit rates from May 6 after AAA rating upgrade - CNBC TV18",
+          "source": "CNBC TV18",
+          "source_url": "https://www.cnbctv18.com",
+          "tier": "B",
+          "published": "2026-04-19 16:30 IST",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaGFTdXJXSjViNmxYaF9CSVVJOTBwTnZFZ05uVTFET0FwemJGWFJaeUs3cXNtNDItYTRKMlBKU1laSThaVmlHekVmTlBxb25VbWtNNEVfTTNsTWVMM1FRNVZzTWxCX3JEREZKZ0FzOWJjcGxZUzBIWm9DQ3RBVGlYZGZnM0VLMEU0dTkwTnhiV3YxdXVpWUZRandjYzVQc1VIUTlUS2lMYW1NUlZEbHM5VHpoRUR6LWVfTzBtTVp2d05MRUR3ejJEYTVvOWxQQWd0dkNHTEdR0gHbAUFVX3lxTE4zbjRGTXFteWp4QlByWnBQUWk0OWwteWZ6S0hzUFRCeFBRTGo3QjItQTUyQUh3cGtMSDRhNUtwN21kNDhaWFU3UkVleUx1SFREMTFIcnhtWm91Y1lLU1dJcVdSYUtHU1pNcEFXbi1qY211a2ZoaHJSdjVVRndIUTBIS2hOTHN2eFp5OEZ2STl3Q25RTU9xNVNxcEUzbnVuR1YwNTNHak5ZVzlISGlPNm9ySE4yRHd6WUtQOWtIUE1lZmtUNVBybVphYVhVUUluM3Jja0F4djhtekNyUQ?oc=5"
+        },
+        {
+          "title": "Shriram Finance subsidiary gets RBI nod to start primary dealer business - BusinessLine",
+          "source": "BusinessLine",
+          "source_url": "https://www.thehindubusinessline.com",
+          "tier": "B",
+          "published": "2026-04-15 16:45 IST",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT0xNUEpYbi1UZkxRXzFRZi1BMFJmVXBmd05SbTVMaWZXU3ZTMzkydHpsTlVTbldkamljUEVQVVp4YWZxM1ctUlpwRzdsQWllLVg2TlJqVmd3SDVEeHoybUZhOHd4aGcyMUJJRXBfandJX28xOWRqcnpzLUV5bjY5MUVLRHNfZnlOSmh4U3lpazFpcENTQXRGYlFzQVdXS2NydW45d2dRY0t1dHNDb29jUmF1MlB6WDI4djM0bFJpVjVtY2lScF8yLWhxc0VodWxmYVNHT0duSdIB3gFBVV95cUxORVIyVkFiYW5jSG54c2U0WEJkR2xwdUdJM283WHFhYTgzcjFiUUJPTUJvaFEwang5VHRkUzM3Y0w2NXVFTW9va0FlcXFkYnVYdjc0TkRuN2lSM2FPYlBPSU9POHVpX1BjQlIyLUhMVUI2X08tT0F0N1FQNmp6d295SVpzcFBIY3Y0bUNXcE85dXhBclJ1c1J5MzJfWVA4b25ReGZ2Y2d3LXpDT3Awa3RPdFpmZUFpdTdIUWl0VGJ0bV93eFQ3ZFRnQ2ZrNXhCTC1mM0puenNFcUJ3dUJFeEE?oc=5"
+        },
+        {
+          "title": "Fitch Upgrades Shriram Finance's Rating To BBB- - NDTV Profit",
+          "source": "NDTV Profit",
+          "source_url": "https://www.ndtvprofit.com",
+          "tier": "B",
+          "published": "2026-04-14 17:28 IST",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdWpyX0VrazJNbXZ1OTFpdVJQQ296LWxQaEszczhIakNmVkpSRU14Y21BOVhvX0c4ZGZyVWlIWFN4eXptQkkwQUxjZDZxZ2dQZ2k5YXNBeXpzbEVhakI5MGJIdUk4ZTAtR2dpdjN4Z0ktc0FjRkFuRC1QSWhteWxzZjVPUGJTZWRYY0hIUXFWOGJZNmPSAZsBQVVfeXFMTUcyNWR2bkprNDFEU05ILWI3c0NpQkR3Q0FxSzBWcTVicUs4dEtCYXY1NXVpcnJfVnFwaDVSQ2Z4QVE3ZUt4dU9wZk9pNXJvSjlHd0V6Qy0ydlRzYUhpT1ZLekxuRWdELW42YmZMTWJkeHFCM2RxbDU3ZThtY1c0ODl6MnZKYzIwUzlVdkY2UG53MzNTUU5RUi12RUE?oc=5"
+        },
+        {
+          "title": "Shriram Finance cuts FD rates across tenures, new rates effective May 6 - Business Standard",
+          "source": "Business Standard",
+          "source_url": "https://www.business-standard.com",
+          "tier": "B",
+          "published": "2026-04-19 16:34 IST",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcktoYnhSWE1GeTBrbU1ldWp5eTZCamxaZzNmMTBKMlA2MXF0X2R6aFgyb0lreHdWQmNvZUU2S0FlRWl5ZXRnOTYyeXVMblFLTkk3RVY4S2Nod1AyNDZraVplYkFSNUs5WF9SNjZ4UDdoWkUwbEdId1BBOGVQWG1PY01XQ3VhcHd5WU5pVXlPRmNscGRaVlNISi1IRGtCekRWSmcwSnRtZEdPUlVVeWdHSXc2N1l3bDZrajhYc1R1RHVMQzd6LUNqTkdnQS1xWDhrVy1iMkJB0gHbAUFVX3lxTE1KdmdMZjM5a3BTb3ozMTNtUkdldEJCbFBxQkI3aHB6US1KV09qNjd1bGFHM1NrN2tHcVlPQ0FnejlqQkZYN0pBMUV3dWdxLVBlVnJiRmFiQ0Z4bjZ0Z0thc1ZmNGdkTmJsUFp0TjJNUFN5dVoxblBBS2Q3ZWl4Ukh0SlFPa3pHVlUwanYxRTRwaGlEOWxOeU5aZ080TnpRa2t2WXNnTzZUSzlGNmQ5R0hfWDF4MkFuRVdHTDVIZ0dWOXpZYWFuYlVfVFFmS1VGNUNDa0gwam81ZGNlaw?oc=5"
+        },
+        {
+          "title": "Corporate fixed deposits in April 2026: Shriram Finance, Mahindra Finance and 8 others offering high FD rates - Mint",
+          "source": "Mint",
+          "source_url": "https://www.livemint.com",
+          "tier": "B",
+          "published": "2026-04-17 20:09 IST",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxONG11Vm01dmVkeFZERFNNU0swQ0wxQk5qRDhpWWF6cVcyaUVxT3JhX2Rudy1TUkdIN2twQzRRYkluM1FteXhBbENFUWwxaWVlRVNOb0twclUxZFpyVXV2U29Md1hRMVVOOS11blJ4YjZydlBaa2IteWRHVTNjYmJ6Z0hBQ1pVWnhNeGw3VGJFWGJlSXFyUUM1YlNYcHZqX01mSmdoRHBnUk1RdGtjRVpFTWNfWUFIRGZINzgySHIycFJDOHlhdFktYWJEbm1RdWFPdEJXRE9QLVZabEpCREhxaWprQ2sxWnVpNG5jQTJSaEIxcEZhX0pMSjlnYm5MTGg4VFJlaHB30gGLAkFVX3lxTE03YXhCWkg0engzN0RWRDNYSmdXdG5ZeXgtcXN1c2c3VUwxSU93VTJxY0dMVDVUQTJmUnJJWWJENmJOLTNyUGNrTVNzRnEzRTllTF9IYi1VZGlnRmZBcDBYcUxVb1RDdExKdWlxUEt3dWtxa3VWVEI5WFBLNkRGUHZkRjgtQl9MbEc0aXFEbEVlMGJFdGdQOE9NY1phZ0tPS18xNWtTRFVhSVBITk5vR0ZXQlE4dkwzeXhaQVVrZHh0S1F0WTRKeE9zSkhhUk5ORDhhN3dmTkdMcExKQjg1ekxtS3hSU01Xd3hDMFoxZW5fYmtWdWo0cVpiWWxhNkwyZGlfTTJ3d1ZCdHpadw?oc=5"
+        },
+        {
+          "title": "Shriram Finance Arm Get In-Principle Approval From RBI To Start Primary Dealer Business - NDTV Profit",
+          "source": "NDTV Profit",
+          "source_url": "https://www.ndtvprofit.com",
+          "tier": "B",
+          "published": "2026-04-15 18:28 IST",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbWhIZmVBZUxlcHZrVi02VFdtcjdJQnRqZ2xzaUt3S2xkcjdQWFFnSllER1JMWmVVWXFkNTR3blpMRFRwSmo5YzZCd2NCR25yLVZnUVFaTTBzbnFYNDVrZ1E3SlpIOU9GSWtyYjhKUVRYVWxZTm1ENmdFRHZoWWpBR2s1TDBMQW5zUjdzZ1FCbG1VODBjWThUYWpuempURm9xOERzeG5icTFBNW5UNzhrTFh1eGpCLUFfcEZtSzJnQ2E5dklsbWVuWDNrUi3SAdQBQVVfeXFMTjgtRUdKNUpQLWpUS0ZfYmlidXA5b0RzOEFvaHdJaDZleGlFdUhpazU5U25ZOXZpell2ZFlPbVR6Y0pGVXc3VW9RUnFhUUptQlRJQWRwRkpub3VHYnJUZVgzUzZ0MjJtWGpHN0pLbEN6WGk5blRNZUtmN0ZpME9uV01BRVJkcXFiUEdlc3FrcW1jX0E0SGRFX1ZWd3pQZVl2Mm5OSjZ2ejE5M3JwNGpkOFo0WU1KeHBaTTNvS1FYZWVuUUh6emoya0p1QURUZmFQVVlGd3k?oc=5"
+        },
+        {
+          "title": "Shriram Finance revises fixed deposit interest rates from 6 May — Check details here - Mint",
+          "source": "Mint",
+          "source_url": "https://www.livemint.com",
+          "tier": "B",
+          "published": "2026-04-19 16:09 IST",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNeUJtckczSkxDNE5zMTBTV0R6RU1YZmhJZTNJeG5SQmZNR2k1MVV0Vk1Nd1BtaDBONjNzalI2bWZDU1ZSd3BwSW12UWxHRXhFSHd0VW5UNFgwUzc3alJmM25ENlRCNGdCZDhYd1VhSHNweWtXQThPN1VGMU9TSzhWVmw5X0c5VEpQU1hlbzJERlAtY0hUc213N2NiSXM1QVJyT0x1SzRmLXhJWV81N0VwNlNxU0RzMUIzWWlXN3g1TXFYTkNWRTlFSHROcFNYMXByZk54VC04NDFBMHd3RDJOYUZrWdIB6AFBVV95cUxOVlBYYkNFdnJjalVMcko2Mk1ONWJyd2I3Q0JERnJSMDRNSUtEclV3eXRGVWVHWmJSZ3ZJSlVIMWZkQ3ZtTjN4QS1LbHFhOFZQTjVjUXBoZzJWdDJWaVFiSGthX3ZmZ05EamdJbE54X0FnR3J2LThJU3dRRU5FcWN3RkluWTJ2UlRzLUJjbTRleTVPYW5pYWd5VWxRYkI1X2VOWGszYktKc2pnNWEtOUxGOFp0NFF1aUw0cmFFQ3Fsc1h3NVBZSUVDWE0xa01rRHF3V2xKa3FtLVg0NFNWT041STFoeVBxZjFs?oc=5"
+        }
+      ],
+      "bse_filings": [
+        {
+          "headline": "The Exchange has received the Disclosures of reasons for encumbrance by promoter of listed companies under Reg. 31(1) read with Regulation 28(3) of SEBI (SAST) Regulations, 2011 on April 17, 2026 for Shriram General Insurance Company Ltd",
+          "subject": "Disclosures of reasons for encumbrance by promoter of listed companies under Reg. 31(1) read with Regulation 28(3) of SEBI (SAST) Regulations, 2011.",
+          "category": "Insider Trading / SAST",
+          "sub_category": "",
+          "date": "2026-04-17",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/F1117173_AB73_41A7_9D70_69991A5CCC53_173057.pdf"
+        },
+        {
+          "headline": "The Exchange has received the Disclosures of reasons for encumbrance by promoter of listed companies under Reg. 31(1) read with Regulation 28(3) of SEBI (SAST) Regulations, 2011 on April 17, 2026 for Sanlam Life Insurance Ltd",
+          "subject": "Disclosures of reasons for encumbrance by promoter of listed companies under Reg. 31(1) read with Regulation 28(3) of SEBI (SAST) Regulations, 2011.",
+          "category": "Insider Trading / SAST",
+          "sub_category": "",
+          "date": "2026-04-17",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/1E220438_B32F_4228_8D4A_C69C0D3EE214_172937.pdf"
+        },
+        {
+          "headline": "The Exchange has received Disclosure under Regulation 31(1) and 31(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 on April 17, 2026 for Shriram General Insurance Company Ltd",
+          "subject": "Disclosures under Reg. 31(1) and 31(2) of SEBI (SAST) Regulations, 2011.",
+          "category": "Insider Trading / SAST",
+          "sub_category": "",
+          "date": "2026-04-17",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/889F82F9_0F58_4F02_9A4B_E3042D89A376_172542.pdf"
+        },
+        {
+          "headline": "The Exchange has received Disclosure under Regulation 31(1) and 31(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 on April 17, 2026 for Sanlam Life Insurance Ltd",
+          "subject": "Disclosures under Reg. 31(1) and 31(2) of SEBI (SAST) Regulations, 2011.",
+          "category": "Insider Trading / SAST",
+          "sub_category": "",
+          "date": "2026-04-17",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/29FF4191_B507_4D5E_957B_F2041BF48BB9_172438.pdf"
+        },
+        {
+          "headline": "The Exchange has received the Disclosures of reasons for encumbrance by promoter of listed companies under Reg. 31(1) read with Regulation 28(3) of SEBI (SAST) Regulations, 2011 on April 17, 2026 for Shriram Ownership Trust",
+          "subject": "Disclosures of reasons for encumbrance by promoter of listed companies under Reg. 31(1) read with Regulation 28(3) of SEBI (SAST) Regulations, 2011.",
+          "category": "Insider Trading / SAST",
+          "sub_category": "",
+          "date": "2026-04-17",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/C39967F0_9CEE_4BD1_ACC2_5B39AF80DBB3_162614.pdf"
+        },
+        {
+          "headline": "The Exchange has received the Disclosures of reasons for encumbrance by promoter of listed companies under Reg. 31(1) read with Regulation 28(3) of SEBI (SAST) Regulations, 2011 on April 17, 2026 for Shriram Value Services Ltd",
+          "subject": "Disclosures of reasons for encumbrance by promoter of listed companies under Reg. 31(1) read with Regulation 28(3) of SEBI (SAST) Regulations, 2011.",
+          "category": "Insider Trading / SAST",
+          "sub_category": "",
+          "date": "2026-04-17",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/8635E1BE_DDFE_4B73_9816_31394F0EA29D_162459.pdf"
+        },
+        {
+          "headline": "The Exchange has received the Disclosures of reasons for encumbrance by promoter of listed companies under Reg. 31(1) read with Regulation 28(3) of SEBI (SAST) Regulations, 2011 on April 17, 2026 for Shriram Capital Pvt Ltd",
+          "subject": "Disclosures of reasons for encumbrance by promoter of listed companies under Reg. 31(1) read with Regulation 28(3) of SEBI (SAST) Regulations, 2011.",
+          "category": "Insider Trading / SAST",
+          "sub_category": "",
+          "date": "2026-04-17",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5C3C96EA_8989_41B1_9FF5_C49C77D67F4F_162351.pdf"
+        },
+        {
+          "headline": "The Exchange has received Disclosure under Regulation 31(1) and 31(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 on April 17, 2026 for Shriram Ownership Trust",
+          "subject": "Disclosures under Reg. 31(1) and 31(2) of SEBI (SAST) Regulations, 2011.",
+          "category": "Insider Trading / SAST",
+          "sub_category": "",
+          "date": "2026-04-17",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/653C151D_6D40_469B_8669_4A2B7DE4D37B_161925.pdf"
+        },
+        {
+          "headline": "The Exchange has received Disclosure under Regulation 31(1) and 31(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 on April 17, 2026 for Shriram Value Services Ltd",
+          "subject": "Disclosures under Reg. 31(1) and 31(2) of SEBI (SAST) Regulations, 2011.",
+          "category": "Insider Trading / SAST",
+          "sub_category": "",
+          "date": "2026-04-17",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/D84126F4_D1DF_4A9C_9324_F5893771B1AC_161807.pdf"
+        },
+        {
+          "headline": "The Exchange has received Disclosure under Regulation 31(1) and 31(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 on April 17, 2026 for Shriram Capital Pvt Ltd",
+          "subject": "Disclosures under Reg. 31(1) and 31(2) of SEBI (SAST) Regulations, 2011.",
+          "category": "Insider Trading / SAST",
+          "sub_category": "",
+          "date": "2026-04-17",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/3929F468_1F4F_4C6E_88A5_FEB2CF42F043_161652.pdf"
+        },
+        {
+          "headline": "This has reference to our notice dated April 15, 2026 intimating about the date of the Board Meeting of the Company inter-alia to consider and take on record audited financial results (Standalone and Consolidated) of the Company for the fourth quarter ended March 31, 2026.\r\nThis is to further inform that the Company will hold Conference Call on Friday, April 24, 2026 at 7 p.m. in which the management will comment on the financial results for the ....",
+          "subject": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-17",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/d10927ea-37f8-4087-9247-1a531f08863e.pdf"
+        },
+        {
+          "headline": "Shriram Finance Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 24/04/2026 ,inter alia, to consider and approve 1. Audited Standalone and Consolidated Financial Results of the Company for the fourth quarter and financial year ended March 31, 2026.\r\n2. Recommendation of final dividend, if any, for the financial year ended March 31, 2026.\r\n3. Resource mobilisation plan for the financial year 2026-27 for ....",
+          "subject": "Board Meeting Intimation for Approval Of Audited Standalone And Consolidated Financial Results Of The Company For The Fourth Quarter And Financial Year Ended March 31, 2026",
+          "category": "Board Meeting",
+          "sub_category": "",
+          "date": "2026-04-15",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/0495b90c-c0cd-4318-bbaf-3e9f5620a7c0.pdf"
+        },
+        {
+          "headline": "Shriram Overseas Investments Limited, wholly owned subsidiary  of the Company has received today i.e. April 15, 2026 an in-principle approval to commence Primary Dealer (PD) business from Reserve Bank of India, subject to compliance with the conditions specified therein",
+          "subject": "Update With Respect To Subsidiary",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-15",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/3dbf402f-5a39-423c-b8f7-ef09c6dc8093.pdf"
+        },
+        {
+          "headline": "Shriram Overseas Investment Limited, wholly owned subsidiary of the Company has received today i.e. April 15, 2026 an in-principal approval to commence Primary Dealer (PD) business from Reserve Bank of India",
+          "subject": "Update With Respect To Subsidiary",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-15",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/c5121af9-83a1-4bb7-84b6-e8120f4156e6.pdf"
+        },
+        {
+          "headline": "Fitch Ratings has upgraded the Company''s Long-Term Foreign and Local Currency Issuer Default Ratings (IDR) to BBB- and Short-Term (IDR) to F3",
+          "subject": "Announcement under Regulation 30 (LODR)-Credit Rating",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-14",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/ff619de8-f48d-48b5-9c89-e3f43bbdcbef.pdf"
+        },
+        {
+          "headline": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for GIC Pvt Ltd",
+          "subject": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+          "category": "Insider Trading / SAST",
+          "sub_category": "",
+          "date": "2026-04-13",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/40EAB57F_53FC_49FC_822A_380B1F15D627_153218.pdf"
+        }
+      ],
+      "nse_filings": [
+        {
+          "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "detail": "Shriram Finance Limited has informed the Exchange about Intimation of Conference Call",
+          "date": "2026-04-17",
+          "attachment": "https://nsearchives.nseindia.com/corporate/Mathew_17042026142154_NSEBSE_Concall_Invite.pdf"
+        },
+        {
+          "headline": "General Updates",
+          "detail": "Shriram Finance Limited has informed the Exchange about Update with respect to Subsidiary - Shriram Overseas Investments Limited, wholly owned subsidiary of the Company has received today i.e. April 15, 2026 an in-principal approval to commence Primary Dealer (PD) business from Reserve Bank of India, subject to compliance with the conditions specified therein.",
+          "date": "2026-04-15",
+          "attachment": "https://nsearchives.nseindia.com/corporate/Mathew_15042026152216_NSEBSEIntimationInprincipleapprovalofRBIPDlicense.pdf"
+        },
+        {
+          "headline": "General Updates",
+          "detail": "Shriram Finance Limited has informed the Exchange Update with respect to Subsidiary - Shriram Overseas Investments Limited, wholly owned subsidiary of the Company has received today i.e. April 15, 2026 an in-principal approval to commence Primary Dealer (PD) business from Reserve Bank of India",
+          "date": "2026-04-15",
+          "attachment": "https://nsearchives.nseindia.com/corporate/Mathew_15042026143141_NSEBSEIntimationInprincipalapprovalofRBIPDlicense.pdf"
+        },
+        {
+          "headline": "Credit Rating- Revision",
+          "detail": "Shriram Finance Limited has informed the Exchange that Fitch Ratings has upgraded the Company's Long-Term Foreign and Local Currency Issuer Default Ratings (IDR) to BBB- and Short-Term (IDR) to F3",
+          "date": "2026-04-14",
+          "attachment": "https://nsearchives.nseindia.com/corporate/Mathew_14042026162052_FitchBSENSEcreditrating14042026.pdf"
+        }
+      ]
+    },
+    "SJS": {
+      "nse": "SJS",
+      "bse": "543387",
+      "name": "SJS Enterprises",
+      "price": {
+        "status": "ok",
+        "close": 1682.2,
+        "day_change_pct": -1.27,
+        "week_change_pct": -1.83,
+        "volume": 68267,
+        "as_of": "2026-04-20"
+      },
+      "news": [],
+      "bse_filings": [
+        {
+          "headline": "Intimation of retirement of Chief Operating Officer of the Company",
+          "subject": "Announcement under Regulation 30 (LODR)-Change in Management",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-20",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/9ded1f52-a63f-40be-bd80-0406942bd774.pdf"
+        }
+      ],
+      "nse_filings": [
+        {
+          "headline": "Change in Management",
+          "detail": "S.J.S. Enterprises Limited has informed the Exchange about change in Management due to retirement of Chief Operating Officer of the Company.",
+          "date": "2026-04-20",
+          "attachment": "https://nsearchives.nseindia.com/corporate/SJS_20042026190439_StockexchangeIntimationletterCOO.pdf"
+        }
+      ]
+    },
+    "BHARTIARTL": {
+      "nse": "BHARTIARTL",
+      "bse": "532454",
+      "name": "Bharti Airtel",
+      "price": {
+        "status": "ok",
+        "close": 1846.1,
+        "day_change_pct": -0.04,
+        "week_change_pct": -1.27,
+        "volume": 9243641,
+        "as_of": "2026-04-20"
+      },
+      "news": [
+        {
+          "title": "Bharti Airtel hikes tariff of 84-day prepaid plan by 5%: Report - ET Telecom",
+          "source": "ET Telecom",
+          "source_url": "https://telecom.economictimes.indiatimes.com",
+          "tier": "B",
+          "published": "2026-04-20 14:38 IST",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWGFlTF9uZVZOSGJXTFJPcUROSk1makFueHpVQlFSNk5pYXVaWno5cmNSLWJZZEt2TmlqT1JVNTRQSWh2SF84a2JnUlY4RXkyVC1JSVpReWpiZnI5eGxobi1kb3FOYWEtS2szamltNk1fd1BTOGFnNE5MSGVYbEc5YU1JYkNLN3JxN3RXY3NNU0VTUFZZeWZuR2tZWGpSVnMtTnQxdmpOcXhNdmdreno1MHZPTU00elViZ2x3dXJkNWJScnNxbGFB0gHMAUFVX3lxTE1iY2hYX2I3MzhjMTNERWJscDJ3bEpJOWh3QlNkbWE4Y1BIREUySHl1b2lFcm93X1FKVllLNmxRWXlGbE1NSUxpOXVfTlFDWF80RFFYMzFhTUNJYjd6Rm9LWGl6dDhIdjUwLTdRQmRsUl9mb285ZV9uZWsyTTVMd1l3M3VuTk5iWUlyTVFoaThCRkJKaEFham9aZFU0bmNTZ000RTI1LUlNYWswTU9Mbi15cEJ2bUt1VlRPb1hjalItcTNhZWlJcUxUQzc0ZA?oc=5"
+        },
+        {
+          "title": "High conviction picks! Bharti Airtel, Kotak Bank, 3 other stocks with up to 70% upside potential - The Economic Times",
+          "source": "The Economic Times",
+          "source_url": "https://m.economictimes.com",
+          "tier": "B",
+          "published": "2026-04-17 09:11 IST",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOY0dQVVlEenBIcHJZUjRZRXFxWUh5WHNPbVNmdGZqNy1YRWxmTC1DclZ3N0xBZ1VEa3p5VG1TbDNpYml6SlFfLUs1bXNNc016RDZRU1FTbVdSSm9GQTFSWV9nemUtRTFiODlfN2ItSUFYY0cyRlBHTGJ1Rk44YTZEUmtfQ21GeU1NZWt5SE12X0FXdlRCTk1obzYtR182UEFYWENxOGhQYkp6Y0Z1WnQwbUJpTXZSUmRxMWVGenRobWRuVjZYdnFFT0R2R1ctMkw1VmZyY01NZHBYS2FkX1AyU2cwNnJpSDU1MTdoeGI1UUhKWWNyY2VUU2V6S1lRb3Z5Rk43TVd4ZUg?oc=5"
+        },
+        {
+          "title": "Trade Spotlight: How should you trade Engineers India, Sona Comstar, Lenskart, KRN Heat Exchanger, TD... - Moneycontrol.com",
+          "source": "Moneycontrol.com",
+          "source_url": "https://www.moneycontrol.com",
+          "tier": "B",
+          "published": "2026-04-15 01:02 IST",
+          "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQMFlkMDV1alN0Z1U4eTU2Q2FDcTd0dERXRlE3cTJVU0ZVODBta0RuSVN3VXhhTXVPa2p2S1BYM1M5MHB6UEpVU0d4Vm5NQVpHTmZ6b3NhR3JkMjZlWFVsRW9xVi16Si1oYURXMlZFQm9PdUNlbE5jZnVYOWRfaW1vQlRTMHFjQjdpSTE1Rl9KV2szeWc0ZzlVYW4tMEhlRU1iVUZSa21RQ2t3b21zNVNqa1lpdGVDVWFxTkFHWmZPR1p3aXFfWmM5ekdFZWY2allrNjZEbkhRZWxaYzVvSThVaTM4eDJqRW9GYmdOSEprbEhwRG9fMkZURU1ZM1lITDhReTV3djFlcXVZRExxTXVXSFJMenRhTm5JSHBIeS0tc0g0SHo2QXVzT09ZZ2J0SGxCeXhnMDdxY9IBvAJBVV95cUxOT2dtNC1ENUZEOGdFdUdDeGtFazZzUU5ZbzM4U296RnA1TU9QdXhpbC1GakdXYkNwSEttXzZwV2dkV2tQZmFJVVd1QzNRN3dQczUyLVV6Mk9tNThaV1dzdzAyNTN1ZDg4QlUyTHVsd2ZQMnJSd1U3bU9uVXhRZ0ozUmNEcDktcGJBcDJoMWpIWXN2MXVjMG1kbWl5d1QtelhSc2pvTENLbTc4aE5YRHo2UkdsUGJPYTYxaU9sZTVNYjJidzRSWHV4NklZUzg1WHpJaHNZLUdRbmpjLWpjYjlwRHRMbG5TTTE3WEF4VUdXdlVsclI0WFZqbXFXdzZfS291bjdrOFVNRG9qeTZiVnNtaU5iTGhXOHJpUTFabXM3ZjI1bGZMN19JUFdqWVpNdEQyLUVLX2pHcnl6S2d1?oc=5"
+        },
+        {
+          "title": "SBI and Bharti Airtel - HDFC Mutual Fund: HDFC Bank and Infosys among top 10 stock holdings in March - The Economic Times",
+          "source": "The Economic Times",
+          "source_url": "https://m.economictimes.com",
+          "tier": "B",
+          "published": "2026-04-17 13:21 IST",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdlI5bWZyVXdBSnNKQzVkS1l1LWFhcUpsT0x4RkhhNW04M2pQblNCTlhoSlhvaXhJYzh5VUs5dS1abVVTQ0tYZWkyc0M5dHhOUU02ZUdPM1NYRXVKVjdDR3hRX1FPZ0tDU0dYeF96YWszTnhveFlHZ2t2WVlPd1FnOEFraDNoRThoM0VrbHVjaGJqNEVhSEtDUGtmZGs5eWNZdkNDUTJ0NUk2Z1FiWURJeVR2MGE0RVVNek9PbEh3U0dnczBNMEQwa3pSb3YwLWUyVW8zOFdOWjNvVTJuT3RNWWlKdzlnTElSaWF0TWhyVGh0WlU?oc=5"
+        },
+        {
+          "title": "Iran war premium: 10 marquee stocks BNP Paribas told investors to buy for up to 77% returns - The Economic Times",
+          "source": "The Economic Times",
+          "source_url": "https://m.economictimes.com",
+          "tier": "B",
+          "published": "2026-04-16 11:16 IST",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOQmJmeTlkbGdkUGxuMGlzTVhZSkFCRko5SklRRlcxclJQN2txR3ZFRWhFRktyVVpoQWJWNEdjbDBjOXJ4RVdMb1FRdTJHYkItTWJjemRJVEUydDZLR0JRSTl4Q1BIaHhORVkwNU44c2NxMVMyVEVFZldnM0F2bFduWEdxY3JoeWhRSlQxUTluRFZubE9SUmNrVzRhY1FuclNibHBTakQ3MDJMREZLbVM0QUJZRFBiZTcyWjYzQWRpMVZSRmZVMWp2czA1QUxmSk15YndGQm1jeGRoOW80cEJORFJjTWVEVEd0c1NnWFNsRkNXOTYwbVl5OGFnTnk5T0l0eG9QN3VR?oc=5"
+        }
+      ],
+      "bse_filings": [
+        {
+          "headline": "Certificate pursuant to Regulation 74(5) of SEBI (Depositories and Participants) Regulations , 2018 for the period from January 01, 2026 to March 31, 2026",
+          "subject": "Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-20",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/f005a0a5-e91a-4dfe-871a-9bfc865b04bb.pdf"
+        },
+        {
+          "headline": "Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations, 2015",
+          "subject": "Disclosure Under Regulation 30 Of SEBI (Listing Obligations And Disclosure Requirements), Regulations, 2015",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-18",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/3550f11c-4be5-4e5f-8987-77421d25c824.pdf"
+        }
+      ],
+      "nse_filings": [
+        {
+          "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "detail": "Bharti Airtel Limited has informed the Exchange about Certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018 for the period from January 01, 2026 to March 31, 2026",
+          "date": "2026-04-20",
+          "attachment": "https://nsearchives.nseindia.com/corporate/BHARTIARTL_20042026173757_Bharti_Airtel_-_Reg_74_5__disclosure.pdf"
+        },
+        {
+          "headline": "Action(s) taken or orders passed",
+          "detail": "Bharti Airtel Limited has informed the Exchange about Action(s) taken or orders passed",
+          "date": "2026-04-18",
+          "attachment": "https://nsearchives.nseindia.com/corporate/BHARTIARTL_18042026121806_Bharti_Airtel_-_Reg_30_disclosure.pdf"
+        }
+      ]
+    },
+    "ASTRAMICRO": {
+      "nse": "ASTRAMICRO",
+      "bse": "532493",
+      "name": "Astra Microwave Products",
+      "price": {
+        "status": "ok",
+        "close": 1064.55,
+        "day_change_pct": -2.64,
+        "week_change_pct": 4.73,
+        "volume": 286258,
+        "as_of": "2026-04-20"
+      },
+      "news": [
+        {
+          "title": "Stocks to trade: Raja Venkatraman recommends two stocks for 17 April - Mint",
+          "source": "Mint",
+          "source_url": "https://www.livemint.com",
+          "tier": "B",
+          "published": "2026-04-17 05:59 IST",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPa3Z3MVRIQkJ4SFpGcVZpY1FWWENpLUdsNGN2VXNhQ1VCZDNDdlNNT2pmMHE3UEd1emhjY1dRMTFFNlducVJQek5oWENxUlVnNFpZc3FjM3cxaVh3YjlxTlBKMGRhX2FyRDEzVF8yOV91cWM1RVBYd25JUUdaRmxVSVUzN05YTGxMSm8yMVJLekFfS1QwdVhNVGhOUXRhbFVKR0tVVGFpRWdQT3Bfbk9wOG90R0JPZ1BNZGVPYUllS2pJY2txSUlvSGJ6UzN0SFpDSnVxSk1JN2JXaTdITGRn0gHkAUFVX3lxTE03LXRjSndSdjdycFNRQ2xNR3M5LXBvaWExdk9yWmhCaXdoRGlYcTlsOUR5U2ZHQVBKUndwVC1PODc4bmR1ZjBnMTlfS1lhaGxpLVAwenhXODlzR0FJNVRwVjlBRG1OcUhpendlVDNrY1ZhcTFOWDN5ZE1LQ1l2OUYybUs1ZjJ4MHVjLUpTcUtLSHpwZk9jRkVDSnJRclBtR1Jrbm1BYkxvZngzSXoyUk1XaHhyX1JSeTdjeF9FWWwyb2tVaTBjWUY1VGpHYVpqM3lMeUp3VlFsNkx6THBnUElNMXp2cw?oc=5"
+        }
+      ],
+      "bse_filings": [
+        {
+          "headline": "<b>Format of Initial Disclosure to be made by an entity identified as a Large Corporate.</b><br/><br/> <table border=''1px''><tr> <td><b>Sr. No.</b></td> <td><b>Particulars</b></td> <td><b>Details</b></td> </tr> <tr><td>1</td><td>Name of Company</td><td>Astra Microwave Products Ltd</td></tr> <tr><td>2</td><td>CIN NO.</td><td>L29309TG1991PLC013203</td></tr> <tr><td>3</td> <td>Outstanding borrowing of company as on 31st March / 31st December, as ....",
+          "subject": "Format of the Initial Disclosure to be made by an entity identified as a Large Corporate : Annexure A",
+          "category": null,
+          "sub_category": "",
+          "date": "2026-04-13",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/ca2e20bf-037e-48ca-ae23-0ce733487358.pdf"
+        }
+      ],
+      "nse_filings": []
+    },
+    "FEDFINA": {
+      "nse": "FEDFINA",
+      "bse": "544027",
+      "name": "Fedbank Financial Services",
+      "price": {
+        "status": "ok",
+        "close": 148.66,
+        "day_change_pct": 1.27,
+        "week_change_pct": 5.06,
+        "volume": 986806,
+        "as_of": "2026-04-20"
+      },
+      "news": [],
+      "bse_filings": [
+        {
+          "headline": "Intimation of Earnings call to discuss the financial results which is scheduled on April 28, 2026",
+          "subject": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-20",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/6e78429a-0d64-4612-aba3-b76dc6252a9f.pdf"
+        },
+        {
+          "headline": "Fedbank Financial Services Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 28/04/2026 ,inter alia, to consider and approve The financial results for the quarter and financial year ended March 31, 2026",
+          "subject": "Board Meeting Intimation for Consideration And Approval Of Financial Results For The Quarter And Financial Year Ended March 31, 2026",
+          "category": "Board Meeting",
+          "sub_category": "",
+          "date": "2026-04-20",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/b36f81ea-a288-4516-bf4c-d92b4838ec44.pdf"
+        },
+        {
+          "headline": "Intimation of Allotment of 24,500 Equity Shares due to exercise of vested Stock Options by the Employees",
+          "subject": "Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-15",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/6d297541-84c8-429b-a0a6-131a65ce6e99.pdf"
+        }
+      ],
+      "nse_filings": [
+        {
+          "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "detail": "Fedbank Financial Services Limited has informed the Exchange about Schedule of meet",
+          "date": "2026-04-20",
+          "attachment": "https://nsearchives.nseindia.com/corporate/FEDFINA_20042026165658_Intimationofearningscall_20042026.pdf"
+        },
+        {
+          "headline": "Allotment of Securities",
+          "detail": "Fedbank Financial Services Limited has informed the Exchange regarding allotment of 24500 securities pursuant to ESOP/ESPS at its meeting held on April 15, 2026",
+          "date": "2026-04-15",
+          "attachment": "https://nsearchives.nseindia.com/corporate/FEDFINA_15042026183819_Intimation_letter_Reg_30_ESOP_15042026.pdf"
+        }
+      ]
+    },
+    "FORCEMOT": {
+      "nse": "FORCEMOT",
+      "bse": "500033",
+      "name": "Force Motors",
+      "price": {
+        "status": "ok",
+        "close": 21925.0,
+        "day_change_pct": -2.02,
+        "week_change_pct": -0.34,
+        "volume": 84165,
+        "as_of": "2026-04-20"
+      },
+      "news": [
+        {
+          "title": "Tech Query GAIL (India), Force Motors, Coforge, Aditya Birla Real Estate - What Is The Outlook? Where Are These Stocks Headed? - BusinessLine",
+          "source": "BusinessLine",
+          "source_url": "https://www.thehindubusinessline.com",
+          "tier": "B",
+          "published": "2026-04-18 21:32 IST",
+          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPN0UyUmVDVFQ2a1d3WWhPVVZtV1UtLXI4b0lacnJabFZReGtmcTJ6UEdqbWFlb2NKNm5rY1g1dnpob0NWSHN4NXFFcmYzZzluQUZvSnU3RUtrbGt3cWRVdTUzeUdILVkxNEw1ZzJxcnlFS0I4YWtRak5sMlVYWGJrOHlwbjU1MUFPVVZNdU1VeUViN0NENzdOS1RZTWtTRGhjSnlTUW9tcVI0NkttNDRxa3gzMkl2NlFmUWFGM1laYnJTQjVNZUdndl9UZ181YXFiTy1ScHhyT3FTbEI3LWdKZVdQclNPWmZRYnk2VnZxeTh4MzZVZjZIa08xZkpibVRPMEJNWkJ3ZDRvS2NXUW0tLURvNW0zQzdFYUVSdE5yR28weHZBaC1zSkhNY9IBsgJBVV95cUxNdjV6ZUhfSDFLLXNiY3puU2ZqdVdyc0VoczhiZTE4aDRxTEpqbldiN0ZIZmg1c2xWc0V0aDF5eGo3WGhZOTVZZlIxMEJVYzF4VFVMS1E4T2tqblhkU2h4d0plUmd3SW1wTC1DcFBxaVQzeXBFM0RkaGFBLVZma05IUDM0eVExRGlMam1ncTJxemEySUlGUnRndnFZWVRaRi1QYU1yNDZJWXdUb1poTm5TaWMwQ3ZzTFZIVmN5OGt1ZFllTkFqSkp4U2c1RksyUFJDX3d2cmNlUkVCaG16NmpjellWOWlPbGlZWmJZNWJVMGcxckplanRkcS1jZFB4aFFsY0o2eXc4Y09zd2o1YkkyNzFOQjB6Qlc1UEo2cnNpc0pVTzJBNDRiei1BVUtjbzVKcUE?oc=5"
+        },
+        {
+          "title": "Force Motors - Hyundai Motor among 5 F&O stocks with sharp rise in futures open interest - The Economic Times",
+          "source": "The Economic Times",
+          "source_url": "https://m.economictimes.com",
+          "tier": "B",
+          "published": "2026-04-15 20:19 IST",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbjNxOHpiZzQ5YTU0bk1xQ3lDbHJpSTFWT2NmVHNiWVZWSVFpWUtLVnoyejBDTGEzZHA3NV9WZEJ2MVVUVWlkMVFTZ2FxUHBoYTlMWFY3UW5WZ25ENnhvMXVvMEY5dkdvanZ0SmpvTVlhWTh0QUNIV241Wk9BRVBkYTkzZUFLaEd3MDl6M09xVi0yTDV6dndsOGFLam1jMW5XWjZFS1FHSXRFWHAtOVlGczBtbUJBMmZXZ3RNWTFBZXVYT0xKSi1ZYktUcTE2LVA3Q0VvUUUwR25pSFYtYmVrQnlGOXQ0VnZ4WGNudFRR?oc=5"
+        },
+        {
+          "title": "Force Motors - Siemens among 5 F&O stocks with surge in futures open interest - The Economic Times",
+          "source": "The Economic Times",
+          "source_url": "https://m.economictimes.com",
+          "tier": "B",
+          "published": "2026-04-16 10:54 IST",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORkVFaUVjeXpuX1FiMldoeG40Z25uclNfck9rX3pnNHUxc2s5eUxod3pJaXloQ1BvY0lpbml3blVTS005RnpER2VRZXFiaml5VlJlbDRxUF9BTDZ5ZmY4S3FnWmxKTHVhTl9XTFVwT01VRUdkOTE0SGp1MVp4eXdEWFc1czB5VVg5X3V6VXhTU08yT1JCSlZFLTRMcFNWRzVTdTBUelRscmZXV1p1c1MxVjRYMFRsUVZHVGduOEJFbmo3T3R5bzItV1B4Y3FyR0RTVEExcWV3bFhQTF83akhr?oc=5"
+        },
+        {
+          "title": "Forbes India Leadership Awards 2026: Guts & glory - Forbes India",
+          "source": "Forbes India",
+          "source_url": "https://www.forbesindia.com",
+          "tier": "B",
+          "published": "2026-04-20 13:19 IST",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbHlXOFUzVS1jdTFtNThVNnMwQmNQRjFLcThFMFNYdXZDYWdDUjFuMlVCeDdGdU9TdnVOVzNhWFJPQ0V1Y2dOOHRBajR3TXJyTGJVaDVRU0t0Z01xYXFCWGFRYlJBWjI4YTFPYmZVMHlFZHMwU2NQaFZWdUptNTUzY19OYTh0eXRZQXpLcEV1ZVlZYlFYMS15dGRpTV9JSjFTUEtCMUdNUFM1T1FY?oc=5"
+        }
+      ],
+      "bse_filings": [
+        {
+          "headline": "Compliance Certificate under Reg 74 (5) of SEBI (DP) Regulations, 2018",
+          "subject": "Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-14",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5c8b7624-3a74-4740-8ea1-6ce772827d63.pdf"
+        }
+      ],
+      "nse_filings": [
+        {
+          "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "detail": "FORCE MOTORS LTD has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "date": "2026-04-14",
+          "attachment": "https://nsearchives.nseindia.com/corporate/FORCEMOTORS_14042026214106_74_5__DSC.pdf"
+        }
+      ]
+    },
+    "ITC": {
+      "nse": "ITC",
+      "bse": "500875",
+      "name": "ITC",
+      "price": {
+        "status": "ok",
+        "close": 305.0,
+        "day_change_pct": -0.59,
+        "week_change_pct": 1.16,
+        "volume": 13540471,
+        "as_of": "2026-04-20"
+      },
+      "news": [
+        {
+          "title": "ITC Hotels Q4 Results 2026 - Find ITC Hotels Q4 Earnings Result | ITCHOTELS Q4 results - Mint",
+          "source": "Mint",
+          "source_url": "https://www.livemint.com",
+          "tier": "B",
+          "published": "2026-04-17 12:30 IST",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUUlKZVlRTXZQTWF4aXBIR25fSERWZ29sVWpDdDN1Qnc5LWM1cGIwaUlFQjYwQVUycTNWMFBXLTVRU0N4VGJKNWNrTS1DMnZSQTJBRHNZUGwzNnA1UHV0VzRUbkI2MlNCR2dHZko0MFpyWllhNmJ2X29JYVRnc0JKaA?oc=5"
+        },
+        {
+          "title": "ITC bets big on protein-rich foods, eyes fast-growing health segment market - The Economic Times",
+          "source": "The Economic Times",
+          "source_url": "https://m.economictimes.com",
+          "tier": "B",
+          "published": "2026-04-19 14:57 IST",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMlVrdmtUTk1tZWgwc0hqRFlKbjNyUDdUZEVYc1dDMTRnVDRPVkx1aG82LUlIZF9nVHliZ0tIZnJCbVM0REVxaUYxZWRjQ1RGcTZTaDFLdXdka1I1NUlSRFJQdHJZMjZsWklYQ21zSlA3TGtqT2wxdkY1VjQxYVZOTTd1REVleURtM2tCaGRLdVZlMkJjSGgtQUk5V21pb1FabkIwMXpTbW4xSkJfOUJzUmtmMlQySmx2TEJ6UmJFVVBlQ0dTYmk1RE9VZ24wNjdDMERNeVNLSDlfbElWaU01SkFNNWZFc2x6S21vN9IB8gFBVV95cUxPbFQ1NXFZYWlzV2JSSzlmNWpqM19KcDVZcVA2dnlNdFp4ZGhsSUpjZzlWTld1ZnM0Xy1MVFYtMEJvX0xHcGdOTmxjdTllRDB0UXJJb0IxaXZDWDI5dHlWOWtLTmxpR1pEY1FfekI4c05oWUVDVmRpVk92aDJOdS1aZXdqdnlPMGJ0aURtUUx0SXR4VnpPUVVKU0xwTUx1dUtsRVMweVBsQkxhY056a3lpUVhoeDkyckRoeTJNZnI3MDJCeWNCZ3NwUE92OGRfanVyVDVOY0hyRXZ5V1ViSmNiTWFrQWgwbC1oX2ZzMWRJRUxnQQ?oc=5"
+        },
+        {
+          "title": "ITC shares extend gains to 3rd consecutive session on Friday; here's why - Moneycontrol.com",
+          "source": "Moneycontrol.com",
+          "source_url": "https://www.moneycontrol.com",
+          "tier": "B",
+          "published": "2026-04-17 15:17 IST",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV1ZHbWlhd0J5UHV3b2ZXVDFqRjhJaE96LXhnVkU1MUdWOTJwYVFZb21vTHNyS2VNeTA4U2NIX2ppMnhCU2ZTS3RPU1l0U3JSUmVhQTA5Nm1zTWxHWE15cHdhMkhUN21tVmYxSGlFNXdhU2dDdm9oZ2tacXhMWnhabG0wSWx6aXN0Y01qOUdQdHZkUzl1eVBHZnZQSVNIeGxSWDhLSnRwcG1hVVZNZjVzT3EyWkliZHBPeE9ZQlo0Y1NBQzNHLVN0RV9JekFpc0dUX2fSAdcBQVVfeXFMTWdtUVZ0Q0xNMmV4ZUZaVnR5dXZUTVNWTkR5dEVxWlE2NC1kOFRaeDRRSFFpRFJSckdvRHBwY1NXT2Z1emFfV1ZMYVFpLXh5Q043TXE2b1hoR2tTaHF0OHd5NklMWFE4NVhqS0luMUJGVDQwN1ZRdmZrVFczaV9qNUNXZFhEb0RiM05GUkMzQmNKR3E4WV8xajBRRVhmZnduaFhkTFFuNm9tWm42WVRkZ29XZ0NBTHBUQkF5UTNyQmozNDRxNmR3d1A4MXBrbi1pR3ZZSk1ZQmc?oc=5"
+        },
+        {
+          "title": "Cigarette stocks rise: ITC, Godfrey Phillips, VST Industries gain up to 15%; here's why - Moneycontrol.com",
+          "source": "Moneycontrol.com",
+          "source_url": "https://www.moneycontrol.com",
+          "tier": "B",
+          "published": "2026-04-17 10:53 IST",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYnE2VXFKNEd6MURUczNER1c2cVZHVVIwOFRpTEpva2ZyMXNTb1lkN0NlZmNKTmpaZ0NNMUFaMTBtOVU1ZGFHUjFWYUd6aDVrNThPOVB6YU9kVkVPdVhTUkdYbkI2S1pJZUx6NTdjVmhhU21aSEExTkZvY0l6QmpkSzJQc0hQTlFpR1hSTE9QVXhxNWlXbDRGb01lM0JCb21yZmRKSjBFMVBLRjZNNTlMaGE3N1FXLW1taUREQkpvUUJMZl91VEFzcjhpc2t0dml3eTJHM3JfU0hwWHE0QzFVQ9IB5gFBVV95cUxQV2FVOElYQ29sdEc3UUpPeWJBVndlQzJlY1EzQXQ5aGVYejg2TzZCdUJjY1Izdmd4aWgtWEp0UTR2M2k0RzBpbUlQbXZxZE5mSTBQLTlCcWFaWGdSMUk3TnpPSEZLNV94TnRrOFdWcmJZNWh2SEZKT2RhbmlWSlFxVklReUNhd0pUZU85dTVtZmhhX0ktM2hlRmlPSVFmblliaWIyMlc0VzRpRFBwSExUem1qNmNWWXB4SHhST2NhQXlQOE56SmpFU25iZHBwZ3V4MXZnUEVJR2JVcnIyWnhnUlBlOVBHUQ?oc=5"
+        }
+      ],
+      "bse_filings": [
+        {
+          "headline": "Publication of Advertisement re: Loss of Share Certificates",
+          "subject": "Announcement under Regulation 30 (LODR)-Newspaper Publication",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-16",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/1a924d12-5404-4679-bae0-d40450167b7b.pdf"
+        }
+      ],
+      "nse_filings": [
+        {
+          "headline": "Copy of Newspaper Publication",
+          "detail": "ITC Limited has informed the Exchange about Copy of Newspaper Publication",
+          "date": "2026-04-16",
+          "attachment": "https://nsearchives.nseindia.com/corporate/ITC_16042026143508_SELetterenclosingadvt.pdf"
+        }
+      ]
+    },
+    "ADANIPORTS": {
+      "nse": "ADANIPORTS",
+      "bse": "532921",
+      "name": "Adani Ports SEZ",
+      "price": {
+        "status": "ok",
+        "close": 1578.4,
+        "day_change_pct": 0.32,
+        "week_change_pct": 9.84,
+        "volume": 2998603,
+        "as_of": "2026-04-20"
+      },
+      "news": [],
+      "bse_filings": [
+        {
+          "headline": "Intimation regarding Second 100 Days Campaign - 'Saksham Niveshak'",
+          "subject": "Intimation Regarding Second 100 Days Campaign - 'Saksham Niveshak'",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-20",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/f42beb97-dbf4-4dd5-819b-14bb96e7555d.pdf"
+        }
+      ],
+      "nse_filings": [
+        {
+          "headline": "Updates",
+          "detail": "Adani Ports and Special Economic Zone Limited has informed the Exchange regarding 'Intimation regarding Second 100 Days Campaign    Saksham Niveshak '.",
+          "date": "2026-04-20",
+          "attachment": "https://nsearchives.nseindia.com/corporate/rkbhagia_20042026203311_Campaign_-_Saksham_Niveshak.pdf"
+        }
+      ]
+    },
+    "CSBBANK": {
+      "nse": "CSBBANK",
+      "bse": "542867",
+      "name": "CSB Bank",
+      "price": {
+        "status": "ok",
+        "close": 390.4,
+        "day_change_pct": -2.36,
+        "week_change_pct": -4.08,
+        "volume": 325272,
+        "as_of": "2026-04-20"
+      },
+      "news": [],
+      "bse_filings": [],
+      "nse_filings": [
+        {
+          "headline": "Disclosure under SEBI Takeover Regulations",
+          "detail": "FIH Mauritius Investments Ltd has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
+          "date": "2026-04-16",
+          "attachment": "https://nsearchives.nseindia.com/corporate/team_sandeshc_10042026113411_reg4.PDF"
+        }
+      ]
+    },
+    "MARICO": {
+      "nse": "MARICO",
+      "bse": "531642",
+      "name": "Marico",
+      "price": {
+        "status": "ok",
+        "close": 760.7,
+        "day_change_pct": 0.45,
+        "week_change_pct": 1.43,
+        "volume": 1301721,
+        "as_of": "2026-04-20"
+      },
+      "news": [
+        {
+          "title": "Marico Q4 Results: Date, Dividend News, And Other Details - NDTV Profit",
+          "source": "NDTV Profit",
+          "source_url": "https://www.ndtvprofit.com",
+          "tier": "B",
+          "published": "2026-04-17 18:20 IST",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObFZnMmxNSTg3dm1Edzh4R2NreXYzNldFNG9RV2EtSFM2eTd4S1ZtUW0ybTRWUlc4VjNhWW9uWXpBak5ZR3JfSjFsWGd2eU5tdFcta2dITjMwRDBJc0RNcVJhdFFrblpFZU56ckF2ZW9tc0kyN3k2cUFSczd0NWRuVTgtUjVxOUZnbGllYzNGR1ZkSThISjJuaUZPUUlBU0XSAacBQVVfeXFMTWR4MDlOamFaMVNsaWp3OFZ1dkpXTFE2czZRZUZQanVNS21tUUF4QWVLaFBXcnhveEVIY054VExPaW9GTy1pZjFUU2tsZUp1WGVmQ3hPMElxWE96MWdIWlVubl9MSWY1QmFvOFVGbDJLVktCbVJUQ3Y5eHh1bFhNTXkzanhrQXdpRDJHRTlKcXAyZjRvY1RRbGtVTUxQNTJCSFhxSlRQMmc?oc=5"
+        },
+        {
+          "title": "Titan, Asian Paints, Britannia, DMart, Pidilite Among Consumer Stocks To Watch Ahead Of Q4 Results | Check PL Capital's List - NDTV Profit",
+          "source": "NDTV Profit",
+          "source_url": "https://www.ndtvprofit.com",
+          "tier": "B",
+          "published": "2026-04-15 11:41 IST",
+          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPNWowcTFLdFpFbVBoaVlicV95R0ZaRkxqR0tOWjY4alJNb21iNi0zZk1FcEVtYktobWR6U1djbUNHUDcyTzI4NUY2Tm9rM1VudkhVbXJFdVR6bG5DN3dHM0FIZlRldEgwa29HN0VuNGhvUzJmWmY2RFpMZElXazB2ejlOZ1VueUppT2wwb2V6Nk54T2JTNW9TVDhSaWFzWDhCUk02aHlGMG5PYlJqUGdMbE16Yjk0SlJLazhMSVJuY3ZsNl9jbEozSmhlcDFCVUtoUlNxUVZ1cWNOVlB2YTVGcDF2eWN3d1ZuZ09CSEZFcVhBamJOc0V5VGYwWDlVUVJ3QlZsNzd1T2wxM3JHQXpnOFJNMTlqdEd6UXRMRlpESQ?oc=5"
+        },
+        {
+          "title": "Buy, Sell Or Hold: GMDC, Marico, Ola Electric, Tata Tech, LIC, Siemens, Enviro Infra, Inox Wind, And More — Ask Profit - NDTV Profit",
+          "source": "NDTV Profit",
+          "source_url": "https://www.ndtvprofit.com",
+          "tier": "B",
+          "published": "2026-04-16 15:29 IST",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONEd3Rmg1ZkctV1RGTFdIV2VzTk04ZFBVSWRRX2xheHVGUDQ0VXZkOTMwdV81aUphekE3eGQ5RFZlbU8tMi11c2JNOVpMRGV0cTc1R1FnMWxuRl8xYVRDSWxOTGtPdVNJVTNWT1NHTDRPaFFTZEh1czYtMThmZWliM3pOV2VqWVU1b05QQUlkc2dKSEl6cTUteGN1V3o4d1lQNlpkOHNISVZYak9iT2VrOWh1RFdNWnQ3YXpNX25vMEEzMFlfeElUR1RnYkhSd3JnMnlNcWdZZUNPT3Y5RmxvbnRJMmbSAewBQVVfeXFMTkRXZUN4VkNUUEFfOFlNajcwakNrTHdJZldUT3pPN2NMRVJ4TG9PTUtoUVI4RV80V3E3UzBXZzBfT00xTHZRT0tneXdqVFg1VTF0UnQ0MC1nazhMWVZCU3JrSjhUeFhfaXRmUWlkd0UtMHJzVE1YOXdwTkJ0YnpvRjZEaldzMHozMWRkeGtaYzZJX3g4ZzNSUVlCOXBKQUM2eGpBekFzUnAtdjZGdW9lSUxRUzd2dENzdWxiM0JDd1ZRR19aQXI0My1WQ3RlSjRRVmtxSnZoa2h1V3dWaTQwcXl5YUpnb2JTM2RkZk4?oc=5"
+        }
+      ],
+      "bse_filings": [
+        {
+          "headline": "This is to inform you that the Company will hold an investor/analyst conference call on Tuesday, May 5, 2026 at 5:30 p.m. (IST). During the call, the Management will comment on the financial results and operations for the quarter and financial year ended March 31, 2026. Audio recording and transcript of the said call will be subsequently published on the Company's website. The details of the aforesaid investor/analyst conference call have been appended hereinafter.",
+          "subject": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-17",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/d25add04-eb83-4bb9-a39a-26783ffee2ba.pdf"
+        },
+        {
+          "headline": "Marico Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 05/05/2026 ,inter alia, to consider and approve i. the Audited Standalone & Consolidated financial results of the Company for the quarter and financial year ended March 31, 2026; \r\nii. take on record the Auditor's Report on Standalone & Consolidated financial results; and\r\niii. consider a proposal for recommendation of Final Equity Dividend, if any, ....",
+          "subject": "Board Meeting Intimation for Consideration And Approval Of The Audited Standalone & Consolidated Financial Results Of The Company For The Quarter And Financial Year Ended March 31, 2026 And Recommendation Of Final Dividend, If Any",
+          "category": "Board Meeting",
+          "sub_category": "",
+          "date": "2026-04-17",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/a20d7174-d584-4267-a607-e7bfca1f9220.pdf"
+        },
+        {
+          "headline": "Pursuant to Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018, we enclose the Compliance Certificate received from MUFG India Intime Private Limited (Formerly Link Intime India Private Limited), the Registrar and Share Transfer Agent of the Company, for the quarter ended March 31, 2026.",
+          "subject": "Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-13",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/c0405f81-d071-4954-b403-042fc3d5a4bc.pdf"
+        }
+      ],
+      "nse_filings": [
+        {
+          "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "detail": "This is to inform you that the Company will hold an investor/analyst conference call on Tuesday, May 5, 2026 at 5:30 p.m. (IST). During the call, the Management will comment on the financial results and operations for the quarter and financial year ended March 31, 2026. Audio recording and transcript of the said call will be subsequently published on the Company s website. The details of the aforesaid investor/analyst conference call have been appended hereinafter.",
+          "date": "2026-04-17",
+          "attachment": "https://nsearchives.nseindia.com/corporate/marico_17042026192809_SEintimation.pdf"
+        },
+        {
+          "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "detail": "Pursuant to Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018, we enclose the Compliance Certificate received from MUFG Intime India Private Limited (Formerly known as Link Intime India Private Limited), the Registrar and Share Transfer Agent of the Company, for the quarter ended March 31, 2026.",
+          "date": "2026-04-13",
+          "attachment": "https://nsearchives.nseindia.com/corporate/marico_13042026122435_NSE.pdf"
+        }
+      ]
+    },
+    "MCX": {
+      "nse": "MCX",
+      "bse": "534091",
+      "name": "Multi Commodity Exchange",
+      "price": {
+        "status": "ok",
+        "close": 2859.1,
+        "day_change_pct": 0.11,
+        "week_change_pct": 9.97,
+        "volume": 2053838,
+        "as_of": "2026-04-20"
+      },
+      "news": [
+        {
+          "title": "MCX gets SEBI nod to invest in proposed coal exchange, commits Rs 100 crore - Moneycontrol.com",
+          "source": "Moneycontrol.com",
+          "source_url": "https://www.moneycontrol.com",
+          "tier": "B",
+          "published": "2026-04-19 19:48 IST",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQ0NpTmEycV9FdDg3cmlDVzFyZzRCMmZkWDR3N180WFdUUHhmaVFxcGhmbExrY2cwQ0ItcnZFYWlTYjNMeTc5dkY0bGhDaGhmTUpLSzljOWE3NFRrNEZ0YXhlM0NmUVpHZ0U0b1dYUnE1LThXNUNLNlBuOFo0RzBOS1FzX2hSZzlGQ1RhYWUxWFgzTHJuSFJBSWFWSXRacEtJc1hBaG1rNEptMl9yOWY3RHp0RElMVlpuTTlndXVrbjFIN25PMjRSUVZYNUVZV3YxOFBCR1BR0gHbAUFVX3lxTE4yYWNjU3ZqZElSd2FqM2VrbHVDamNfNjVVSHhqOWQwWXlEeERZNnRRNEdCN0NxcTQ5dGZPTmVFUEN1eERTSFJndlJ1NEl6Mmd2NU5ZNnlDOTcxMjc2eWlIYlREd3BoTlNKNTJvMnBxOEQzWWxQM1JKdWpBRlRONWNudWVieTBPMlJXYjNqUVBQVF9kdkxRc3JMLV9OYlMtT3hEcEtFWkMzVmtEV1J3NlRNYU1iN1FZVEx5dE4tTDc0cVBmUDc3NDVrS21ra2NOSHhHY2J6OWRPWTdXRQ?oc=5"
+        },
+        {
+          "title": "Stock market holiday today: Are NSE, BSE and MCX open or closed on April 14 for Ambedkar Jayanti 2026? Che - The Economic Times",
+          "source": "The Economic Times",
+          "source_url": "https://m.economictimes.com",
+          "tier": "B",
+          "published": "2026-04-14 06:53 IST",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOTXBvR1RrbzJLMWpQOFA2SHFkMnpIeEctNU9CRndreVlXbHUycnZFVFY4ZUNTRkstZkRBZ243bldvekhnNkVNbzFQNk1PVlZYYlJkN28xdERBOW5DVHo3QWlMVldFcEtqbXBveFRubnpqekIxbGliMW9CeE5LQnhDMmpUdmo2bmpIaEpCTGdmZmZiU2hCNUcyQUd0ZHpuMFdjNU9NdlRYNjdIYkxnQVlEemZQdUJ2OUpfUmdZaHVaTmhiSmVLX0R6UTBJYWRPVzE5UnhyN2VsOTM3TnRiVWMzT2FvQnluVmNYVUFlcmdiRkQ2Tl9TdDdFRkt0QnJRQlczQVNGQWk5WXPSAY4CQVVfeXFMUGlPWmQtY3haWlZkYVlWRWthem1CdTZMTU1UUDBNbUljM1AyRWh4SlQ0WmNiNlZwd1AzalVjUDhxeFJVSVJqaWZBWWNvQW55XzliMHI1UmRjQzNoYW5VRms0ZGxMRGVZcVNjLVhaSHc5YmV3Zlg5ZGlOTl85bHVkdzhPUkQ1VTBmRFBYbnFpTC1kMnJIMkdfWXBENWNsWnhaMTVnbmxseHozVVVSTzc5Q3BkVVFXaDJMaEpZWmF5WncxY3EydnF5NHBlbE1uNTNPUG11aWczakxUX0RXdmhNYy02SUY3UnZueGxzbUNXbHFubkZaUEdET0VIM3QyRTRqM2ZGdVYwTmFqd25TUFpB?oc=5"
+        },
+        {
+          "title": "MCX gets SEBI nod to set up coal exchange subsidiary - BusinessLine",
+          "source": "BusinessLine",
+          "source_url": "https://www.thehindubusinessline.com",
+          "tier": "B",
+          "published": "2026-04-20 14:55 IST",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQlIxVFBrcXZjcGR1NmlsbVlzU2FkZ2M4RG5IMWtPM1lBczZaRmpvU2cyQmEzNWVqNUZJVjBTdnR5Y1FYOTdRR0FMMVJCWXhqUWQ4N0JiU2xHYk5Ib1BGVUpqWkVpdHFmbGV4UVhiSTZlbGlGYi1GYjZtYkZEb3IzSkM2Y3FhUjZOWEl0SExtQ2hPdEhRcGY0Sm5YUFZINkg2Z1U3MnpZV0FidkhUM2R1ZG55UktSODVT0gG_AUFVX3lxTE1jRkNwMUQwTlRlTkhlc1E2djBYNnJSS1EybEVFMnJHZVFZRWJMaE1LRVZmV2FGSTZjYXpQeDZ0QkhrSnVraGJ6NVQ3N08xc3ZaTkZSMm91cXZVUTJoMHdZcGZ4d1RUV3E4cTlZaW82NjRWb25Hb1BRREEtLUhRblpkN2FZUVdjTW9GTU1HcFUwU1BXMXlzS1c1VmFMaHlCZjRxNjFzLUN4bWZZQVRLWV9YbFFyaXM3dk1YUVBqenVv?oc=5"
+        },
+        {
+          "title": "MCX to launch coal exchange - BusinessLine",
+          "source": "BusinessLine",
+          "source_url": "https://www.thehindubusinessline.com",
+          "tier": "B",
+          "published": "2026-04-20 18:57 IST",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOGdteWxEc29pTkFUR0FGSVFLWjJJWTRqaGc4aXQwb0NBVlotS0lFa3p3ZjFSYWhlRDdIa1NIYXI1UzNzcEw4c1piTkUtQkloQnhVRmxmbVJCRkF2U0Mxby1ISnFPNE4zV0Y0N2lFWFJLNTJfblRIbHNpbE9TSWZXUXdEbnlpZW15TzBqZW95aEpwRS1qNWVLRXhqYnNpcVQxZzgybFVOZ9IBrgFBVV95cUxPUmdVV3NFeGdQTC02UURXQjdBeHI1S1hiRm9mRzlRS2RZS2RNaFZmbVA1SWdSQTZfeHRtcXMtcXZfaE8yYUlUUUg3c3hWQUZocFh3SnZBUnN5emllMzF5SnJuQUcyNGpoVkhzZ0stNGsxNFNoWmNNdVctUEVja0FONUtsTUlrcmRReGxPRmdRU1c4cGlYSERoZ0UzOXdDWmF0MWlHTU5tc01XTlNqbVE?oc=5"
+        },
+        {
+          "title": "MCX Natural Gas Futures: Can rise more - BusinessLine",
+          "source": "BusinessLine",
+          "source_url": "https://www.thehindubusinessline.com",
+          "tier": "B",
+          "published": "2026-04-20 11:35 IST",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZzFJajcyd2w1NkVGVEdyQXlMM1BZVjRrSXpOQ2ZWcEZXMmVfdU1LWVpmSW5TQWM1TExqbEFqaEV3a2g4aW1CdF85b3FOazR3MWxIaHBvT2lOb2ZCZ1J5YndKTmZ1eWxyZl9tYmtTb3ZibWdITFQxRk9xR1RUSXJDSkpQa0NoQVNvak9NMG9MVFp2dEdUYnIxYk1sVmFMRGsxVU55dUZBblc1bW9YVWZSblJVa0VsRDRrTDNMM1o3dm04U3lmOEgzWU45Uk1HN0hfSzAwUWVR0gHcAUFVX3lxTE9VU0xRSmJhRnJfSFFNTldpaDdxZmZQdk40MzN6MDlKM2J6Tjk2X3JzTEs1d3ZSZ1hqbzBfaXZOOVMyeUVoWVpCZW5XVEFXWDhFM0Riam5XU1JWTVJuaFljQ3EwdTllZkhOTUV5NnozSmFxNW1lVEJOTlNBbm96QWhHVHJGTlZWRm5RRktNUExNdUZfT0l4dE4xcEYxY1VyOHFlMVk1RXVaTFZGdUx2bFRHUXYybGJ4d2VocWFEQXF6UHZfeFBCdEZnbHczQXdzR0pFRE9NM2F5eEJSQ2s?oc=5"
+        },
+        {
+          "title": "Global exchange operators no match to multibagger MCX's 150% returns. What is keeping investors hooked? - The Economic Times",
+          "source": "The Economic Times",
+          "source_url": "https://m.economictimes.com",
+          "tier": "B",
+          "published": "2026-04-16 10:33 IST",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNby1NNXlkTzJlSEU1UUVuR1dqUElaNlRrM3E1NG83S19LU2lobWk3SlRsbzU1VUhsdWhCMk5yXzhyQWZOamJlR3paOERsTDU4VkxpSWtKMGV2UnNtcjAzUE0wRTN0YjZSdTZyQWpIVGVvU21XM2FXX1pvRjNuM2huZWwtMENCRnl3Y2dITnNmR195a1p0b0N3U19xUWRMSFBzd2R2aHZLVlVLVExQdGVmV2pPUUVfTVRDdFlrSEkteDFKdkN0RC1BZnJnaENHZG1qbG5BM0VDNHhnM3FMS1dZYTVyeVFvWmtDUFN4R1FtZk12RlNpOVhac2wwSTAxYWdFRDBN0gGIAkFVX3lxTE40RGdBbVUyYkk4ZG5JM0R2VXY2emFSd3RCN2NZaFlNYjgtTE1KZjVUUE1BYURKRlFXc1NjdFZzcHpzOWpuNEl3bjV3REZKX2VKcHFwYmh2amFEUmRLQl9aQkM0TjExLUs1NDJlMXdHbkktMkQ3M2l6N3JsdW0wLVc2dzMyVi1YbTdHRGRReVlFTU5taWxCQ1Y4cDlwdUlGWVJrMXQxVkdBRHJMdUNLTFFwMUlfN3hoNEd2X2NTWm9jazZiV0JCQlM5VlNiakxCRlM2djJ5SDhYckIxMXZNWklOZE1HRnRDdFh4bWN4OTVnUlNDSHFSSWtjVnFJYWpURE9TZkpsYVhyZg?oc=5"
+        },
+        {
+          "title": "Multibagger MCX Shares Rise After SEBI Allows Expansion Into Coal Business - NDTV Profit",
+          "source": "NDTV Profit",
+          "source_url": "https://www.ndtvprofit.com",
+          "tier": "B",
+          "published": "2026-04-20 09:25 IST",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSG1GaE1zN3kyQTNKUDhDWWlFeDhkdGNwMWM1V3BKN0NvbGJGMW9POEtZeUMwcDNYRjA4NlJNVzhJdjVrcWRuODlHaWJILURNdDl3dTg2dzJqeVVaaFlUM2pKanc4c3FDcXNHT0tPQURUNk1JSENRV0VLTXd3emZIWWpNVXFSYTc4b3phX0oxWFlzZ0dMVGZVYVk1RHByQl9zYlNrek5Rbmx2T3Q3TzBpcU1VRFBSX3JJUUHSAcIBQVVfeXFMTVJMUUttWm84WmNaT3JMcW1xTTJRSU5KOWQxV0pTSUJkeXM0aUpjT05QSWF4QXVMTmtHcmtOTkw3TE9nQU9OYThmSTZPeVNzS0VYY3BqQ1JSNFZRZkRYbjNSM0x0SG81UWZHamRMTGpzbEZWRzY4M2REdkhGR0xfUnFza3NsWWY1dkZmSEtFVFFrWW1FUXdxcklVb1BFLW1JMmVtWkJHekhhTXdNTEpVd19oaGw4NHJ3eDUzUFhrcXROMXc?oc=5"
+        },
+        {
+          "title": "Gold, silver ETFs rise up to 6% on softer US dollar, MCX stock hits 52-week high - Moneycontrol.com",
+          "source": "Moneycontrol.com",
+          "source_url": "https://www.moneycontrol.com",
+          "tier": "B",
+          "published": "2026-04-15 13:18 IST",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQnRrTzN2UDljYnRQZFBIXzFmQWtkU1F4UmpyVS1TczBGTXZfYXNWSGNMc2FHeUl4SVBfYW5RbWhyd3ZnTE9DeW9EN3I5YzJJXzlOV1BKZG1HUUNVMzJ6RTBDYTlkbWhXQmhhSExxTWNfNG9iQ2lReVBhcTFTaXdfZGJ1YkxEcTFvRFR6eGNIQzdQN0hpR1VEZUhTVTJkUG9BWG1JYTFZSEhFWVZEQm9hOXhsNEthZEtsRHN2eVlJX09CcnlWMTI0eWF1T3J5OWRzdzgyVnpnUnNCX08xbVUtWExaNmfSAeoBQVVfeXFMUFg0bXJkVHJwcUMyUFlIQ256S0RTTXRqV0tjZUlsVmU1N25LZEtiSVdQQ1lZVmx3Y0xFSEIxSV9yNVBKRGxCY2tFRGRXaDNibTFvVk9uLTlYQXlpUndHZjB0OWIyeDM0ME5ybkRqeXl2VWEyakcwYXp5VkFobm83OFdxV3hLY0hYeHFrRWFqWGtfenZoeW1EbWdOVEVnVDFqTnF1RUlaT0QzekZ1UDdtaS1HbXhxVWtIZlkzaFJidUpCWXRDWk1lWDZlSDBVRm1ha0p2aFhacjA4WUhySFF3Q1BaeWFvZzdhRXFB?oc=5"
+        }
+      ],
+      "bse_filings": [
+        {
+          "headline": "Press Release is attached.",
+          "subject": "Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-20",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/cfda2aa5-c922-4b9b-b186-3b72abf876d5.pdf"
+        },
+        {
+          "headline": "Proposed Coal Exchange Company",
+          "subject": "Disclosure Under Regulation 30 Of The SEBI (Listing Obligations And Disclosure Requirements)Regulations, 2015",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-18",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/c5c943f7-4ace-4f1d-a5d6-980c336b1d64.pdf"
+        }
+      ],
+      "nse_filings": []
+    },
+    "GRSE": {
+      "nse": "GRSE",
+      "bse": "542011",
+      "name": "Garden Reach Shipbuilders",
+      "price": {
+        "status": "ok",
+        "close": 2667.8,
+        "day_change_pct": -1.63,
+        "week_change_pct": 8.27,
+        "volume": 1421551,
+        "as_of": "2026-04-20"
+      },
+      "news": [
+        {
+          "title": "Garden Reach Shipbuilders & Engineers - Positive Breakout: These 13 stocks rose above their 200 DMAs - The Economic Times",
+          "source": "The Economic Times",
+          "source_url": "https://m.economictimes.com",
+          "tier": "B",
+          "published": "2026-04-16 08:41 IST",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNY1VmREkxRnJvU2ZyNW9VZG9vd095SWgzRndZTWVIUnFBa09TN1JKM3BUdDlhZjJNYlVzcU9oUGdOaFVBUG5BV2c0cEJ4cHNEN1dhNzFGNUJhYnotcjExMXlNMU1QSGFBc0I4YlJpWE9WN0Y2dThIOFB3cVc3ZGZWN3dNeVB5UU8xcjlHMW1MNlFROGNsaE9VOG42djJLMnMzNEhtWGxOd2E3TXNybjBBZ0VNSDlZRlJFdVR1bkVDUDY5YWVPUzRFTlBPXzNkZ2ZybWt4WWdTdDZNVnpkZ1hoamplVlhqMkZ4Q04wMDczSGE2eUsyNEFQZkdjc19vSWdD?oc=5"
+        }
+      ],
+      "bse_filings": [
+        {
+          "headline": "Garden Reach Shipbuilders & Engineers Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 28/04/2026 ,inter alia, to consider and approve This has reference to our letter No. SECY/GRSE/BD 69/CA/01/26-27 dated 11 Apr 2026 on the subject matter of 'Intimation of Date of Board Meeting to, inter alia, consider and approve, Audited Financial Results for the quarter and year ended 31st March, 2026 and to recommend ....",
+          "subject": "Board Meeting Intimation for Intimation Of Reschedule Of Date Of Board Meeting To, Inter Alia, Consider And Approve, Audited Financial Results For The Quarter And Year Ended 31St March, 2026 And To Recommend Final Dividend For The Financial Year 2025-26, If Any",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-20",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/463bd5e4-79e3-4080-a96c-b20838fba603.pdf"
+        }
+      ],
+      "nse_filings": []
+    },
+    "BEL": {
+      "nse": "BEL",
+      "bse": "500049",
+      "name": "Bharat Electronics",
+      "price": {
+        "status": "ok",
+        "close": 457.55,
+        "day_change_pct": -1.12,
+        "week_change_pct": 7.66,
+        "volume": 9914017,
+        "as_of": "2026-04-20"
+      },
+      "news": [
+        {
+          "title": "Buy, Sell Or Hold: NSDL, HUL, BEL, Kalyan Jewellers And Avenue Supermarts — Ask Profit - NDTV Profit",
+          "source": "NDTV Profit",
+          "source_url": "https://www.ndtvprofit.com",
+          "tier": "B",
+          "published": "2026-04-19 08:33 IST",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLb1BOM3A4ak9uc29UTEU4SmNBaXg1VmNpcGJmR09SdEJSMDhXNTVoQjJwMmR6MVpIS2ZuLWlyeFkySEJocUlvR2ptY2g1allFVmhxZHd0bWcxVENhclBZVnBtSjM4NzJXRXVYOWlxS1dKZVc4UDhnTmF1Z9IBgwFBVV95cUxQeGpHUjBIakpEcDRzbVE3XzRnRTRmQ0YxQmg2TTNGd1NzMkU5bkZkczlLZHRKcTRCY0tyNFAwS0VxSEl6eUNtRHctLWRXZGtQd29CU3R6MkNfWEJCdlZsRWZnWlBNSWg4QkVyY25faVd3OXVOZnpBNl81cnZYSFV4OVUtMA?oc=5"
+        },
+        {
+          "title": "Five Stocks To Buy Today: NTPC, BEL, NHPC And More | April 17, 2026 - NDTV Profit",
+          "source": "NDTV Profit",
+          "source_url": "https://www.ndtvprofit.com",
+          "tier": "B",
+          "published": "2026-04-17 07:21 IST",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVkM1aG1sOWxnNmF3bjNmTlBFMTZHX3JJdGd1amhndEJxVF9qTjBRRE9pN3RIdEVXWUN4R1Itd0lGMnBnemFCNWNMMjBiUEU5ZWYtYnJjMGVKYmFSUFRSdmdzQUZ3NGhJb2Q3d2N6cldFaHRRbmdGZklKb0pwUXgwQncxZ3dSSFZ6eXZhZkxIc0xaRmpud0pRT25TdGl5T3FReG4yTDM5TTA4cFXSAbMBQVVfeXFMTjZ5Mm1sYzh5aXBJdy1rTE1fS0dHZ3dOVWtkSHJscnM1SzFBdjB5SkZ2Z0RwdGdlMk5LdmJrVksxNFY4Rm55SjZRYlJCZkEtU3U2VWJGV0Zsd2xqalpoNXhUMmtNdlBQMmdxd3VVUUF4MG1tUmhhMXNOaEpEUjJibjZSdVE3WnlMeF9ySGNPcnltc0xLOWRzWmw3NEdqRHVqdVZWY0lrZTNVVDdQMkMxUVc5QXc?oc=5"
+        },
+        {
+          "title": "Buy, Sell Or Hold: Mazgaon Dock, Tata Chemicals, BEL, MRPL, Ather Energy, Ashapura Minechem — Ask Profit - NDTV Profit",
+          "source": "NDTV Profit",
+          "source_url": "https://www.ndtvprofit.com",
+          "tier": "B",
+          "published": "2026-04-15 16:08 IST",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUndYNHAycXNxT1FMUDNJU3RPbXQwT1psNWE5NVE3U0lYTjVMbEEzMHpCdmlneTNoYnk5ZnZ4blhtQ0RXZ2RLeV9QUDljN3hRaDBJX0syWmppaVpCNGVBd3ZRUXpMOC1kd1F0NjdfNDdQQm1vSXhWTXBwa1Exd0twMEdpcDIzekpOLVlUbURPRTY0VU5tSnhVLWszbENqVDF1Q3NLMU1IYmc4bzBNRkFmaGtCWWwwQlZ2MmdtcEE0MktHY19RRHFfd3FCRmF2c3Z1emxlNmxB0gHeAUFVX3lxTE91NVJCd3FITmdqb3VNdGRlOG00MmlmUnVpZTBWTklfRDJvV05VX0hPaUtqM3hSX2FQMi1zU21KU0NfMlp6MklaZnBCd000cVNqdlF5cFVocXBUaTQ3U3gzN29JREtmQm5aVkVXYW1Ba29hSG9GUzR3Nzl0MFd4Qm1qMTRqbVdhX0RYUGFXTHhscjg1ZmxmM0d0b0pKN2FVMWZ3Z0QweGlZUlRyZEZ0dlZ6YUNLZHlselhveWZ6TlhsMVNOTjFucjFRZFV3Y3FQWFdLbDF6UldaYXNER1owdw?oc=5"
+        }
+      ],
+      "bse_filings": [
+        {
+          "headline": "Compliance Certificate under Reg.74(5) of SEBI (DP) Regulations, 2018.",
+          "subject": "Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-15",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/64945d26-3c9f-448d-b15a-df630fc78522.pdf"
+        }
+      ],
+      "nse_filings": [
+        {
+          "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "detail": "Bharat Electronics Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "date": "2026-04-15",
+          "attachment": "https://nsearchives.nseindia.com/corporate/BEL_15042026170547_Lettersigned.pdf"
+        }
+      ]
+    },
+    "CAMS": {
+      "nse": "CAMS",
+      "bse": "543232",
+      "name": "Computer Age Management Services",
+      "price": {
+        "status": "ok",
+        "close": 749.25,
+        "day_change_pct": -0.12,
+        "week_change_pct": 5.53,
+        "volume": 1023700,
+        "as_of": "2026-04-20"
+      },
+      "news": [
+        {
+          "title": "Computer Age Management Services Q1 Results - Mint",
+          "source": "Mint",
+          "source_url": "https://www.livemint.com",
+          "tier": "B",
+          "published": "2026-04-17 12:30 IST",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWUxrdUhIZEhhTXktN0d3UXB1TzdXY3RTd0Vhclk5SmF2SS1pZnA4S0trVzhKcEo2X3JDbWdyVTUwbGpPVkx0RXdidHRaV3ZYZm02UzJhME1aOUpJT1FERGVQRUVNd0t3aDJiQ2l0YzEyV1FtNVhLRUtkNEIzeHlmbmdJYmlyU0YwRk1zOXFlbW1aWWROS3BDQjZyVjlaZw?oc=5"
+        },
+        {
+          "title": "Analysts pick HDFC AMC, CAMS, KFin as top bets as MF growth accelerates - Business Standard",
+          "source": "Business Standard",
+          "source_url": "https://www.business-standard.com",
+          "tier": "B",
+          "published": "2026-04-16 09:42 IST",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVHhHX0I3V0VZU1ZvYlI5VUFTSzE0MjUzQm1xcWtyeXYwakR5bmpISDNHLWg3MmwxcDNpcDRPZkVPQUNISXRMWWk1eUgyUmpYbVR2UG1Ra0FDZFpodlFVYzFHaUw5Y0ZGckhZTEY2NGtMdEZBRHdPUUtFSDJIdkNxVXFoV2ZkVHViRWFQQjNoUmI0WGZjRHNJSk93T01oNUNMVERlQlBmWWtjbDZ5QVJFaS00SzliUENVbC15ZTVXT1hHSS11LTExc1lsQlB0bXVWbURUUC03YVpJZF93SXfSAeMBQVVfeXFMTlVkVW5wa1pLdGhfZVM3NEhSejhrU1hIaDBDdEtPZno2ZEJ2N3RaOGlUQ29QQk4zWXNKa0pkRkdzMzRTVnZCbW8zRXZJVDJ2X0VOTDNMV2VPbko3SV9BRE1sbkhTSy10bkRIb1RLMzA5OFc3R3lLbGI0WUV1NGpScXR5OGZlN3hFdklzc3dMNDB0OUhzbFNSZFFVRUNHbEVpWlZUaEdwazk5QTJ1OFZKdkIwa21HaWdzVEkxMk1CenVPYlRDREtTU1F4NVJYTTFsMHFRMUxVTHE2NDNKZkp3bXN0SE0?oc=5"
+        },
+        {
+          "title": "Computer Age Management Services Q2 Results - Mint",
+          "source": "Mint",
+          "source_url": "https://www.livemint.com",
+          "tier": "B",
+          "published": "2026-04-17 12:30 IST",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTkUyUGRmNmdSVzdPbzRpdGkwZ0s2bjFkUFBnWnM2OUZjZW9RQmhSX2dQc2ZxUWRldzRmSWYyaHdralI4SVJvbUZIQ2ZGVFFEZU14a3ExUVpXSWpjQ1Foa0IyNEhqQ3ktX25jZXVLcFNLZzRxdndJcmtBbS10eFZ4N1l6RGZDV0RWUEw5b2dXM0hEZ2pwY0RJcGRtZXpNZw?oc=5"
+        },
+        {
+          "title": "CAMS, KFin Tech Vs NSDL, CDSL: Axis Capital sees up to 26% upside in 2 stocks but limited gains in 2 market ‘backbone’ - financialexpress.com",
+          "source": "financialexpress.com",
+          "source_url": "https://www.financialexpress.com",
+          "tier": "B",
+          "published": "2026-04-16 13:41 IST",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNDUydm5PZVBGd3FHUERleU5XN0FweG1kNlhPd3ZuQ1lrbS1JYmN5bS1ZWk9kcmNQNVNiZmJ3bE9Ia1N1RUJiV2NIazBZcEh1akVGcTRGSjRsZ0M1bEtWa2hkVy0ycEwxcHRUZHdOdnA3bEpiQ3hvTHYxT215SlJ6T1l5TkhMS3FqZVkwMEFUVmFPSDBPa3JKSkEyRG90MFZqMFRtbm9xT3NJd28tRTdib21nZjlmcGxNZmluekFEdlpUS2YtTlU5X3h2XzQtSUc0MUlhQXVKMnJmX2gyaW9nSmtTb2VyTDBNNjdfZFR0dEdLam_SAfoBQVVfeXFMTmVVUXhRSGNySGJYbmN4M2g2OUdEcmhjWjhwbF85eFp0cnpJU2lvR2RrMVF2d1pxNy10dGl1bl9iUnVBNHo2WG5xY1d5aG5OVVJuV1Q2RTlnUGxteExBQVZrbDBoMElzMDRRT3pRZDF1cFhCUFJsZjNZY182RHdxeWlaOGQ5b09QbUZqNXV3aklmU3JVMGhUc0Q0aXYtb0lRdGJaVHZ1SkcxcWpqR3NJV3k1SXN1bnJfQWRYUjJCY0FQM01QQ0JCTlgtRDNMel9GTW16MmFMR2FhdTJfUnJBdG1oRldZeEtCa0QwX3FrWW1mS0wyZEdWTmIxQQ?oc=5"
+        }
+      ],
+      "bse_filings": [],
+      "nse_filings": []
+    },
+    "AUBANK": {
+      "nse": "AUBANK",
+      "bse": "540611",
+      "name": "AU Small Finance Bank",
+      "price": {
+        "status": "ok",
+        "close": 997.65,
+        "day_change_pct": 0.71,
+        "week_change_pct": 3.06,
+        "volume": 1614114,
+        "as_of": "2026-04-20"
+      },
+      "news": [
+        {
+          "title": "AU Small Finance Bank Q3 Results 2026 - Find AU Small Finance Bank Q3 Earnings Result | AUBANK Q3 results - Mint",
+          "source": "Mint",
+          "source_url": "https://www.livemint.com",
+          "tier": "B",
+          "published": "2026-04-17 12:30 IST",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSE84RkFhS1pzTXdlYkJ6R1Fua3VwTktRblQyMU9sVU1lQjVQalZ5TDFOZG1vSW4yZjh4a2lTRjZONEhvSVlmQ0VvU09FZ0NWT2x4X1VpNDVsRzktRjVfX0NkQUlNaXIzTVIxbTJPSld1TlV4cThWZDlFN2pQTnBhZkhOZ1o3NVJvSTRKcFdBcw?oc=5"
+        },
+        {
+          "title": "CheQ, AU Small Finance Bank launch LED credit card that lights up during tap-to-pay transactions - CNBC TV18",
+          "source": "CNBC TV18",
+          "source_url": "https://www.cnbctv18.com",
+          "tier": "B",
+          "published": "2026-04-17 14:12 IST",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSl9jbVh6aHhkbDV6dVI2Z1FXNTNlTU5fdDJBczlTN1dKRWhIZG00REkzRHUzZUNFRGpLeWxZMTZuX1F1ejl0MjQwTDRPZnlCRFVwcXdOUnZFZXFfc3JiMTRXdURZMkwwdktoM1RnV2NTUGlveWZhXzhuQjdZbjgxOTBoOThuSDVUc1liaWhzczhKNG9tNlhYdGV1cjk5a21lT1lZSkNMUXhrUEpWdW4tcHBpVWI4R1FMQV9ZRTAzampwc2NWZWfSAcsBQVVfeXFMUGdtUVhoTWJJYmZJckVRc1hvVGE1M2JTeXZ2OGU2ZlRJZjhCeWFKSVF3bmlsWnNBbFBRZnVzdldtWUxDbFJnZThnWHN0UEJVOURtMUthdVFkU3BSaFZ0M082VnpjYzdhT0Ric0htTHRWT1NFUjVDbzVHaXI4UUpZVnFkamVqLXM0TjdGdGdhVklxOVBadnc2Q3dWZ0I3Q3VrUXliQ256YUJueTdlRnlGZ1RMb21PS0lsM2t6VlAtc0ZqeEJwUGxtdURXeEk?oc=5"
+        },
+        {
+          "title": "AU Small Finance Bank, ICICI Bank top picks as banking sector shows resilience: Siddhartha Khemka - The Economic Times",
+          "source": "The Economic Times",
+          "source_url": "https://m.economictimes.com",
+          "tier": "B",
+          "published": "2026-04-18 09:53 IST",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNEZkbGlQSVd0LWZXNWxZb2s4S0ZnZXZwcXBnWkdOcVhkb0pON3BsQUhrSXZJTnpySFZRNk4xbzE4dUFCcFJYSmxFUEdkOXNzVjdIQzVLT0NPa3lHSVJETzl3dUlvaVBzc2J1NjdjVmItVXc0Y2hUbDkzNlNiMnVhTjJFYW1hQmVUVktqU0tGUnRFQUI3QTBrUzlORnYtUk9VYkVFRnd2TWVsNW1KYzFheVVtcldfUmt5TlVkSW9KRkl3cEU2NTRrM2NmUVV6ZFVlN3FDTC1MWXRKV1o2eVp5aHBPSkJVNkFRU053UV9hUk45MmdFZUxlUW1fSjRnUdIBgwJBVV95cUxOTTliN1ZNX2xXenNMWHdhWWl2WmpIY2V5RUlHLTRUUjdmczhhejZtMGRNTjFZaUtzVTBmYlZOczREQVNvUWphZ3lRS2xRcGllZk1qT1lFc09RaFZVcndHRDB1TjdWUFBReG1pclBmeFhZS3lfTjhuNFcyZUFxSjd5WXBYdUxWbHZPQ3N4Z29oVWVfMzFmMGxjNm1ZZ3ZGN2tsczNvWDZXX0k4WWdUTlloVUFGRFdiZmFHanBhdHVJNG1nYms4VnVUUkVRRTZwa3ROajFRMFJzNDBSTkpKTmZYQVlUY2dFcnlCZkFpakNaUkZuMnNVd0FPNlRzOWJFejFoOXZV?oc=5"
+        },
+        {
+          "title": "AU Small Finance Bank to decide on fund raising, results on April 27 - CNBC TV18",
+          "source": "CNBC TV18",
+          "source_url": "https://www.cnbctv18.com",
+          "tier": "B",
+          "published": "2026-04-20 19:32 IST",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQejl2Wm1XY2FSTHB4UUhVc2ZyZk40cDdldGk4eE5QWmpmdG0xSjY2R0QxX3pvS1VrRXU1X1Utak1MaVJHeURrQi1CUmkwOUVIN21kcHdhbUJwUmlxVzdYSWVQLXQzSTFXTzd3WnFkdGRwWUNjSnAteUFVQmdGcnhwTWNSc0hsb2xwanZBQzNSYi01dTRRRVJ1NVVhc0NBcTZQcmFORVd6RXd5RHBsVWJuWFhHWFVuVWwzbjBEbEN30gG-AUFVX3lxTFB6OXZabVdjYVJMcHhRSFVzZnJmTjRwN2V0aTh4TlBaamZ0bTFKNjZHRDFfem9LVWtFdTVfVS1qTUxpUkd5RGtCLUJSaTA5RUg3bWRwd2FtQnBSaXFXN1hJZVAtdDNJMVdPN3dacWR0ZHBZQ2NKcC15QVVCZ0ZyeHBNY1JzSGxvbHBqdkFDM1JiLTV1NFFFUnU1VWFzQ0FxNlByYU5FV3pFd3lEcGxVYm5YWEdYVW5VbDNuMERsQ3c?oc=5"
+        }
+      ],
+      "bse_filings": [
+        {
+          "headline": "AU Small Finance Bank Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 27/04/2026 ,inter alia, to consider and approve 1. Audited Financial Results of the Bank for the Quarter and Financial Year ended on March 31, 2026.\r\n\r\n2. Recommend Dividend on equity shares, if any, for the financial year ended on March 31, 2026.\r\n\r\n3. Passing an enabling resolution for annual renewal of fund raising limits by way ....",
+          "subject": "Board Meeting Intimation for Meeting To Be Held On Monday, April 27, 2026.",
+          "category": "Board Meeting",
+          "sub_category": "",
+          "date": "2026-04-20",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/2abb5a25-b4c3-4406-ab62-50c444b88514.pdf"
+        },
+        {
+          "headline": "This is in continuation to our letter dated January 20, 2026 informing about completion of tenure of Mr. Uttam Tibrewal as Whole Time Director (DIN: 01024940) of the Bank on April 18, 2026. \r\n\r\nIn this regard, we wish to inform that Mr. Uttam Tibrewal has completed his term as Whole Time Director from close of business hours on April 18, 2026.  He will continue in his capacity as Deputy CEO, leading the Bank's retail business verticals, and increase ....",
+          "subject": "Announcement under Regulation 30 (LODR)-Change in Directorate",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-18",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/9ed6d801-726e-416f-b899-66c492394c35.pdf"
+        }
+      ],
+      "nse_filings": [
+        {
+          "headline": "Change in Director(s)",
+          "detail": "AU Small Finance Bank Limited has informed the Exchange regarding Change in Director(s) of the company.",
+          "date": "2026-04-18",
+          "attachment": "https://nsearchives.nseindia.com/corporate/AUBANK_18042026205509_SE_Submission_WTD.pdf"
+        }
+      ]
+    },
+    "LUMAXIND": {
+      "nse": "LUMAXIND",
+      "bse": "517206",
+      "name": "Lumax Industries",
+      "price": {
+        "status": "ok",
+        "close": 5517.1,
+        "day_change_pct": -1.01,
+        "week_change_pct": 5.29,
+        "volume": 10828,
+        "as_of": "2026-04-20"
+      },
+      "news": [],
+      "bse_filings": [
+        {
+          "headline": "Certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018 for the Quarter ended March 31, 2026",
+          "subject": "Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-14",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/b3ec4779-fc60-4c00-9c7c-b79b0047efe2.pdf"
+        }
+      ],
+      "nse_filings": [
+        {
+          "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "detail": "Certificate under Regulation 74(5) of the SEBI ( Depositories and Participant) Regulation, 2018 for the Quarter ended March 31, 2026",
+          "date": "2026-04-14",
+          "attachment": "https://nsearchives.nseindia.com/corporate/LUMAXIND_14042026150611_LILReg74Q4FY2627_.pdf"
+        }
+      ]
+    },
+    "RACLGEAR": {
+      "nse": "RACLGEAR",
+      "bse": "520073",
+      "name": "RACL Geartech",
+      "price": {
+        "status": "ok",
+        "close": 1363.6,
+        "day_change_pct": -2.56,
+        "week_change_pct": 2.53,
+        "volume": 16024,
+        "as_of": "2026-04-20"
+      },
+      "news": [],
+      "bse_filings": [],
+      "nse_filings": []
+    },
+    "VISHNU": {
+      "nse": "VISHNU",
+      "bse": "516072",
+      "name": "Vishnu Chemicals",
+      "price": {
+        "status": "ok",
+        "close": 570.4,
+        "day_change_pct": -1.82,
+        "week_change_pct": 8.89,
+        "volume": 151055,
+        "as_of": "2026-04-20"
+      },
+      "news": [],
+      "bse_filings": [
+        {
+          "headline": "Intimation on Maintenance Shutdown of Company''s Visakhapatnam Parwada plant is enclosed",
+          "subject": "Intimation On Maintenance Shutdown Of Company'S Visakhapatnam Parwada Plant.",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-15",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/346e55cf-24bd-4693-81b3-2d83bc9d198a.pdf"
+        }
+      ],
+      "nse_filings": [
+        {
+          "headline": "General Updates",
+          "detail": "Vishnu Chemicals Limited has informed the Exchange about General Updates",
+          "date": "2026-04-15",
+          "attachment": "https://nsearchives.nseindia.com/corporate/VISHNU_15042026200917_VizagPlantMaintainance_dt15042026_signed.pdf"
+        }
+      ]
+    },
+    "JAYNECOIND": {
+      "nse": "JAYNECOIND",
+      "bse": "500330",
+      "name": "Jayaswal Neco Industries",
+      "price": {
+        "status": "ok",
+        "close": 95.34,
+        "day_change_pct": -0.92,
+        "week_change_pct": 18.6,
+        "volume": 5391779,
+        "as_of": "2026-04-20"
+      },
+      "news": [],
+      "bse_filings": [],
+      "nse_filings": []
+    },
+    "SHIVALIK": {
+      "nse": "SHIVALIK",
+      "bse": "513097",
+      "name": "Shivalik Bimetal Controls",
+      "price": {
+        "status": "ok",
+        "close": 271.05,
+        "day_change_pct": -2.7,
+        "week_change_pct": 0.39,
+        "volume": 20074,
+        "as_of": "2026-04-20"
+      },
+      "news": [],
+      "bse_filings": [
+        {
+          "headline": "Certificate under Regulation 74(5) of SEBI (DP) Regulations, 2018",
+          "subject": "Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+          "category": "Company Update",
+          "sub_category": "",
+          "date": "2026-04-13",
+          "attachment": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/7e003345-2462-4225-a9e0-1b2b8971e62f.pdf"
+        }
+      ],
+      "nse_filings": [
+        {
+          "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "detail": "Shivalik Rasayan Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "date": "2026-04-13",
+          "attachment": "https://nsearchives.nseindia.com/corporate/SHIVALIK_13042026142443_74_5_.pdf"
+        }
+      ]
+    },
+    "AARTIPHARM": {
+      "nse": "AARTIPHARM",
+      "bse": "543748",
+      "name": "Aarti Pharmalabs",
+      "price": {
+        "status": "ok",
+        "close": 676.15,
+        "day_change_pct": -3.1,
+        "week_change_pct": -3.0,
+        "volume": 137887,
+        "as_of": "2026-04-20"
+      },
+      "news": [],
+      "bse_filings": [],
+      "nse_filings": []
+    }
+  }
+}

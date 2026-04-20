@@ -1,0 +1,36 @@
+{
+  "part1": [
+    {"nse": "BAJFINANCE", "bse": "500034", "name": "Bajaj Finance"},
+    {"nse": "NH", "bse": "539551", "name": "Narayana Hrudayalaya"},
+    {"nse": "DIVISLAB", "bse": "532488", "name": "Divis Laboratories"},
+    {"nse": "GPIL", "bse": "532734", "name": "Godawari Power Ispat"},
+    {"nse": "TITAN", "bse": "500114", "name": "Titan Company"},
+    {"nse": "ICICIBANK", "bse": "532174", "name": "ICICI Bank"},
+    {"nse": "HDFCBANK", "bse": "500180", "name": "HDFC Bank"},
+    {"nse": "MUTHOOTFIN", "bse": "533398", "name": "Muthoot Finance"},
+    {"nse": "JMFINANCIL", "bse": "523405", "name": "JM Financial"},
+    {"nse": "SHRIRAMFIN", "bse": "511218", "name": "Shriram Finance"},
+    {"nse": "SJS", "bse": "543387", "name": "SJS Enterprises"},
+    {"nse": "BHARTIARTL", "bse": "532454", "name": "Bharti Airtel"},
+    {"nse": "ASTRAMICRO", "bse": "532493", "name": "Astra Microwave Products"},
+    {"nse": "FEDFINA", "bse": "544027", "name": "Fedbank Financial Services"},
+    {"nse": "FORCEMOT", "bse": "500033", "name": "Force Motors"}
+  ],
+  "part2": [
+    {"nse": "ITC", "bse": "500875", "name": "ITC"},
+    {"nse": "ADANIPORTS", "bse": "532921", "name": "Adani Ports SEZ"},
+    {"nse": "CSBBANK", "bse": "542867", "name": "CSB Bank"},
+    {"nse": "MARICO", "bse": "531642", "name": "Marico"},
+    {"nse": "MCX", "bse": "534091", "name": "Multi Commodity Exchange"},
+    {"nse": "GRSE", "bse": "542011", "name": "Garden Reach Shipbuilders"},
+    {"nse": "BEL", "bse": "500049", "name": "Bharat Electronics"},
+    {"nse": "CAMS", "bse": "543232", "name": "Computer Age Management Services"},
+    {"nse": "AUBANK", "bse": "540611", "name": "AU Small Finance Bank"},
+    {"nse": "LUMAXIND", "bse": "517206", "name": "Lumax Industries"},
+    {"nse": "RACLGEAR", "bse": "520073", "name": "RACL Geartech"},
+    {"nse": "VISHNU", "bse": "516072", "name": "Vishnu Chemicals"},
+    {"nse": "JAYNECOIND", "bse": "500330", "name": "Jayaswal Neco Industries"},
+    {"nse": "SHIVALIK", "bse": "513097", "name": "Shivalik Bimetal Controls"},
+    {"nse": "AARTIPHARM", "bse": "543748", "name": "Aarti Pharmalabs"}
+  ]
+}
