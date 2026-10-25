@@ -1,6 +1,6 @@
 {
-  "generated_at_ist": "2026-10-25 04:05:59 IST",
-  "window_start_ist": "2026-10-18 04:05:59 IST",
+  "generated_at_ist": "2026-10-26 04:13:37 IST",
+  "window_start_ist": "2026-10-19 04:13:37 IST",
   "window_days": 7,
   "ticker_count": 30,
   "tickers": {
@@ -18,20 +18,20 @@
       },
       "news": [
         {
+          "title": "Bajaj Finance Ltd. Share Price Today - Bajaj Finance Ltd. Stock Price Live NSE/BSE - CNBC TV18",
+          "source": "CNBC TV18",
+          "source_url": "https://www.cnbctv18.com",
+          "tier": "B",
+          "published": "2026-10-23 15:28 IST",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3VVhlbHIwdnZ3MDZLV0lKSTFtUFNxUUszcjdfN3ZacXc4aDFwNDRvU0M0c2JIcFJ3R3FWYkVCSVhyYkhvMGd2ZFZxeE9Pb2hqZmdBcUo3OW5rNnFCWmVkQUk3aEJodmhlTFF4V0JNVk96RmNrSnBtNWtaQ3BTZw?oc=5"
+        },
+        {
           "title": "Top Indian non-bank lenders flag early signs of stress in loans against gold - Reuters",
           "source": "Reuters",
           "source_url": "https://www.reuters.com",
           "tier": "B",
           "published": "2026-10-21 13:29 IST",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY1VZSVJ6R0FvVE50S015ZzYtYnJhWjJ3OFdQNWFQYkxrLUF3SFJ1RmJ5TGMtSFl4LXZKUVJ4RjZRUHdLdU1YWE05RjV2YUNIc0Z4OGVHNmptSEtrTm5obVBlY2JTd01tRzIxWGVHQzVlaUFGU0tHT2NkbmhnMzNPRG8tYXRhc2hlOWpudEVqZHJ6RFY2SC0wX2pndmlSNHZIaHFXM2FDX2JRcDBXcnc?oc=5"
-        },
-        {
-          "title": "Why Bajaj Finance shares fell 3% after Q2 results 2026 | Should you buy, sell or hold? What experts suggest to investors - Livemint",
-          "source": "Livemint",
-          "source_url": "https://www.livemint.com",
-          "tier": "B",
-          "published": "2026-10-21 11:59 IST",
-          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxORmpBQkFzMkZuMDJOTi1mNVhOdF82ZmRvSWdkMFBZSFBwNFcyUmIwNFNKamRSTmJicHNyMTNTbVJ5TlpEU2pId0dIQVRKWFpDN1pBcFpSUklNWTNrMXhQc3BPR3pteEhRb2xpVnpUbEUxeHBlU2Y3ZG1tSENYY2lJaUZXR0Q4SkdfdlJNdUtBQi1EbHRObWIwb09VcHR4aFdTRDZ6a3hVOHRLTjZ1ZlJzVS1nbFJ2T1pST2VaSEVtX0JWUGxYLUZ4VTRCN09aOGN6RzN1TGxFZWk5OEZ5ZDZqUENoVXFoelkxTUl5TXNwSnl3eXd3LTEwOXR0M2xxam03UTdfaE9vaFFUX3RnNDB3ZjZfc9IBmAJBVV95cUxNdTVEV2xFSUJsRHVxcGVIWlZ4NUYxMjFCMXdLYUVGVGV3RmRGLWJVTGQza0IyYVBQV1NiQnF2M0JCcGhLcVp5aENHOVJpRS1tdmxVRmN5bXNELTBrYTFpRUNPTEZ6LWZxcTNDR2RBUWY2TjFoeTFTZ3VNSTFUbXRSelM3S3pLMFBMa3hrZ1BNeDN3c19BeDFTUVpUcFR4T2k3dVJXQWNzby0xV2JCVTVySzNZZk90Tzd6cTVHdEpDTmZKd24wdmdYUXpRLW80eGNpdG54YVlzQmZiZ3ZaUTlySzBsd2ZaV0cxZ01HWlVTMGJFU195MUZWV2pzOGJsVHpsa2FiZm1OSy1Wd1NuelB0U2JOVHN5YWtr?oc=5"
         },
         {
           "title": "Bajaj Finance to launch new term-loan variants from Nov as RBI weighs revolving credit ban - bfsi.economictimes.indiatimes.com",
@@ -58,20 +58,20 @@
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNLWMteS1qZ0lGcG1ZbWxFQUQ0aUUyVzJPLWI4ZU9zUTFhTjZXeTYzOHNTMzd3bmxPQ2F1aE04VTNwVloxaEpvbEFMRWktZ2U5a1VySDBZMlUyQ0dGR0xnM1lQcmFJcUx0Q3ppX2NRbTVTNU9nUWVZc0YyR05RSUU4UnpxWl9wczV6bUw1NWQ5bGpTZG03VHRLVXZKRFNrLURKLXZIbGNRWmN4enpfSFdkRFhXMGJ0Z0FTeHdnZnJNcTlXeXdSdGZsV0d0djFFS1plSDVmalM4Wk1FNTNBZ1cw0gHmAUFVX3lxTE5PbzFPUmQ0ak50cDRONFJmaGlVellMUWN3NW9qWUFOdmQxcjJIN0trNlBvZXQ1MmhlblFYRVpkbGlLdG53ZEZ0b0gtQUZPOHludE1lU0dqUUNEQlpVNjI4S0VHU3pkMGN4S1JvbmVRQzV0VUdJenZjdWZLaGEtb1BDeXQwMXltbUJmSGRjX014ODFJOFhYLUtONmU3ZTFpRi1HTzYzV0dJX3NOR0xxME9JU0JoV3E4UVRmRUk0TEo1cVRRd3FxbkNIT3ppRm5lN0w3aVplWk9TNHVFbElDY24yTy1yWi1n?oc=5"
         },
         {
+          "title": "Why Bajaj Finance shares fell 3% after Q2 results 2026 | Should you buy, sell or hold? What experts suggest to investors - Livemint",
+          "source": "Livemint",
+          "source_url": "https://www.livemint.com",
+          "tier": "B",
+          "published": "2026-10-21 11:59 IST",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxORmpBQkFzMkZuMDJOTi1mNVhOdF82ZmRvSWdkMFBZSFBwNFcyUmIwNFNKamRSTmJicHNyMTNTbVJ5TlpEU2pId0dIQVRKWFpDN1pBcFpSUklNWTNrMXhQc3BPR3pteEhRb2xpVnpUbEUxeHBlU2Y3ZG1tSENYY2lJaUZXR0Q4SkdfdlJNdUtBQi1EbHRObWIwb09VcHR4aFdTRDZ6a3hVOHRLTjZ1ZlJzVS1nbFJ2T1pST2VaSEVtX0JWUGxYLUZ4VTRCN09aOGN6RzN1TGxFZWk5OEZ5ZDZqUENoVXFoelkxTUl5TXNwSnl3eXd3LTEwOXR0M2xxam03UTdfaE9vaFFUX3RnNDB3ZjZfc9IBmAJBVV95cUxNdTVEV2xFSUJsRHVxcGVIWlZ4NUYxMjFCMXdLYUVGVGV3RmRGLWJVTGQza0IyYVBQV1NiQnF2M0JCcGhLcVp5aENHOVJpRS1tdmxVRmN5bXNELTBrYTFpRUNPTEZ6LWZxcTNDR2RBUWY2TjFoeTFTZ3VNSTFUbXRSelM3S3pLMFBMa3hrZ1BNeDN3c19BeDFTUVpUcFR4T2k3dVJXQWNzby0xV2JCVTVySzNZZk90Tzd6cTVHdEpDTmZKd24wdmdYUXpRLW80eGNpdG54YVlzQmZiZ3ZaUTlySzBsd2ZaV0cxZ01HWlVTMGJFU195MUZWV2pzOGJsVHpsa2FiZm1OSy1Wd1NuelB0U2JOVHN5YWtr?oc=5"
+        },
+        {
           "title": "Bajaj Finance may see NIM pressure as funding costs rise - bfsi.economictimes.indiatimes.com",
           "source": "bfsi.economictimes.indiatimes.com",
           "source_url": "https://bfsi.economictimes.indiatimes.com",
           "tier": "B",
           "published": "2026-10-22 06:33 IST",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOFM1YU9pc2xrY3NKN3lzR0FjMG1rdlJ0UElpdmNhOUNPUXdtXzVtbU93YlBHbmw4LW51OE1RWXRLOTVfUzFNbVRfYWZXblF4V1hFRUdyQUlFM1NEdGlUWnV2RUZjOHRuY2RnTjlZM1NzWXZIRzJ1VC00LXN1SFRBdnpzY3RwdTRPM3VrQ2VOTThNT0JsLTk3ck5CTnQzSm43cHpDVUhMYjFzT19xbGFydUR1RlE4S0JH0gG-AUFVX3lxTFB6NEZTSjJoV01HMEpYVkktblo2S21YY1lucTU0UEZnOThNd3Ryc3dwNjZhMVJ6NEd4TjBsR3lDeEhsMkxhdmhXc2tIMHJDaXVZSXZ0alg4eDFKakgzeVNoVWFubFJvU2FkRXJ5WlJkQkpJZVN4bHVBWDJTUzBsTkNkNndsY0tuN3FuaGlYUEstQWIzTWNsUFFYN1p5WDg5bmpwUS02OV8xUkFUbVRJbHlkVmdnbkdEZXVjVGVoN2c?oc=5"
-        },
-        {
-          "title": "Bajaj Finance Q2 preview: Profit may jump 29%, NII 24% as strong loan growth lifts earnings - The Economic Times",
-          "source": "The Economic Times",
-          "source_url": "https://m.economictimes.com",
-          "tier": "B",
-          "published": "2026-10-18 15:20 IST",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdHl1ZTl5eHRGNk82SU9KOTk4Q2ZPT0UzaTdfbTFUaU9oRTU1aGs0WjZoOUcxT3Myb0R6S3R5dHJjbUJ2VENCLXhHdXhDcFF0LV9LZ3hzNF9xQ2NXaF9hRENmNkJmSHY1Y3pXNDkxT2JnNVpHb1F1RTBSR2lMWlJ5NG4wRVBRX3h5a0NDeGFWQWhqNko1T0d0N0JaMS0tLWRPQUdrVWlEckVWMC1jemluT2F0cExYRXVPZHduNHRHMl8yOHE0TjhjRmFSZDBBZDExeWczYU1kTURfSVEzOXFXUXdhNFNUT1JhTDFwOXdFeHRpVlJyblFxZtIB_gFBVV95cUxNVlhqSWp2T25CdEloQWk0WGJpbEZBcWg2VmJYaEw5bkFvbHdMNXV4RGszeVBPczV6Z05qcjVSY0x0RnB1ZFRZT0Q4SzNIZXpfdWhBSklRR0dtM1NTNlJFVFZqYm1BVUlidGN6Y2VHdEFsc3EtMEFXOC1ETExZUGR2c3p2MnNKeGN0MVhORDVyUjM2eHdrZllHa19NMXVtYjJjekp4NVk3bDFKek5sNnJ6blRRWGlRRXljY0FrYzZEWjJleFZReFM0S3pld01aSndPa1JYVktZNDJLbmdIOUoyMWFQZWE1eXh5bTg3WUFlVTdXaV9adG52UUo4VWxMUQ?oc=5"
         },
         {
           "title": "Bajaj Finance to introduce new term loan variants after RBI draft proposal on revolving credit ban - Moneycontrol.com",
@@ -100,7 +100,7 @@
       ],
       "bse_filings": [
         {
-          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261018&strScrip=500034&strSearch=P&strToDate=20261025&strType=C"
+          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261019&strScrip=500034&strSearch=P&strToDate=20261026&strType=C"
         }
       ],
       "nse_filings": [
@@ -183,7 +183,7 @@
           "source_url": "https://www.thehindu.com",
           "tier": "B",
           "published": "2026-10-24 18:39 IST",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOFpSV1RtVVJpaWVNYTlONkFIb0h0aU9qOEh0ZG9NUmt0QldWRmdFTkFXTXJyT3czLTdGQklxcWRwS0JMWXVzZ05KQ01uRW10RlI0aXBnVVBSUmZRRzVNeHNqUkdIcWwwTlFNZ0w4Vi05bnh0eWE3OEZpZGc3UTVHa3M0MG11R0pZbzEtSTl6empMbkM4Y0w2MVdXb3dCalRIeC12RjI4MHZrYVd1SDZ6U0ViVFh1TDF6LVBCWU51cm54b2hYenUxeTJKSENkNlJuZF81Y1ZQUVk4T2dPRTNEeF9iWnNPalnSAecBQVVfeXFMTThaUldUbVVSaWllTWE5TjZBSG9IdGlPajhIdGRvTVJrdEJXVkZnRU5BV01yck93My03RkJJcXFkcEtCTFl1c2dOSkNNbkVtdEZSNGlwZ1VQUlJmUUc1TXhzalJHSHFsME5RTWdMOFYtOW54dHlhNzhGaWRnN1E1R2tzNDBtdUdKWW8xLUk5enpqTG5DOGNMNjFXV293QmpUSHgtdkYyODB2a2FXdUg2elNFYlRYdUwxei1QQllOdXJueG9oWHp1MXkySkhDZDZSbmRfNWNWUFFZOE9nT0UzRHhfYlpzT2pZ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQUNESnVyRmdlb0RjX3NYdTZRV2M4NDJqcXFmZG8zWkdsdjNBRGdWMV80bjZUbnVkSGFlM192U1NCSW1JZ2ZNMWJaOXBGMWZmMnlXaHp0Z0Y5TnBDb2UyYXlUTWVRc1NXZUdVeDVCZWRHVHdpdDR6b1pvVDJoTF9fM1FodjNpR19sRl9sZ3R1RVZUVHVjZE5CZHZZVzdYZU00bmZUVnJfeldheWtibFo1ZnctUl9HeVhGSGRtZW1Lek9jLVpHdmxqSGloMFZITC1icUZfQy1ZaE5ZUzFidlA1Y9IB5wFBVV95cUxNOFpSV1RtVVJpaWVNYTlONkFIb0h0aU9qOEh0ZG9NUmt0QldWRmdFTkFXTXJyT3czLTdGQklxcWRwS0JMWXVzZ05KQ01uRW10RlI0aXBnVVBSUmZRRzVNeHNqUkdIcWwwTlFNZ0w4Vi05bnh0eWE3OEZpZGc3UTVHa3M0MG11R0pZbzEtSTl6empMbkM4Y0w2MVdXb3dCalRIeC12RjI4MHZrYVd1SDZ6U0ViVFh1TDF6LVBCWU51cm54b2hYenUxeTJKSENkNlJuZF81Y1ZQUVk4T2dPRTNEeF9iWnNPalk?oc=5"
         },
         {
           "title": "NH-48 traffic jam update: RTR flyover repairs complete, reopening expected Monday - The Economic Times",
@@ -212,7 +212,7 @@
       ],
       "bse_filings": [
         {
-          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261018&strScrip=539551&strSearch=P&strToDate=20261025&strType=C"
+          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261019&strScrip=539551&strSearch=P&strToDate=20261026&strType=C"
         }
       ],
       "nse_filings": []
@@ -245,11 +245,19 @@
           "tier": "B",
           "published": "2026-10-24 17:50 IST",
           "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOXzYxc3BpQlNTZk9uVmJEUHlyb2ZRTExkSHJhaXZuMmV2eFpXbExXZ1JuQjByRTVOaUEwYldORXdmbjRsd2lkLTdpSkJ3S2xfQkJVSHA4dW9RRzJHOXdfQzVyemN6Y21VTGxINTVGZW9FSFpyZnNJZXJzaHE5dmtCVjZIQTFiMFFoejlZVnAza2VWbE9qSTBhS3lqT0hydnpQWTRWV2xLeWpKODBVbGNhRUllcUUzYWt1MUpybXAwd0xmLV9SSzBlVkJrX0M2TUkwZ1MwSnRWWDRzVlNOR2U5MGJlaGJCNDRUSjZmVTc2cllHM0o4M0g5WHJR?oc=5"
+        },
+        {
+          "title": "Why are Indian IT firms looking for AI & data businesses to buy? - Livemint",
+          "source": "Livemint",
+          "source_url": "https://www.livemint.com",
+          "tier": "B",
+          "published": "2026-10-22 08:55 IST",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQajJfWEJXZGtxUEY5V25iVE12QVdpanU2NmxDLV82QmtCbkhhMHdkZXF4TkJ6clJWNzNsQjByU0RENFc2Z2xBcjRPd1ZzZ3BkODlLX01uWHNYR2g4RGFUZ0MtSGRNVGxsbngwRDJ2UndlRFB6TGFLWVlpVzJuWWRxdmJEbE5ZaTRaMmtLUFZ2Q3BzdjE0STRTeUlZQm9LcnRpUHJ0Q3drMUdTS3JNQmZ3X3V4SQ?oc=5"
         }
       ],
       "bse_filings": [
         {
-          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261018&strScrip=532488&strSearch=P&strToDate=20261025&strType=C"
+          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261019&strScrip=532488&strSearch=P&strToDate=20261026&strType=C"
         }
       ],
       "nse_filings": []
@@ -269,7 +277,7 @@
       "news": [],
       "bse_filings": [
         {
-          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261018&strScrip=532734&strSearch=P&strToDate=20261025&strType=C"
+          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261019&strScrip=532734&strSearch=P&strToDate=20261026&strType=C"
         }
       ],
       "nse_filings": []
@@ -296,30 +304,6 @@
           "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOSk9GVXd6Zm9nalFiNnJDZEdMaUU2ZVNuMzhoVnVfVURBdXB4LWV1aDdnSjk0aS1qaGVnQlpwS2VSVFFJc2tQQkkxMExSLWkyRDlYMW0taXJZX0Zydmx3Q1IyTjV3RVQ5TTM0NXVRQkpkNkZBUWpiUDc3SVVlOEtoUTZMSW12X1l0cUZ5cEtvLUN2anRFaG4zYnBYcGFSNGd4cVJLbmJvZWZxRlBrbjhNT0RvRmtXTUU1ZFA1V2ZuUnQ5REwzOEw1UjVQNWFJMWtUTU9NMTdDTS1jRU9MXzJycHBIQXBLckNJYjd1cXd1Zy1ieHpkZlV1Qm40MjA3TVVJcEtmaVRwSFI3bnB40gGSAkFVX3lxTE9QQ1g3OFBQQ0hQSVlnNnFoTzg4Y3hNY0hpdHB3TVo5X0M1U1h0TTV1U1ZCN1d0UjRxeFZiZXVYY1YyMFRHV3gwYUxjMElMYno3WVk5VXIyXzJ6QlpUQ2cxaVF2MjI1YkVZSUtHcHBFdmV4RTNmdGlKajJ0VkxQOHJ4S1h6Q3BaOENmYV9pdm1NSi05NWQ2UVNZdGtLN3pjbnFtZDZpekQ5bDlkc1VWN0ZPRHFiQ29rc2JlMExSMl9hRF9oQjdYRlQ3djc4QS03M0JqM0VBbGRqLXJ1YUN6LXRnRkhTZG5IWjRVVXBqUTczajNVd0Fvc3RHZG5BTmxnVHBQbUpaRlhGbi1WZXpWdGFOcVE?oc=5"
         },
         {
-          "title": "Titan redeems ₹1,000 crore commercial paper - BusinessLine",
-          "source": "BusinessLine",
-          "source_url": "https://www.thehindubusinessline.com",
-          "tier": "B",
-          "published": "2026-10-19 21:20 IST",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTF5TUJ2OUt4YnZ2c2czZ3lPYjVNR2ZpWEZ4aDdmUk80cngtRENsM1VRNVozd3R2QXpTcE5sSWthX3AybktHM3BTYk1SVUpyV2EtNFlYWUZPZVFONkUzM3lrTHI4aHJDVEVOMHVWNWFDRlhCYlNVVDFrSHpDSnV3czNWckp6czE1SVp4alRvOVVHM3p4eVMxUVl6TFB5T05XeE5HQkUyZDFxNmNv0gGzAUFVX3lxTE5WclVKam9nVFJhVlBDYXhjQlBPelF1SGMzR3RrTU9IZkhHWWhvX3U5bWVKMDAyZkZ0NHVhTjA3bUpjUDNnQXktUWRWbjR3VWNfeHNGc21OUEM2WXVWay1JNVdrS0xYTGsyZk1yNGkxQ3k3MWFWdVJLODZlbEVXSnNxLXJXa1IwWUZaa3U4NVlPaTJLc3BVT1Z1RWdZWUdWamVRWDRTYlBJYmRpX0VwRGVFY0tJ?oc=5"
-        },
-        {
-          "title": "Titan Q2 Results: Date, Time, Dividend News, Earnings Call Schedule And More - NDTV Profit",
-          "source": "NDTV Profit",
-          "source_url": "https://www.ndtvprofit.com",
-          "tier": "B",
-          "published": "2026-10-20 15:35 IST",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSG90ekZHSTZIWERsMWg3WHBFUHhjcF9ZMUd6YkFlb0tZREJwZnU1Tk5EYVM1NVBKTkx6MzQydXR2V2kyRVhWaF9ERklMbGlKcjZYUG15bXo4M1YteXlVdjM1bXl5eU1OOVJfNFktWnViaGpEQUN6S2EwTzBuNXhrNmd4aEJqQkJyZ0pSZ1ZVdnB5blJDc3dFbU42VUloMFFYSHJxWm0xMTBqbFJNUEVzSXkzUU1VNEnSAb8BQVVfeXFMTnFBaGt6eTVLbzlma0RoVlRFS0tzREtZeHpPNmpYZlM0c2xwMUNVazhwQ3pXRzBWN3dlZnpVMnAwTDVFcUtmN2hMQ1ZXNy1PaVYxM0ExanJkemZYUWloWGF1d01xQW1YN3BiZWVkSGF2aTZTenByLVc4V3FfU3lFRGNoaUZwMXdHTEhRUHRsRERNZnZxOF9QVHY4ZmNfTXIxTmxfTFNEbWlISjdBdTd4YzlzRDlzVFAtRGNNSE5feTg?oc=5"
-        },
-        {
-          "title": "Multibagger stock announces 1:4 bonus shares: Up 550% in 5-Yrs with 1:5 stock split, dividend history; record date soon - Livemint",
-          "source": "Livemint",
-          "source_url": "https://www.livemint.com",
-          "tier": "B",
-          "published": "2026-10-20 15:32 IST",
-          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPQVlVMmtTSEdNZlB6d2VrckFCYjZ2dzZkalUwZkxzSXNUUmtOTmNnRnRLdUhwbVB0SVo3VTl0akFJYU5QbnloVTRCcTdSMzFEZ2IwVFNIM1IwS0VXUmptQ0t2NjFuZG0tRXJMWGVBSThJZEJIMGRUdFgwSXFHZmk3dHdySmI3V2FVNzBIdDU4ZVRUTlJwSC01eWNmZVBvX1hYdWU4RHZPSldydHphWjMxNmpneGh0U2t2SUlwdkFRd1oweE5XMDZES3VZcEFWMFduSDRXNThfeDR2OFhVVm52c1d6ZkFrYlY0WXJuOUxqMGl4ejhXVkYyQTJKODc3NXNDZ2VySHhDdTdIZWczSVhGdWQ3d9IBmAJBVV95cUxQM0JrbldsYjFKRWNCOGJlQTNVMXEteVRtMUtjMG9QaFFQU0l3TzJFRVEyTlk3TGYzTHVwZ0FhNkRSMElzRDJpWnlsX2lVTzNQenk2YmgzcFBBeDZlYTl4TVR4N1pkblVmQ3RHZ0V6UUtKTlBwR3RSU0ZGWjRzTE9RTGN2OXJsb19BUUVwZGFJUWFlVG92UjZiQWwySFNWWHpyc3hWb2VVWG80Q2tCNkYySnd4blEtWHRkR0YyS1IyMFJEbU9yazJUUVJvZnV5ZzlYcW9pU1U5ODFwSUJ5UGVtamNQMUM5SXA4SkpCTzNJa0VCMjFkWm81LTBFMWtiWUJkZDEyeERWNFJrakVmcC1yWjduZWRzRVY2?oc=5"
-        },
-        {
           "title": "Titan’s jewellery growth to moderate in Q2 as festival demand shifts - BusinessLine",
           "source": "BusinessLine",
           "source_url": "https://www.thehindubusinessline.com",
@@ -334,6 +318,14 @@
           "tier": "B",
           "published": "2026-10-23 18:15 IST",
           "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPUzFaa3p3Q3pKWmlxa1ZfaFN6ZFZVYlNRLVdsLTB2THpiQXRqb0x4UWVUczZwV1pPNUpjb2Y5ZlRtRUV4VFpBX1NoWVNkaXhaem93dWdfTU5rRmhoTll5S3ExY3diSlNfSUVSV0VWU3kwLWJmT3FLTVhsZldTWUJ5bTNvdDRqSUpWcEdXY3prTTVfSEJna2NZZ1BIUGphTUpqeDNWTlRFbXBGLS1sOUhuZnBPS3BrVWVwakVoUWU4OEVfZ1doMmV5eGVNX1hzQW9ubm54QzM0MFgxZXVzYTJvbE5JTjJTd2hYNnRZQUFIMlhEdExYcFl6Mm9DN1RGNEFQX3NraHotbEdTS0lMWW83d3FuTEUwQ3FoX0dqZnA4VFlnblMwcTFSTlRFYjZqTUU5dWI0MG5fdTZIWkgwV0HSAcMCQVVfeXFMTk1uZHM4d01USDV1dzA0MXU3NkdZUjRtX0pRY0NucnhGREUwTnBUekFuMkFMUXZDbTFaNi1mWEI4ei1QWjFZUXFuTjh1OEwxdENIWUUxb29ZZXktWlBCbjBUQ0hJM3hRMGUyTVVHZ2hNcl9WRGVQdUdoUWJBU3F5aFp6LWgxTW10V0x4cFhtVUI2OThROFhsT2g0eXVEdGgtRkZDekV4SHdPRnpvT0ZNU05fY3RXalRXa1M2aXM3WC1WLTVhS0l1TFI0bXppb1ZpcmVySHF1TVZtTkU2Qnc3MnIzM255czVBMmlwTjdKcnZqN0xjNThqd182V2lkZmUtcGl0amJVQUZ3V1hmVmRaUy14aDlZd19LT0dYQ1pNYmZEZ0xWMVE3QjJxeEUybzZMWUNvdXIyQ0NTbEx2VG9nS1M0YXc?oc=5"
+        },
+        {
+          "title": "Titan Q2 Results: Date, Time, Dividend News, Earnings Call Schedule And More - NDTV Profit",
+          "source": "NDTV Profit",
+          "source_url": "https://www.ndtvprofit.com",
+          "tier": "B",
+          "published": "2026-10-20 15:35 IST",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSG90ekZHSTZIWERsMWg3WHBFUHhjcF9ZMUd6YkFlb0tZREJwZnU1Tk5EYVM1NVBKTkx6MzQydXR2V2kyRVhWaF9ERklMbGlKcjZYUG15bXo4M1YteXlVdjM1bXl5eU1OOVJfNFktWnViaGpEQUN6S2EwTzBuNXhrNmd4aEJqQkJyZ0pSZ1ZVdnB5blJDc3dFbU42VUloMFFYSHJxWm0xMTBqbFJNUEVzSXkzUU1VNEnSAb8BQVVfeXFMTnFBaGt6eTVLbzlma0RoVlRFS0tzREtZeHpPNmpYZlM0c2xwMUNVazhwQ3pXRzBWN3dlZnpVMnAwTDVFcUtmN2hMQ1ZXNy1PaVYxM0ExanJkemZYUWloWGF1d01xQW1YN3BiZWVkSGF2aTZTenByLVc4V3FfU3lFRGNoaUZwMXdHTEhRUHRsRERNZnZxOF9QVHY4ZmNfTXIxTmxfTFNEbWlISjdBdTd4YzlzRDlzVFAtRGNNSE5feTg?oc=5"
         },
         {
           "title": "Titan Q2 results 2026 date: Check Rekha Jhujhunwala portfolio stock returns, target, support - Should you buy? - Livemint",
@@ -354,7 +346,7 @@
       ],
       "bse_filings": [
         {
-          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261018&strScrip=500114&strSearch=P&strToDate=20261025&strType=C"
+          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261019&strScrip=500114&strSearch=P&strToDate=20261026&strType=C"
         }
       ],
       "nse_filings": [
@@ -394,6 +386,14 @@
           "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTkVVMWZNNFJsR1RSazZVOFF5aW9lYk9GczRqNW83U0xzVXBqYTdUWXZUcFJyVlF1RlVnVk1LYXZybldUWTFHLW1VT1BucmU1TG5SSWZmWE9ZaVlPYzlNR29BaGpZbTEzMGxaMGhHWjd5VkpOU3BmZTR2bUJEdlZsamU4VUdVTnNHVlYtWnBmdnBWMTV6RUxNVGFtQXZyNVgwOHd1VmNqU3ZsWEJIU0Jod0tHbG1STElTeEdIaW0wU2FWTTlLWWlEbENMcnhLWExWWjR1S19jSkkzME9lY2lwZzhpYUVhRHlhLUx4bkVZTHFwMkxURmhibXNB0gH_AUFVX3lxTE9MTXFOYjk5d3FFeEFlaTRTcmNuVW9XRGJpN1hvS2VmbGxNYjloeHN5Um9IR2NNMWdrZjlrZkdFaTRkb1p4SXpIME9pR1FvZ0E4YUtwaUNjeHFZV1dmazVyTXMtVlA4Qmx3VFFLV0hJaFo3WE1zZDcxMk1BbFAyTjl5UGNYTERFSVl6UDNscmU3WGRRMWJaUFlYemd4OFRFOWt1ZWx3d2k4MlBQem42R1ZWNFBDSHpIemVVWWdINXdSTENFcFc5QUh5VGh2UDV1eGFGSU5fdE44bGliTjNHSGtjLV9oeFd3SDBBeGpYNm1UXzF0Nmc4d1BTcHpKeHRYSQ?oc=5"
         },
         {
+          "title": "ICICI Bank share price target after Q2 results: What are Jefferies, other analysts saying? - The Economic Times",
+          "source": "The Economic Times",
+          "source_url": "https://m.economictimes.com",
+          "tier": "B",
+          "published": "2026-10-19 09:48 IST",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUF9aQ1BBeEJMejVFd0R1MmM3dVF5UGF0V3Z1amlETTdPUnpyX3ljaG0zdFotbV9TRVQ0MXVRUHpDOFRINFktQkZ3NlZCVVpiekw3QnVJQktQQVBCR29vd2t0YWZ5QnJBSlNsVU9UNG80NEJ3R21ValNMVXM3X3VmY3kzZ1E5MnJ4clZQX3lzTDd6RS03Ukg2YW91WEZFa2p5eUlBdWRPRWNPMGNqNnNYZ0VTQzF5bTBLMFNBMjdndDMwY0YtU2dpNlN0UzdTMXdtZ2hvUUdLZy0tNm5fUVNSeWhpdThnXzlPNEhvMHkzU3Q4eDTSAfgBQVVfeXFMUDcycGMzTGVLbzhjc3J5RUJ2VWVlUXdCSThxYVEtdmxLd01DTmFhLVBXUl9vaHp4R1BsLWJjUS13eTl5aEJWeDdIYnN2MVZlSnBObWlWNTVtdTdtclhRM0VQekNpQkJlNkJpMU1UTVY4Zzd2dzd4RVloLXpCSmttOElVTTEzSEE2SENxSWRJS1diM20wSkJHRklJWmkteG9VSm5DSk9zUllsaG1SQW1NOEpscjUzNmdId0xPM1I5bnVnZjk2eGFsM2xqcVFoUlVQci1yVEExNDRrZWo5NEEzbUhENUMxNWxmanh0ek92bWU5OTZET01yVEs?oc=5"
+        },
+        {
           "title": "ICICI Bank, Indian Bank hike FD rates: Check latest rates for senior citizens and general depositors - Livemint",
           "source": "Livemint",
           "source_url": "https://www.livemint.com",
@@ -402,12 +402,12 @@
           "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbnNwa05vUVBGRUlVSE9NLXVIYTRXTDNtR3VtajFwMFNIMEwyQ0hOTW0xd0tfXzhoNG5jWEZpVVhBdzUwRDRfWnduOXBmLXNIdklCbjBneDZmSl9UcWZWbHZHNHJ6NkV1b01vT2c0UlNiSk9VMG5BWHVHSG5NT2RaOFBJLWdqT2MzMmpmZTl5TVc5b1N0aGlFOS1SSzl0S1owXy1yaVZjMlhNV2tjWWlUTDYyd2F1dFR3c2xnS3lZNmd2dkxhU0t2WEk0SnJ6ZE8xTkVkLVdLMl9yTnEwYS1VeTR1c05sNnNpYlVETHhONlJpaWlRNFJ6eFFR0gH_AUFVX3lxTE1NRjdlTjJ3dnM0enZreHBNbXVTZzNDMjl2VWVZRm9xSldUQWRlbGg5OF9yazFUTWZld3VQa0tTQXNHcF9XQUR6RFlpTnQ4bndoUkdxbm0zNUJUSVZLbGNMOWp5em5VLXJENkh6cFROaWlBX01GR0pLMHZsU1NDZTY2SkZzME9YZDVUN0RnWUJ4VTBzWDRwOUl1WkZldDdCeFdxU3NDYnl6Tl80Q2cybkx2TERhYjF5Y2pFc2pXZ20yYjdRUmhMYnJPa25jNGlMLXRLZ3Y4bGpjZ3NBRmFQdDIxX2I1dkVGYldZdi1sY1A4NGMxVmI3eFg3a1NzX2Q4MA?oc=5"
         },
         {
-          "title": "India's services trade cushion faces pressure as imports outpace exports: ICICI Bank - BusinessLine",
-          "source": "BusinessLine",
-          "source_url": "https://www.thehindubusinessline.com",
+          "title": "ICICI Bank gains 1% post Q2 results; analysts upbeat on asset quality - Business Standard",
+          "source": "Business Standard",
+          "source_url": "https://www.business-standard.com",
           "tier": "B",
-          "published": "2026-10-18 15:26 IST",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVDNhRTRBUmEtOTJTNHh6c0xwdkM3ejBMQ1BPQy1FVTREYmFEU0NtdU04WmN1M2VObmdqeGhseEdlVGNDd3JyRzlOWlRlS3FwY2YtUmJxb1dGS3RTUXlFYzBxVkRTUFV2VTB1NHZmcVg2VEhiUGhEc0oxMEplQ2lBZmtIYVdMNmE4RldVZ1NsaUt2cm5KeV9NM0RWQ01oVGhERXIyS3ZhVHJ4Wk5hdm9BdFl2TDJHQVFtRDltR3RKcXduZl84QzgyWVowYkpETXBRYmpUVXdGeEtTeXBYSUhhNNIB5wFBVV95cUxQbFZlU1VjVmlrUy15aml3c2JGeXVTc2h5ellTM0YweXVMa3pjRFRJMmY5UzZhdFVoMGpTTGtuNkhqMm9zQklKS2Ztc2pNUDZDVGlQX0pSLXdHb3JxVzNmdEVvRUhoUzNXVG9MT05YekhoSlNJaUxfM0Q1OXk3V2RGVUU3LXRJaEh5SE5tSV9iMWNWOXc1OW5KZFRMZmpER3Q3TWo1V3pWWU93djRkMmtqczlnS255T3pqOVpHVnR1Ulk0a3hqb1VfSllCTXMycW43bmxqcmxrLWZKZWFhRGlZdzJFajlWN0U?oc=5"
+          "published": "2026-10-19 09:24 IST",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONE52eDItU01yZE44elQ0M0VTTmt5NFhDbHZzM3dvbDUyOWtvTUtfb0MwbDJ2dGh1dFh0eU1wajVyVndRTWdqLUhiVlJiaUtzQ2cxUDF3U2JFNFQ1Ylk4R1VSUDZiSndMdlNkaVZoaWIwMTBhX2ozUExmVUZLVWRsT01yWUg2aVY1dGNoUEpPMzJoYmpKR0pDVl85NlE1Z3Q4MmFKdVBjSlp3am5RMURiV01CT25RY2pOTFY5MUd5cW5xU0hoUUNlYW5xRTVfQUXSAdQBQVVfeXFMTkpDZ3NJdWNVOG9tMGRzbDRZRjA1RUp1bHpJTENVMXJNX3BpUXREYWhqTkNsYUdFdUJIREMwaVNqbGg5QjN6dHJkQzJTZTRzLVI5d0xEYUlCZ0Ytc3RvOFp1UW5wcl9DT3RRMGR5THN2UWU3Q0l6d3pTN3lWcHdIM3RwWko4N3UyZUw0bUxpU1Y3YlVCLUUyaFFTMTJBTnlBLW5hYXo1cmE3MFFaZV9pOGRhajlmajhSUXk5UVlaNUlfcHZ6S2dtbVB3RzUzSkRNU2hwTlY?oc=5"
         },
         {
           "title": "ICICI Bank’s CASA ratio drops 340 bps to 36.1% as FCNR (B) deposits surge - bfsi.economictimes.indiatimes.com",
@@ -426,22 +426,6 @@
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSGowQ0R4cjN3aW1hdnhSY1VjeFJpMGVfQzNxTVlhSG45dFJXS2dNUXAwSzVpbEtfSWZQQWYzUU90eUFpTzRZbTdSREg3S2pPVnhiSlhfaGNCcmhqcjMyOHVJOXdnbFg0bWltSE5PdTlRMm9keUtxV1JxZ3dRa29XekNvRHJFNUlIMkd0RDdPdlh6ZE1GYU9YOFZBUEkySHFVTXhsZzBBNjFWSU9wajc0WDh3QjRrbHZVTEJBWWhB0gHDAUFVX3lxTFB1NHh1bWx2ZWphVlFYWGRic1loUWlIMWZnN1dZaWRRSXdEcW1KNGpVeGVsU0VDb2c2cHBJcWZJMHk5N0t1WnBRbW13LVJ3WlRqVTI4aG9XdjloTTZHX3lSUTZ5OUpxdXVKRmtETFZGRGEzT0Zobll1dldzYzZFNGY0Rl80NGx1SDRGZVRFMWN1WC1xZ0g0MFIteTdSaXJwc3piTjZTQzc3aTRod2Y0S0xUUmhDeFhrMmR1UnRkWmtZemRsZw?oc=5"
         },
         {
-          "title": "Buy ICICI Bank; target of Rs 1900: Prabhudas Lilladher - Moneycontrol.com",
-          "source": "Moneycontrol.com",
-          "source_url": "https://www.moneycontrol.com",
-          "tier": "B",
-          "published": "2026-10-19 09:51 IST",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSkFnMG1ZS1h5S3FDOEJva2x0OGhfOG1SSndKTUt0N2FZVVpJTmxyREdPazAxMUxwbHhnVy14OVJzcnliN2tjMWVyWU1PeWdHc0JUS1ZDMlk0QmpJR0c1S1ZmQ0dHYlhlZ0NpQVZGOThBcDhyR09Ua3RqQ05pNmVtNThxblZsVVppazNzS1BOS25WV2UyNkxXanRNcFhMWjFsUW9nbDhHc2tPNmhRNG1oMUJpYzhyRTZxLWfSAb8BQVVfeXFMTkJhaXZySk1xcXBRTjZuenlvSmNPemJDODBkM0tNc0FoZjB1cnBJNi1XajlvS2N0WnJGX21GVThzOUN2MUFGWjNHMl9VVWIxUDhNdDBrY21oTUcwRGFjSXJ0ZnBiU1F4SWk0aTZuQ2k5RkNKX3IyelpRcUlJald4R1FWMzBRU21wUGhjdmN5REZxcE4tbi12WGZ2UC1ZOVhQQmVKdVNqcFhuaE9LUkU2T1JhV0xwS241MEd4cmJnQTA?oc=5"
-        },
-        {
-          "title": "ICICI Bank to revise savings account related charges from December 1: Who will pay more? - Moneycontrol.com",
-          "source": "Moneycontrol.com",
-          "source_url": "https://www.moneycontrol.com",
-          "tier": "B",
-          "published": "2026-10-22 13:34 IST",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOU5oSElLbWZ4MWI2akxMblphSzRKSHgwT0JsQnF1N2dydUxVaUhnNlNqTGE5ZElQTEhRNGIyd0VCZlcxemppS0RZbzB3NXBEZFhiazl0ZUZSd1NSRVc5eHdULVVvaldtcjVJS2dndHB3YVNHcHJyTURDcmlhbVc1aGhwTTZpSVBPeS01WDBOYjc5WlFIaXBZYXI1U1ZCY2xvbEhISFVIOWNiM243YXBUMmQyVi1wZjJ6MVNQcjRkX3I0WkVMZEpQRVFZYlh2WE5HZXQ1R3E5bW9QeWF5a0lkbVd5RmVQNXBUa0tZdHpFS1hNZ9IB9wFBVV95cUxQNzZIUDlBakFLZlFEcEpJa3JPQVZyVzVfNFUyTWE3U2x4RmM4Q1pJT25vUTlHWHUyeGpYc2xGRFJOZThjNWlXU1lJZ20wM2xCRFNxMlVFNDZqdFJVeXI3d2tKU0VCdzFJV1pUb255dGI4WEZzNno4alJoNW9HMkVMMnBjdE5tY0JsOXEwNmJIODlpT1ZTT1R4UExKcncwM2x3OW1sbXR4SXFfakJ1NXI4N3Joa1FJek9tRE1HY1dJTndyWml3Rl9QRWs5Zzd2Qy1WejNNVFFGLVRzUWpwSnAzdGUySWotQmJvdVJETXJ2ZU9qTk5oMU9J?oc=5"
-        },
-        {
           "title": "Amazon Pay ICICI Bank Credit Card: No joining fee, no annual charges — Cashback, Prime benefits and rewards on orders - Livemint",
           "source": "Livemint",
           "source_url": "https://www.livemint.com",
@@ -456,11 +440,35 @@
           "tier": "B",
           "published": "2026-10-23 17:28 IST",
           "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNT0VyU0Y5RU5CYnNEenBUaWR2cVNxYnZsaGZKZFBfUDFiRnJwdEtpTmNHVk9VOGxjaEw5VUZQUS1ZWHJEaWJPZkpNdDFuTUloTnM3SEYwWmRlRzJ1bmJaWFQ5R1d1SzhDRjZBb2tsSUJNaUZUMVlTMXVGZ2YxcGdCQ1JselhhbjNUdXNYZ2x2RUpuYlBVdEp0OEMtSjJkYi1HMGZBOGFtVkRvVGxyR1RuRjRXY1Q2UTJlLTJsSGxPS09VZkQ1bkEyTVUycGxsZ0tsaUIxRy03VkhZUXVtSGN0WVdRWU02VF91ems2ejNFTlNYSi1GRTNvTmQ3ejBHODFBWll4RHhTaUlQRUpodUE?oc=5"
+        },
+        {
+          "title": "ICICI Bank to revise savings account related charges from December 1: Who will pay more? - Moneycontrol.com",
+          "source": "Moneycontrol.com",
+          "source_url": "https://www.moneycontrol.com",
+          "tier": "B",
+          "published": "2026-10-22 13:34 IST",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOU5oSElLbWZ4MWI2akxMblphSzRKSHgwT0JsQnF1N2dydUxVaUhnNlNqTGE5ZElQTEhRNGIyd0VCZlcxemppS0RZbzB3NXBEZFhiazl0ZUZSd1NSRVc5eHdULVVvaldtcjVJS2dndHB3YVNHcHJyTURDcmlhbVc1aGhwTTZpSVBPeS01WDBOYjc5WlFIaXBZYXI1U1ZCY2xvbEhISFVIOWNiM243YXBUMmQyVi1wZjJ6MVNQcjRkX3I0WkVMZEpQRVFZYlh2WE5HZXQ1R3E5bW9QeWF5a0lkbVd5RmVQNXBUa0tZdHpFS1hNZ9IB9wFBVV95cUxQNzZIUDlBakFLZlFEcEpJa3JPQVZyVzVfNFUyTWE3U2x4RmM4Q1pJT25vUTlHWHUyeGpYc2xGRFJOZThjNWlXU1lJZ20wM2xCRFNxMlVFNDZqdFJVeXI3d2tKU0VCdzFJV1pUb255dGI4WEZzNno4alJoNW9HMkVMMnBjdE5tY0JsOXEwNmJIODlpT1ZTT1R4UExKcncwM2x3OW1sbXR4SXFfakJ1NXI4N3Joa1FJek9tRE1HY1dJTndyWml3Rl9QRWs5Zzd2Qy1WejNNVFFGLVRzUWpwSnAzdGUySWotQmJvdVJETXJ2ZU9qTk5oMU9J?oc=5"
+        },
+        {
+          "title": "ICICI Bank to revise savings account select cash transaction charges from December 1, 2026: Which customer - The Economic Times",
+          "source": "The Economic Times",
+          "source_url": "https://m.economictimes.com",
+          "tier": "B",
+          "published": "2026-10-22 12:16 IST",
+          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPaF9pXzRxUjRWNnFKM1lwQmtFcVZJbktWV0dxOHFTYlpxVzFWMHp3ZGtTTzFLR2s2ZDB2dWhrQmdFaEFMcDNfM3gyanpQbm9BOEQwOXhMMmwtcE1sOVNOOFZ6c25EdVhHYjNuS1VlZkg4YnFlaGpQbFloVVdIZWRZQlZLZEpRZHR4SHZmLU1EYTZwME9WMG05TEh6TVZRWUFLZEpfdXFyZ2JqSVphaVgxY1FmWVlYOG8zY2tvTnpOZXhKZUgwUTNuOUp1aUZuTW9tMEVZWmc1NHJRQ2F1TVJJNHk4YVpLVlNWeDljaEhMYWdHSDQybXBmS2dkU0JyczVrZU5Zd2NTQVJnWWFoSEJLQllaN0l6b0VDeENvT9IBogJBVV95cUxPa0YxQWVQbzg0eUVOQjBLYmFlRmRpenlMeTljYzM5VXV0OThwY2VOUktxVTZYd1ZSSWNmYy1ONjZGZlZ4TWk2TGhFOW1odXJsV05ORGZfel9EYVVwcVI4V3M2LTNTMGdwMnlqMTg1S3g2eVZVNl9sMm9FVzlyaldWbmZYZ09jUHFWd205OTVRRV9MRURYSFkwRzV1TWxqQzRjM0IzMUczYWFTVVkyVjRWOFktQlhCR25XdDY5N01xRk5ieDZ3UEQ5UTlWdk91TUxfRjRVUU5vMGNLTWxfN3ZfblpCNGpnOVJ3ZmlrOFFhMkZQOFBNZ004b25UQmlQcFVBV2stUXFyQlhEQThaYjdqOTVpcVMzejlqTUxMNUtsQ0J6Zw?oc=5"
+        },
+        {
+          "title": "ICICI Bank stock falls 1% after Q2 results, among top Nifty losers; brokerages bullish on growth,... - Moneycontrol.com",
+          "source": "Moneycontrol.com",
+          "source_url": "https://www.moneycontrol.com",
+          "tier": "B",
+          "published": "2026-10-19 11:37 IST",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQb2VrQm5uTlU0cVE5UU5tNlVaakpwZFBpODBGVVltdnMzbkhpYnlsMnFNZ29WcTU2dnFZYS1WSXZhVGRLZEpta0lxdldWdXRSVUpQdEVWM1VTcmNNVllNTEh5YlNxQmE0VmRNZi1YY3N1ZmdXU2pRSXkyWW5rdFVqMTNkQXJCdVJwQWprQmRVTmh6NTY5bnVGVlNlZHZMclVEdGpCRjZ2Z0lRbXZnWVR4Z2RzVnNJOVMxelVSaXM3T1FfTUZCMlJEOHl2UDYtNzZoSFpWcEZ5R1JCcEpUMlBTdHZhRC1Rem9wRWpMOTZyT18wRHl3bnhjNXdZS25hZl95cGpPa2RBNNIBhwJBVV95cUxQb2VrQm5uTlU0cVE5UU5tNlVaakpwZFBpODBGVVltdnMzbkhpYnlsMnFNZ29WcTU2dnFZYS1WSXZhVGRLZEpta0lxdldWdXRSVUpQdEVWM1VTcmNNVllNTEh5YlNxQmE0VmRNZi1YY3N1ZmdXU2pRSXkyWW5rdFVqMTNkQXJCdVJwQWprQmRVTmh6NTY5bnVGVlNlZHZMclVEdGpCRjZ2Z0lRbXZnWVR4Z2RzVnNJOVMxelVSaXM3T1FfTUZCMlJEOHl2UDYtNzZoSFpWcEZ5R1JCcEpUMlBTdHZhRC1Rem9wRWpMOTZyT18wRHl3bnhjNXdZS25hZl95cGpPa2RBNA?oc=5"
         }
       ],
       "bse_filings": [
         {
-          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261018&strScrip=532174&strSearch=P&strToDate=20261025&strType=C"
+          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261019&strScrip=532174&strSearch=P&strToDate=20261026&strType=C"
         }
       ],
       "nse_filings": [
@@ -506,14 +514,6 @@
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZTAwOTR1Z2FTcGtPLWtCZjdPMER5XzQ4cUo0UnF6WE45bW5iaFBwRmxvb1FldlJZUno2VmducGdDa0hHdHNXbXNfd0tBRzdpMGE1SGJDWTk3akJtYjFtd3hrWGZHXzQ1RzNvUk5teXNNekROTHhMekxlSEFDZ3lNTVpaLWZkN1NjT1JXUC1KYUJWZFBuTGxzUDB4UmdkZGlOazRTQkd2YkZLREhhMkljNkkwLVpubHlaTDBr?oc=5"
         },
         {
-          "title": "Internal review underway on potential violations: HDFC Bank - The Hindu",
-          "source": "The Hindu",
-          "source_url": "https://www.thehindu.com",
-          "tier": "B",
-          "published": "2026-10-22 22:05 IST",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU3luTVQzYU9ZdlptYmtkakplUGdjNnNWODVVZ3BpV1JFUWsyMmFqYVJWRDV5TVlLQjVzbUxkVWpseHJkUmNuVk5BNV9rTXFzVTJxRVMtU2lJQmZFdFpVdGUxdGNGM2xRaXJhbTBUZ29kOVlkYnFZbW05NjhTaXV1bEs3d21nUnBjOTY3N2xtb1B2SHE0RVYxQUpVbDZQUUg3V3kxRS1ScVVXTm15VmxGNjNB0gG4AUFVX3lxTE5yTmdLbU5XR1VuSW91MnNOWGM1Z0RsNmRJSEEwbkRGRVhublpCTjE5ZEpWdWc4QWNUUnNBUWpCS0M2TTcxWEQ1UGJxTDlrakpRZWxxLVRWRVp2WDEyLU1VT3VQZTY4SnotU2lUX1Y4UVFTWlI2MEdaQ09uWGlHQmc5MDNwV1A4eEdnQW1sN0VIanNuZUVLc21wX3c1Tzh2UnJFc2dJUURJcmw0eDFRcnc1TWo3UWhub1E?oc=5"
-        },
-        {
           "title": "HDFC Bank probe finds two executives shared confidential information - BusinessLine",
           "source": "BusinessLine",
           "source_url": "https://www.thehindubusinessline.com",
@@ -522,12 +522,28 @@
           "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTTJPNzJZYklTaVlseU05OXhfbkpfNnoyV25idHMyTEU5MXZIeXJEX1dyWE5FVHVULUxZQkhBT1hCcU9DN2hvOW52MHhoemhZR3B5VGdPY0xvMmY4a2dwOUZvdkw2WjZwT0laSy1yY2dEUFo3MjRmUFo2RjgzX0dPN3p1dGxkWmVKdEktOTB1NjkyNG5RXzRqVXVTV1dKNkFfSUk4NW4yZ1lGazRlOU40S3FHNE0xMkI0RG5WQ0RXcUlYeVZaRXQ4dGFjU0NpOS0wdlB2RkV2ZXFPLU1TX0EzSkJKTDhkRDI2X0V6d000Y19MODNoYnBHTNIB_wFBVV95cUxOY3BlUHJQcmN4MV8tTzRHZ0NPVnBYRlBLakZjWmRZWm81WjBtTkF1NUhkMWFqbDFkNUo3SndYRlJlYV9naDExRFAxT29GV1RvQ3lpX3VJYlI3Z3dLOTNXcXRBR2tEVU03OE41Szh2c0ZFWndOdlRrUVJnLUY3MmhFckdIQ1dWc3otRFVSSkdBeFR5TzdROUJCeGJhdWFsSlJrVnNlRHl5cGttX1FTdFRkY3lwYWFIZWkwRVRkaVNmVzVUNHJoRnlJVDM3ZElWOFFSR25VaEVxRmdJSUZGbndxNE5ZSlNabl9tMEFONFFPV2htaHZzSExHRl9YcVJ6Qnc?oc=5"
         },
         {
-          "title": "HDFC Bank Q2 net profit grows 4.7% to ₹19,510 crore - The Hindu",
+          "title": "HDFC Bank probes alleged leak of confidential information, two under lens - Business Standard",
+          "source": "Business Standard",
+          "source_url": "https://www.business-standard.com",
+          "tier": "B",
+          "published": "2026-10-21 19:21 IST",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNR2Mwb3NVOHZ0V0VpckF2a3RWaEhfbVFEU3dkNnRvRmRjWHUxSHVlOTAwSk9Pem1IU2lkNDh3dV9lZ25qTDlBRTFtYTNOMkNZVVQ0OUhCUWFhVEY2YXdSMUhMdF9MWndWOGV4c3lEWnA2SzZzdEExY1ZSemRfWVd2TjMwYXJzRW1BaTJLVnpSM0d1TmlaeU1sOVkwY3MtSUhYRjRkQ0RyVDZUU29WQXZyUUNxcWdxSW5Oa2tkcVQ0d1MwU09YU3hXX1hjYnk4U0wxRENVR3VvVmJGWGfSAeABQVVfeXFMTUdQUjN6YmcweG9KQ1RCOTJDbS11TlNRU2lsa3RTa2xFSlBSMmlKODRxczdLLTFzdFZILUJoa1VvOS1xa28tZXVqbVNUZ3UtU2lyV01faXJCb1FpeEFiZzZMUmJoU2dVUUpZamNPNHI1Smx3cUNfX2l2R3huUjdycmo3NUN0bU5qUFVCTFhyREVuREMwb0NxVEVvV25sWF9MQllnQ1NFVjZWVmZ6X3RGNGh0b0J5d2xhWWdYRVE5cUlGUVE2c1ZaQk5IS1EyN01wX3R2bXM5TW1CcWJlNkhhSmU?oc=5"
+        },
+        {
+          "title": "HDFC Bank margins near bottom, but expensive FCNR(B) deposits could delay recovery - bfsi.economictimes.indiatimes.com",
+          "source": "bfsi.economictimes.indiatimes.com",
+          "source_url": "https://bfsi.economictimes.indiatimes.com",
+          "tier": "B",
+          "published": "2026-10-20 05:43 IST",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNlR4aHl2aFVXTVAzTklualZjbUUzdk9JVHYtSDFHVTF5b1RmUWNwSlZXQ3NDT1I1bm5PZ25QaHphZFo0UWNycU8tU3ZJU3lHak5STlliSDZCM3VpbS12ZjJnUE9vVjE5QVAxZ3JpenpuTWpDbERqTFJPb0tBVVZYM2RqMzJPTlBiOF9EQ0h1bERnNm5fdDBiSUd4Q3VpWTM2aVo1b0w3ckdLeE0wMGtuVm9HLXkzTUFIRVl1WnJVT1AyZEhEblF3ZUtBYjlRT1dUWW9MY0xkc9IB3AFBVV95cUxPSm1MNEFJdUNPTVJPMmxzNmZiZ0hPMDZnN04zWHdNN3llQ00zMHIwM0t3TVMxTmhnVV9MdjZ5VzhxcnZzLXd6ZHpCazFjUVlsNkMyeWQxZGYxZHVVWk9zbFFiWmlUQ1RBdVNVa0hOMC1wcHRYTkdfWnFTSVY0blAzUUk3a1NEamtNeTVjV1MwVEJmNUNQMFhVVEM5eGQ2a2JtSENOY1lVQmtoYnNXSHhOR0R0eTQ2UVJpYmViYXVYTDluNDNRVjlsQXFOazJLSzBzdUU5dXUzaFRtUDRI?oc=5"
+        },
+        {
+          "title": "Internal review underway on potential violations: HDFC Bank - The Hindu",
           "source": "The Hindu",
           "source_url": "https://www.thehindu.com",
           "tier": "B",
-          "published": "2026-10-19 00:22 IST",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVzBIaExhRng4TDJpczBLMGdFZnlCMF91ekN5M0plNDJKQ0JWQnliUnMxVENZU0gwNlhqXzdoWUFlU0NrN1M3YmtRUVNjQ3NvYm5TaXVGbkRGMlpqUnR4MlZSRXM4S2I0RXJIMHZUb3JvaHFraTgxZzNmeWxTRElxTENHN0pUbU1KV2ItVDNleC1tZ05LQ0l1YVZ1M3lWXzdIQXlj0gGqAUFVX3lxTFBDT1M3ZFBWZ3lzbnRjYmM2Q0RlbUVMNVZzaTJKWVJTRUstLWZxZWtlMWJVZGxYNjFocHZvUndBdnkwQ2hhU21xUjI1NEtxb0RHNkV4YWJnMTlERkFOZ1Z4Sk9kU2g5QmpfTDVuclQzQV9ZT2R4djd5SVBLR05YSVVXU3Y1ZFZhOGVZb01xX1kyVTAzQnp1YnE2RDV0OWhtQlY3VkJ5eW01UG1B?oc=5"
+          "published": "2026-10-22 22:05 IST",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU3luTVQzYU9ZdlptYmtkakplUGdjNnNWODVVZ3BpV1JFUWsyMmFqYVJWRDV5TVlLQjVzbUxkVWpseHJkUmNuVk5BNV9rTXFzVTJxRVMtU2lJQmZFdFpVdGUxdGNGM2xRaXJhbTBUZ29kOVlkYnFZbW05NjhTaXV1bEs3d21nUnBjOTY3N2xtb1B2SHE0RVYxQUpVbDZQUUg3V3kxRS1ScVVXTm15VmxGNjNB0gG4AUFVX3lxTE5yTmdLbU5XR1VuSW91MnNOWGM1Z0RsNmRJSEEwbkRGRVhublpCTjE5ZEpWdWc4QWNUUnNBUWpCS0M2TTcxWEQ1UGJxTDlrakpRZWxxLVRWRVp2WDEyLU1VT3VQZTY4SnotU2lUX1Y4UVFTWlI2MEdaQ09uWGlHQmc5MDNwV1A4eEdnQW1sN0VIanNuZUVLc21wX3c1Tzh2UnJFc2dJUURJcmw0eDFRcnc1TWo3UWhub1E?oc=5"
         },
         {
           "title": "HDFC Bank shares stock fall despite profit growth as street stays unimpressed - BusinessLine",
@@ -538,12 +554,28 @@
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVUxZUHpBMHZxdkFiVzUwNXkyOF80a2lYdjJhckFxdXdTLU5mYmZnLWJMV2UzRmxkQ2d2d2wwNXRQVThtSGNDeE9tUlJJUUI2elFwQlFuU1JIQ2lNbVFydExKbEI5aFpMRDBUWTlHdXU5MGQ2enplczNvRjc5Q2g3UW5CYVEtMUozQTkyTnRpNUFxaWFiRG96a1pBb3Z3RUJLdFh0RExwdUp2bWpzbHkzQTRJVE56T3dkNmJ1M3Q3Q0NtYTRUSmVDbXR4WktCM19Vb0HSAdgBQVVfeXFMUFhDdHBhR19QR3NuOXdnXzhUYUh5UG02c3RwWUZzMDdxWVdFOWotRHZzU01Vdk1yWjA0V2tfUGVWZjJPZW9senhqblkzRjMxMTc1MmVEeTlvX01yMVo3QnBsNjBocUF6QXhXekJJNGxOdTlEWWluMXVSUDdUeGEyZnR2ZUktV1FQRnVaTDdTSDlHV0lRRDFld3lINFZIeUcxNVZVclBhTWZkQmxwWXNvRDNLV3lZay13T3Jidzl6NDA3RDg4Vzk4YWx1RDVJSGZ3c2FFS2c0aTBy?oc=5"
         },
         {
+          "title": "HDFC Bank says internal review underway into alleged business information leak - bfsi.economictimes.indiatimes.com",
+          "source": "bfsi.economictimes.indiatimes.com",
+          "source_url": "https://bfsi.economictimes.indiatimes.com",
+          "tier": "B",
+          "published": "2026-10-21 16:43 IST",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZE11NHRHY0U0VDBRMG42YWVHbFNxNXg2OXFRNENrWjhpb2Iwd25TWnF0NkE0QmV5YnZNLWswZ2tOemItZGZFUUstUHJ5cnZxRVpSaU9ZcFgtUTRRaFhWWVRaSmNOWkJYbUhJZW0xRGNrZm04RkxFZHJyTk9fRmwzYzU0amV6TFdaZDVBam9nT094TWxOUEl0ZmM4RXNhU2YtbGZaVVVsSTVvbU1SSTF6bmxROW9QZ1JHNjBQejBpNW1XTWQ0Tk9KSDE0NTVaUUU5US1zdEFn0gHbAUFVX3lxTE53bm55b1BSRkd2dnZRbG5JZmJwVmZiQnNiMjBFUXgwaGtHc3pXNXBETEN6aHkzMDF2VVpIdXRQRWcwelJLUTJoZ0tjWF9MM0p4M1JRcEtSMWpCbXdNdzZCQUhtZ3JNTDJYVWZvZE9RNFVkblFmSmllUXlDeDNORXNCUThmVHhjR2VhM3VYRXA5cjNfR1RLeDNwUXd2MVBQdzJhWnFna2RKQ2lUV3hMTlM2U3dmMUczZ0h3N0puRFhDMTVFcmRwOTlsQm1HeGoyWER6RkxsdWtpWlZJcw?oc=5"
+        },
+        {
+          "title": "HDFC Bank stock dips 2% on huge volume; trades lower for third straight day - Business Standard",
+          "source": "Business Standard",
+          "source_url": "https://www.business-standard.com",
+          "tier": "B",
+          "published": "2026-10-22 15:12 IST",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPa21wZk1ZS1dXbmxPZ281ZS15djJyc2RPNldpYm9WTEFrQU5nS0lrdG5tSkNocHhQNF96WTVPRlJLbGFhRGZEc2V5WmdxODQ1OFZzY1N6d2x3UmFwYVV1S25vQW5SMXphZGVuUGRHUVdlX3h5YWkxV2xoSnVNVlJIZGlNU3F0SjNVV01ZUml3SVFPcUNhVFdLM1FMRzFNb2VRakJoanZoTzUzdE15MDRWR2xWNUtWMHM2UGJCcEduZkdrTjRzM1VBS0p5VldpTGlEbF9DOEduVdIB3AFBVV95cUxPenhtcUtSSEg1Z2hyRG55azZUV1hYc1BfQUFRRV8wVWJHMUpBQ2pFMER0UExiTzVma1BkQlk5Mm1udUxqVnJIQ2NHMEdzcWtrVFhnaVAwdjAtd0xMVEZmX0JfMFJQUUtuSVh1YnYzOGJ1cVp6Z2JHTnVZaE9DelBHTXl1ZEg1U1JkamNHNV9qZjlsZko0dGRtTXRPMGM4RTY2ejFXUkNwS2RrY0pMd3E4eHJRdE5JTEhrSTYtRWFzVkJ4T3lwLWMtd2RhWVhuVTVBTmZlS3Q4cTZzS1Fx?oc=5"
+        },
+        {
           "title": "HDFC Bank initiates internal probe into alleged data leak by two senior executives - The Hindu",
           "source": "The Hindu",
           "source_url": "https://www.thehindu.com",
           "tier": "B",
           "published": "2026-10-21 23:45 IST",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPM0FoajhSci1GZ2F4MDN3Z1M3S2Z4dF9qNTY4WkJJY1FoM0xTRTJfaENyb0U5akJoamxXQmVqWVlKUlAtMi1VX0x0SDhJakRzUmVqU0hQWGo3SVVUb3d0anA5aDFYTXFEX3ljQmRJeFNXYjFzaURpMUd0V3Nxbml4MWZMY3dtOVpxQWJPYWpBMWlDZmpHMkFXaXRVaHlnTWQtVXBvNUpzcjg0UGM3bFpIV3cxaGRDUWlGOWdyNV9uckxIaU9LcnpjQUNJWXhwaExnRWdXY08tck9rSVpQSXlNQ2Z2MlPSAeQBQVVfeXFMTzNBaGo4UnItRmdheDAzd2dTN0tmeHRfajU2OFpCSWNRaDNMU0UyX2hDcm9FOWpCaGpsV0JlallZSlJQLTItVV9MdEg4SWpEc1JlalNIUFhqN0lVVG93dGpwOWgxWE1xRF95Y0JkSXhTV2Ixc2lEaTFHdFdzcW5peDFmTGN3bTlacUFiT2FqQTFpQ2ZqRzJBV2l0VWh5Z01kLVVwbzVKc3I4NFBjN2xaSFd3MWhkQ1FpRjlncjVfbnJMSGlPS3J6Y0FDSVl4cGhMZ0VnV2NPLXJPa0laUEl5TUNmdjJT?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQVNJd0lielpaN0lVT0NMWHJ6SmZtLXpsYXVRbTBMa0dBYzVEd2FjUENRTVdsSXFnZ0hoOEwxbTY1UDRSZ0VvSk1jVnhubVpvNks2dzY1QVRYYll4SkszVjVYOW9uRlNOZjdnRU1xSmVCdzBzTXZiLWVEaTA3aWZKamIxekhBMjB2VkZrOXg2eGhEYmtmUFRxV1liNl9vTDJhVldoYzkyNXpLek1hbnB1dW1pajd5bnFoYWZRNmU1MnRXWVE1QVlwV0FqbGRXT1hLYy0wWjZJTjh6eEpoSGfSAeQBQVVfeXFMTzNBaGo4UnItRmdheDAzd2dTN0tmeHRfajU2OFpCSWNRaDNMU0UyX2hDcm9FOWpCaGpsV0JlallZSlJQLTItVV9MdEg4SWpEc1JlalNIUFhqN0lVVG93dGpwOWgxWE1xRF95Y0JkSXhTV2Ixc2lEaTFHdFdzcW5peDFmTGN3bTlacUFiT2FqQTFpQ2ZqRzJBV2l0VWh5Z01kLVVwbzVKc3I4NFBjN2xaSFd3MWhkQ1FpRjlncjVfbnJMSGlPS3J6Y0FDSVl4cGhMZ0VnV2NPLXJPa0laUEl5TUNmdjJT?oc=5"
         },
         {
           "title": "HDFC Bank shares near 52-week low amid insider leak probe - BusinessLine",
@@ -562,6 +594,14 @@
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOR1lIVlhxSHNpeFNWRl90eGpuY0w0TDRxZkRZSGdRQm4wQldHS09tWHR1S2lveFZIWklSWEY1SXdNalhGMlJjSTVWSnpjd1o5Ni0zOGhBd0REWFlPQkF1eW1PbkhneWRhUmx3eVh4U3dfTGJiZ2p5dUhLYlJYSDZkZDFrc1VhM3FvbGJoTmduMVViOUw4b09DRzNpVGhwOVE5UnE2N1JCQmhuTVlfYWlqemQ3dWhKSWFpRFp5MzRsQ0xYNWxBQ1p1TGxNMk1sWkl3YVNxdVAzWkxVS0JwU0FvVnQtTnfSAd4BQVVfeXFMUFFTMV9FWEd5d0IxRmc0WnU4TVp1WWVRUWxmMjhuSVZHaVVBRm96STdlX01vRUFQYXpIXzF5Zzd3TEFkWGVJb0ZUS1J6dTg3eGFjTlBkS2dzNlB2bjNsaXBuU1pzTHF0aldXZ0RRbmlEUUtiTjRySEtxVlFlWHhoQy13RlhEekhDUGpXTWJ4TmkzOWVBV01ZLWZnRk5COGRtS3NRcVZBQVZPTHlqb1Q1dzZlaE9IUjdRX25EdEJlWG90dlJ6S1Nqajd4Q0VrRm5WQjVacERZdG82Sk1HcGx3?oc=5"
         },
         {
+          "title": "HDFC Bank falls 1.5% post Q2 show; analysts say worst over; eyes on new CEO - Business Standard",
+          "source": "Business Standard",
+          "source_url": "https://www.business-standard.com",
+          "tier": "B",
+          "published": "2026-10-19 09:38 IST",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTHN1RFpHVldDNEZuMHBkYmR6N2VkdzRNdEFKSTk0eVk2bEpIVXBGcTVqbFRHNnV5Um15eXZRelllZDM3Vzk3UEtsYmZ5bUs2aW1lb1Q2U1RzT0pSRWpPUUtTcWdlVzB4TjB2VXIyd3VQb1JZbXV6U3MwYUNUaWY1R3VhMi1Ea242dGtZXzNXSlpIaWplMzBuTUFfU3UzbHVlOFM4amxzUjJYeFlmcXBGM00tdWFMZHBZMlV3ajZUOGJONGRFLXEwWFdwNTV6Zmh4VzVYYWZ5UURlSnBDUjdEdWQyT25Td9IB6wFBVV95cUxPeWhGUTFSN25femVmTWEySkpQckZZSkRsei1kY1Zsd0VUS2hmX29wVXpLTXJyc1JBYmR4c3FBUElDQzdfYkVFVjRfS1lBWXNjUDBnbTFLY3JuOWNXRllLQnVVdmUyNzZKb2ZWdlpKMUdXeXFjVm01RHpJeC04UkFydkNzZTJhWndFTklsLUJwYmRKSzVQOVFrNlJaTHJXOWgxUFgtMHMxVUozcHRqSEtXR2NGNWhKQXdtOVkyVVZsYWtaOVNHMkhqMWN0Z1pwUl8tdTF6dHZSam1KN2JhaG9HUm5tM3dTNWhKUmtZ?oc=5"
+        },
+        {
           "title": "HDFC Bank shares hover 52-week low ahead of CEO handover on Monday - BusinessLine",
           "source": "BusinessLine",
           "source_url": "https://www.thehindubusinessline.com",
@@ -570,17 +610,49 @@
           "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTzFjc2VObjRtUW1iWGctcFEwMHFuU2FNZGdCck5ZZFZiNjNUckdhMmlDbDRlVFNpaUxkUTRqN3V6SFc2dG9lSnV3N09fcFM5Z1RFS3N2clFtMnd3Tnp2SnJQR05ZZjFqX3V0dER0dnE0OHQ0MXJrdmlwRkFEV21UUTl1T25MVkFPT3l6UlAxQU1od1FVRk1BdUc1UzFia2FhZGk2blYzUFlkemJOSmZ4bDlNNFVsc2tQd0syU3VMS3JhNzl4TDE5bjQ3TmV0bGlhSHJLejdwVGJkOTTSAeIBQVVfeXFMTXIwVVlsTEo1bk9mUE80emljZFNDU1U1NHNJU0I5ZkpGdGZ3RU9HWmFrTTQ4bENRWmlwb1NjZlprcDJpMUZqdjFOblA5bXRjS0lkNW5BZVJMQ19YMmpUTFhkeEQ4MGxSTGdRQWpvQ0JRM1V3X2dDeXdNVUg5NVIyeG81UjJmbTFlejgySUI3Z3otN0Rkd25adVNMZUNQYXlFUGZiaHNZdGtLNmlmbS1RUFJDOHltTnhmdFk2QmpFMzZWUEh3UHlQT0RLN2J1LWp6My1USmY3cm1sWUVRNWpFSENRUQ?oc=5"
         },
         {
-          "title": "HDFC Bank stock falls 2%, among top Nifty losers after Q2 results; brokerages flag margin pressure - Moneycontrol.com",
-          "source": "Moneycontrol.com",
-          "source_url": "https://www.moneycontrol.com",
+          "title": "HDFC Bank launches flexible EV car loan with longer battery repayment - Business Standard",
+          "source": "Business Standard",
+          "source_url": "https://www.business-standard.com",
           "tier": "B",
-          "published": "2026-10-19 09:29 IST",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcDRpQTlZYmxGMjQwWFBqQkUtd2dvbEl6VzNuTzVfY29PdFM3bjNELUtTSzRnYzhNbThDTlc3UTNyQXRJYjFpLVJUd3FqeHR5T1Y0ZDI1VnhGMHRUSVNjQnpPNk80UzZQbm84dmwtRXVScHo5THRUY0t0ZmJaZ09mQ29zbllhZkFZbnVRVmFkYXVSRnFKdzExTmFQU3BuLVJ0RUdGeWZnVkx0RjY1cmloUU5kbW5VOGNlR1NkbDRwYTM4LS1qSTdvMC1mWlhFdFM0Nzg3MmUtOFRvRGdLdWl1MHU2aS1DOWswdEVzTHVPcnQtQdIB9wFBVV95cUxPcGVTN1V5NnJqb2pFVTB4Y1dhTzdlZ2ZReWNEVjNmeU5DMDNXWTZoeDFxUllHVkIxR2sxclN0Z0x5M2huOV92alRTcWg5NXdOTWF5MmN6WThXUDlHWktvYVhsclh5cHZ2SVlfNmZNa2xjQ2JlVHBocmQtUWtLTkdJUFUxX1p1ZVBNb3BqVmN6elIyQjN3d1RZSlBFaUJHYXBRZ081MmZaYm9LYW1IUVA4bjJQRjFoX21FbWxjc0l3bVBGWHMyakhxZTEwcnpjRWRDQ01PWEdvR3hmeUxfS1RnWUw3UlVSNEM5REhfRXdBSVBrMzNVeWQw?oc=5"
+          "published": "2026-10-25 16:26 IST",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORzRfNnplY3AyWllFcmZuVGR2akxRNVlNa0ctcWQ0NlBLSDgwYnhEZkhkYkk0ZWJBODFtOWVBcENTejlGUGczU1RmeE1nOHJqTWU1eG1ySTRGcldzUUFmVTRvbWJrZFlFaXRQRDEtNFZMWURSWEJNMTF6aGNtTlQ0bEMydzBjUHExcVRVeDl4NkRxUGtUbWpQT1FRMmE1bzJqMllWTlp1YmNVcVVhLWprM1VXR3NqSzMxMEQ1TTIyTm9tSkkzeXYyMktpMDdRU0pTT0tQdNIB2gFBVV95cUxPbk9NX2M1WTI1aHVXWjlGSnZ1NXMyOGt3emdHN2NDWmxHb3BjYlY1V0R0Y2ZzRUVqWUhSdUs3NUZadzNhRUhodUUwRjFESzE5RlZmVUtsbHNOZHVpbUdvbGE4WVhpRFpOaWZsbjluaTJtZEJRTlBPakxUbjdSZkpvVkJWX3JCN2VRaFBWM0xlbFkxRkd0cEh5LXJsYXc5S25YcGNRQ2JuaURyT29OTEUxRFZoNlc1dlVQNFVabXV3ZmJ2R0FjYUpEdml0eGZLc1E1Q1lMeVVtX1MzQQ?oc=5"
+        },
+        {
+          "title": "HDFC Bank expects employee count to remain stable before hiring picks up in 3-4 years - ETHRWorld.com",
+          "source": "ETHRWorld.com",
+          "source_url": "https://hr.economictimes.indiatimes.com",
+          "tier": "B",
+          "published": "2026-10-19 07:46 IST",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTk4ybGttMDNXNmVobWtqbnpMVHZXNFlJbXk0VmZxc0g5NXhvOUNaRFdqN0tjby0tR0d0a05tb05LUTRHelF6S2d0VDYtek56eTd1OTdPVTlHZGZkLTQ4N3VTazk1dVNrMFp6YU90MW5sS1B4SmF3OU93WTJYanA0WHhqTThhcm1HUkFwVERBWUhnR2lRNjlmaER4QzJCbzd6RTVEYnBZYTJ5QXloSmxTWjZUYXFqNmZzMWlUc0dRUWlvSGF0V0lOcFNRTy1oVlVmY1ZKTWlVdDJITndwczhuT283UdIB6AFBVV95cUxNZm45R2QzVWJ2WDF5YlFyVnhSazVkOG1OQnVNTWp6d0RzLWtQR3ZxLVdWZjVtUnFkVmc3VzRsWTRqUk45cEJmTTI1Q3dvcThWSHZYY0xpZEZUbW1XVFZQMHFxY0J6RTQ2bS05S0JGZEFMRWpadS11eU9pcjJOSWRRTE1HZXhpWEt0OEZpVjdlbm04alVFU0gyYkhpenktNG9sRDB2WmxGdVVjeVVSNmJTV3JQYndlYzhBeHFnalFiYTdjYzdOUlMtX0JDYWxkY1U3S2F3RGY3TkU1Q3A2cDBqbjh0Vnp4UEwx?oc=5"
+        },
+        {
+          "title": "HDFC Bank shares fall 2% after Q2 results. What are Jefferies, Motilal Oswal analysts saying? - The Economic Times",
+          "source": "The Economic Times",
+          "source_url": "https://m.economictimes.com",
+          "tier": "B",
+          "published": "2026-10-19 09:56 IST",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOV2xXMURPaUstbnNPMFpyRHMyTjlKOHhYWTNqcWJfaUpzQzhzVncycnNhQ3ZPOGFoT08wYjZuRnhBMGYyOExxVTF1OFBfenpaTDU0TjhDV21WVkRMbkpqM0xaUGZucUI5VVE3MnBfRmZfWFpQSGJlalhXcG1IMkM5czF4OG1qbnZza0N6RTBSOG5jcFFQeFJsWU1aMExWMEpZcEFLSzk4UGYxeE5GZkIxZHU0aG9OVmZzcVhSX3hpbGJzWU43NVMzcE4xVEo3MnJKbmwtdTRteDA5b1lVQTF4Qllmd19PQWVPZ19GZTEzVnR0WnRfa0HSAfsBQVVfeXFMTzkwOGcyNjlNMHBTQVdyQWxDY1lBMnJCYnlnMm9aS3FEaThuQThfaTR5bE4yS01wMFl1YU5pOWxxQkZVd1hHcWM2LTUzMGgzY01RTHdseHFUYl9fRGQya2x1cllUNi1uejhzd01PRTh1Q3Mtb3FVUWNtV0l1dHA3QkZ4eGdJSDZjYUpOUUl1UGVZVW5uWENxM2hja3p4Q2tNeEJBZTZJaS1RaWU1RUtuZGU0bDhvd05aTE1UYnV4aVZ3V3FnVl9mdXljenNSSTVnTmxrQ1phQnB3dV83VURFUnJPbnlMZUl5ejdNTHdzVVE5bXNaM3ZSUDIwWG8?oc=5"
+        },
+        {
+          "title": "Mcap of eight of the top-10 firms erodes by ₹1.55 lakh cr; HDFC Bank, Bajaj Fin biggest laggards - BusinessLine",
+          "source": "BusinessLine",
+          "source_url": "https://www.thehindubusinessline.com",
+          "tier": "B",
+          "published": "2026-10-25 14:40 IST",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNkVVZlF2R2t5V1dzaU1ISHcydS1rcVZqblBhUmNObHdaWmZPMVFYTF9KRjRCUlR4elNuaWlsMWNvbzlodHZRZ1FQN2d3R2ZvTXg4U016aklmaDRCdE9jZlhLeVFuT1VoZS1Ca3dwRy1JNXlHa3luTTNxMHBKSmdQU1ZqVW9BM1VjTU9UZk8tNWJqZ3Z6VUYwMkUyY2g3UWlhV3J3UEI3YnNSYnIyODhNWkdwZHZoZi1jem5CVEtHTVczbVQzUDJ0MmpyTTdfYjZKNmlIOU5nZHhZaFg0R2dLYV9uRThkMXdnTVRvSmxn0gH0AUFVX3lxTE5lX3ctaXVOd09HaG5FQ2pYMDRTOGpXMXVUa0ZNMjl3OUNKZnNWTTM1c1cwNUtGVy1aZzh4RXI0X2lsVktKTWRJWXc4TGk3YmVKelFrNXJYc0MyNjdxQk1CM0pFZGdTZzg0Vmo1bU1YVmFvbEVoUlBTM3h0eVU4RHRJS3pZeXNWTlR6cWFaQXJHNEprZWdjV0VHdThXTTc2ZlcwczBMY1d4WFJ0MURYSU1CNXVaYVJjck9rUVhqUWdMY29SaHdBVndPYmMteGFDZUdwdGNiRnpRLXFuX2Q2RWplRWlDdTdoSjRrUkpiWlFzcG9meG8?oc=5"
+        },
+        {
+          "title": "HDFC Bank launches flexi (green) electric car loan, offering differential loan proportions for the body and battery of EV - BusinessLine",
+          "source": "BusinessLine",
+          "source_url": "https://www.thehindubusinessline.com",
+          "tier": "B",
+          "published": "2026-10-25 13:56 IST",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPTUFjZnhIb3hHcDkzY0ZNWlVDbE1pOEp1aWdmTUVSXzdqb1RiaWZXZzRkRmExNXp4MUhqcHkxdC1KRVVoNTc2eGVTYlZJSmp3RXJBOVBBMk9lME94WGVoaFdiQTY2enA0M3p1M21hUkVnTDBNdTd0YXZoaThtMFg1amhZX0hvemlNV0JGLXV5YTV5MUVSNko2Tkc3SmJMMmw2d0NRTFUzS3cyNFFlYXJoOW02MHRKQTltNzFTNDdwOXlMeXU4MnVlbWliVkNoazdtdWloRkpfbDJsTTdUcTFsZ21UYUc1T0xCWUQwdTBTaWowNVBUeWY5dWJTOGpyUXpzaWJKVGRBY1ZCRmZfYmp2Ym02ONIBmgJBVV95cUxQYk1PNFZRbmtMdTkwSUhRSUdFRXA4N2R1MnlkalVWVHJ1aW9KVTk5NHI5QnczY2VvYlA0N2RGdXd3QVdmM25raE1SSE53djNzSXJ5TmczN1lyRENNcVllMFY4c2FtVkoxYXZGMnpsUWR6WDZPWmRUeWprbWNKdjl0MXFZcndtTUNyaUQ4QUlsVWRyVHNJUW9oai1iNjZlSm5PaFo0RGhaM3ZzUU16OU4taWJzcmFjZkMxeTQ0NVFwS3VhS3hDQTJ4MTFjRnRxQnMyaXFvVk9nekJ4VHJzX09WYXdHWjNaRGsycldOLWtpNWZvelVqaTI4MDktZ2RrSl9JWnpLVUo0UTR6T0xacWNlY0NwWjkwbHZEUVE?oc=5"
         }
       ],
       "bse_filings": [
         {
-          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261018&strScrip=500180&strSearch=P&strToDate=20261025&strType=C"
+          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261019&strScrip=500180&strSearch=P&strToDate=20261026&strType=C"
         }
       ],
       "nse_filings": [
@@ -656,7 +728,7 @@
       ],
       "bse_filings": [
         {
-          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261018&strScrip=533398&strSearch=P&strToDate=20261025&strType=C"
+          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261019&strScrip=533398&strSearch=P&strToDate=20261026&strType=C"
         }
       ],
       "nse_filings": []
@@ -679,8 +751,16 @@
           "source": "The Economic Times",
           "source_url": "https://economictimes.indiatimes.com",
           "tier": "B",
-          "published": "2026-10-24 14:14 IST",
+          "published": "2026-10-24 13:29 IST",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWkVfYl9zQjkwdkxBOTJObklVaDNGOE1XUHhoX0xIUFhabG44UUc1ZlJLZmpxNjctOWdqV2xmdWE0bWdzOXFvUXl3TGh6M1ZUT2lQTGN3aUh5Yk1fVS1HV3hsbEd1YkppOVNuT1VxZVNOTVI4emhRLUMydGRfOEJyUGJqWkFXWTA?oc=5"
+        },
+        {
+          "title": "JM Financial Ltd. Share Price Today - JM Financial Ltd. Stock Price Live NSE/BSE - CNBC TV18",
+          "source": "CNBC TV18",
+          "source_url": "https://www.cnbctv18.com",
+          "tier": "B",
+          "published": "2026-10-23 15:30 IST",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pdWJ3TmtXUElJZDgxV1hENk9yaS1vX1R6blNnd21QcDhwZWVBenJRTU5iNXo0NW9nSDN3XzJJSFd3QXJzMnZvSUNiTzMtZ1dLZHBhWDM5R1lydUp0Z2g2c1NfZFN1RW5CVFhabnBhSkhEQTd0VElNcDZsT1Q?oc=5"
         },
         {
           "title": "MSCI India rejig: JM Financial sees 3 inclusions, 2 exits & $1.4 bn inflows - Business Standard",
@@ -689,14 +769,6 @@
           "tier": "B",
           "published": "2026-10-23 13:34 IST",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZ1JyVDk0ZWNfMlhuRk8zQnBEa0c0NTIxWHBiOGUwMUowRkJINUlfSVpxWFV6NVZnRE53UnJRTXhEMWZ1MHdHdlFISnhMb1V1LVp2UVM4NWtQSDd6cGJnN1ZHaU9QaTJlNExZUU1BVzZiRkFNM0VVWlFHejd3b01reGxhS1FZX0cxTEdEWFRsWFJlcWs5YXhKczlEM0lhaWdOdWVjRnI5NDBSU3o0NHdpUW5CZVIycmZtcU9iQm9RZTV6TzNBVUk0RFA4SjQyVHdPd2lj0gHYAUFVX3lxTFB3Q1NIMVJUek92c0JQTTRXc0lpcjMtQUVwdmlRTGdDeHZlLUNySkR5MUF5ak9faXYtVGtRUEpfLVhET1prMWxHRHk1Ri1PODF0N21hOTVXaU5tUVQ0MGc0bXhXaVE1NFdnVk94Vi1WeG5ZUkJsNFlTLW1GZ1JoOFVyM0wyem12Q2lxbWFTTGdJcnJoZ0YtWkdsV3RVMjhETzd4cW4wWVlzdHJDS2s3aV9IbWFVTVJKQWlPSnJDakdidHFBQmRTdTBQS0JTUEVObWgtcm04Tmdaag?oc=5"
-        },
-        {
-          "title": "Largecap stocks may outperform as midcap rally loses steam, says JM Financial - CNBC TV18",
-          "source": "CNBC TV18",
-          "source_url": "https://www.cnbctv18.com",
-          "tier": "B",
-          "published": "2026-10-22 13:13 IST",
-          "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxORlJmQjUzVjdZWkxIbXM1Rl9nOU5ab3R5OHRzRWNUeWUyeUJmN3pLcGpYdGJTNzRyTE43a2RPSTh3VmF0TjlFREhzVzFneFk4UUVoaHVSbURpT1BNLWNsRFl1QnVUd3YwcXl2R0YwbEZHSldpQ085dFhPR0VrX21xV3NjY1V6T0VvTEpQdklNbXJfU0IyZEU0X1BNSnpsbVVHT3J5aUc0bm1zZHZsSV9XLTV2WXpNX2ZfZzZQbkdQbXlLaDVDdE1LdzhvN3FFbVNPMXdmZEdPa1duNzZBX2N1amhJWC1wLVllQzBFRUdvX0lVajAtZ1NfZ0dUTkNWcDFUOXEtMTJFSzZjU2VnSjYwSEFFWHFPc0lTYjZuM3ZfdVJCTFVCRTZZdXpqV0hZRHRmQ1g0Nlp30gG7AkFVX3lxTFBhbnVxRExfd3JBNTZ3bTd5YThyQ2U2aU1RekFxYVIyTWZPOVlxUy1XaGUyWmNGVDNtdzBjNzhwSEpjd3dKUXA4WXZHSG1DUFZNeDJvRXQyYk5DRVVMa3hZS0xaclBWMjhkVy1lVkJNdWxyRDZJdDI0V3d4RkFxa2N6MUdSY1NidVNWdkMxa3dlUHBSN2NpeFJUejk5X2t3RjJPYlB1b01HNDgwUHgwTDRuekVnNTIwZE5YQWdXUGtYbVFEbTBBd2ppTEdrMXdxTHBWWk5OMEZReks4Z1hHVWZZaTNWODZWLWhkTl9WU3ZZa1RUYkdKLUZpejNFU0pNT3hyaVRYYzBkZVhvN0xYdWd4aWh2dGJaU21POUlKZ2toemljbkc5TkM3UVZDamVaZ1dNcTZtbzVBbVRUaw?oc=5"
         },
         {
           "title": "Only 15% of midcap stocks above 50-DMA: Is buying the dip getting riskier? JM Financial spots signs of lea - The Economic Times",
@@ -713,6 +785,14 @@
           "tier": "B",
           "published": "2026-10-21 15:22 IST",
           "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOT3N6c0cwZmJLaGVHdnp4NFQyRTdEOVg0U3NCYlpRcURodFF0bzFEbXhZLTJ5czNyRHpyYVVYRE1BQUhKWUxoZ2pGTjlPZk8tYTBrRmVvQmxzWVQ5aGpfMGtINHg5ekZ3X0NvVTdGM3FWWjc1bjBXTEZYYVFURk1Tc2huQkg4MlZ4YTBoanJDclRneDF6NzdnQndHczUzU2tNMnpWVndlMERLbExoTEZWc1JWcktORlY0N3RZcTFOLUZQRWNFZ3haWDRfWUlxX1FubGk1cDBSenhPYWNkZ21NNXg2bEV0SlY4eGcw0gHwAUFVX3lxTE5fY1g0c3lRM0YtZUhLTlZfX2ZPV1VfN1piaHBnV2piRXBYWDFRZk9maG1QTXBwQ0JNTVY0c1RKUlFoY0xYc1BuOVBMUnNiVV9uWE9ibmJNcDZkQjZSaVh3ODYzc3RpYUg1S1UzQnNXNzI2UXFaSWVrY0dGbEFoVlFjWHpBTTlfM0FMVUZOaGd6Rll4UkoyY05qempEUEhBYzk3TzVHeG4wcUJVVUJINjZ6MEZEenpVNGd6OXp2TmRKOVpaaDBHMkhMY291UFAta09RVlpKWDBUU05PSEFVeUlHdHFqUEl0OHVyYWxtZ3Rucw?oc=5"
+        },
+        {
+          "title": "Largecap stocks may outperform as midcap rally loses steam, says JM Financial - CNBC TV18",
+          "source": "CNBC TV18",
+          "source_url": "https://www.cnbctv18.com",
+          "tier": "B",
+          "published": "2026-10-22 13:13 IST",
+          "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxORlJmQjUzVjdZWkxIbXM1Rl9nOU5ab3R5OHRzRWNUeWUyeUJmN3pLcGpYdGJTNzRyTE43a2RPSTh3VmF0TjlFREhzVzFneFk4UUVoaHVSbURpT1BNLWNsRFl1QnVUd3YwcXl2R0YwbEZHSldpQ085dFhPR0VrX21xV3NjY1V6T0VvTEpQdklNbXJfU0IyZEU0X1BNSnpsbVVHT3J5aUc0bm1zZHZsSV9XLTV2WXpNX2ZfZzZQbkdQbXlLaDVDdE1LdzhvN3FFbVNPMXdmZEdPa1duNzZBX2N1amhJWC1wLVllQzBFRUdvX0lVajAtZ1NfZ0dUTkNWcDFUOXEtMTJFSzZjU2VnSjYwSEFFWHFPc0lTYjZuM3ZfdVJCTFVCRTZZdXpqV0hZRHRmQ1g0Nlp30gG7AkFVX3lxTFBhbnVxRExfd3JBNTZ3bTd5YThyQ2U2aU1RekFxYVIyTWZPOVlxUy1XaGUyWmNGVDNtdzBjNzhwSEpjd3dKUXA4WXZHSG1DUFZNeDJvRXQyYk5DRVVMa3hZS0xaclBWMjhkVy1lVkJNdWxyRDZJdDI0V3d4RkFxa2N6MUdSY1NidVNWdkMxa3dlUHBSN2NpeFJUejk5X2t3RjJPYlB1b01HNDgwUHgwTDRuekVnNTIwZE5YQWdXUGtYbVFEbTBBd2ppTEdrMXdxTHBWWk5OMEZReks4Z1hHVWZZaTNWODZWLWhkTl9WU3ZZa1RUYkdKLUZpejNFU0pNT3hyaVRYYzBkZVhvN0xYdWd4aWh2dGJaU21POUlKZ2toemljbkc5TkM3UVZDamVaZ1dNcTZtbzVBbVRUaw?oc=5"
         },
         {
           "title": "Adani Green Energy shares fall 4% after Q2 results. What are Jefferies, JM Financial saying? - The Economic Times",
@@ -739,6 +819,22 @@
           "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTUlJZ1U1MDdOSFFqWF9JaDhsa3FyQ0hKckZLYjNLVlgtU05kVGxfVGFkOTc4YlVVMmo3NGgwN2hCc0ZuT29jaDU5QjVTbGpRSGVzTDRPRTI2VjdmV0liM3k4dUwyT3U5UVJJQVY4Q01iS01LUjZDM1RWQi1ZQXB3d25ONlI3elBwVnNneEFzTXVoamhLb2lTSTJ6NllrSWgwMUdSLUhwSE1NQTNmc2NCckE0RmtGWDh4UDRQdl9xVm8xbzJ4NmxOQU5FbW1Za3FWOVNZbEZxWHNPUWl3R0wwSkJaS29SNFlvQXZ1SUI0WlBfOXlo0gH6AUFVX3lxTFAtd3MtOEgxc2taRHVzYzhtaUVkRmhYdmF1ZTRDcmNub2E3U3M2QnBoMVVRczNIdmNVUmRzMVEzb3hlclRvYjU3dzJiMnVncmExYWViY3h4RUkzVGh3V3ZWVTlJUFM5aWduNVF3RGwwd3V1eXZ1UXJpSzNTZElldmF3RW91aDRZSW8wSWhPV0owSUlPRWRDZy0yenpmUHhzc2FKOWtLYVdhUXhZMGRKcWdfNVE3Q21tNDhNa2pfX0w0dnVGekZpZ3V2cjZ0VTdNQTdWdkxxV3Eyd2tBX0M2NEs0Rm5Md0cxR0xLYmJ6aXFsVTYydUk2VHMtM1E?oc=5"
         },
         {
+          "title": "Private lenders may turn to other fee pools as IRDAI proposes insurance commission cuts - bfsi.economictimes.indiatimes.com",
+          "source": "bfsi.economictimes.indiatimes.com",
+          "source_url": "https://bfsi.economictimes.indiatimes.com",
+          "tier": "B",
+          "published": "2026-10-26 01:58 IST",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUmRRWmZGYVpXMXJJQjc3Z1JVLU04VDUzTmNJYW5HR2loaVRFYVFuVG84UGF1RkdKUUFCcGZkcEd6NVVxa3RvRWstX3pqSndjeDhUY1dnU2NLZlJoN0FRZW9MU2JjNkoyZ25zeFhZaS1hN0hIYjliSGYwYWZBY1UtSXUtM2x3WFJOS3c5aFZBTW1CUHZNMzBOQ0JhbVd0U1Ixc0dMX1lDYmhBcVRLUWVzX1NHM1A1WVZiQ251OG4tbFIybS15X1B6TEVJQjloc1V5andmTUhUWUdVS1BnWWdfWHZB0gHnAUFVX3lxTE5SZHJFWmtwMTJLcWl5MHE2a182T0xPX3RSOXJ6ZkNXMDJYY2ZnYnZrU2NhcnZoWldOTFRrNGszc2xENXlDbGZlTWllYUlnamIyc09hdW9rZnlmOG02SFVtUldFV1VSRXhRLTRqMnEyeXItbXB4RzhWNkZVenNKMkpobl9ZZTlNNExyY3lSWEQyRnpHRXhQUEV4ZW14Y3FOQlI3MU9YbWNpVDF2VEdIYkt6RV84VS1hYkJlUm5Wc2ZzU2lpdjl4cUUzazlKU3NZRXo3Nmh1VE5HWEdoUVdtYUI1XzZWcWdhTQ?oc=5"
+        },
+        {
+          "title": "PNB shares jump 8% after Q2 results beat estimates; Jefferies, Motilal Oswal, others raise target prices - The Economic Times",
+          "source": "The Economic Times",
+          "source_url": "https://m.economictimes.com",
+          "tier": "B",
+          "published": "2026-10-19 11:05 IST",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQbTd1bWFZZzVYazVsR1p5bU5LcGVpVkNxQVZLVDVpQUhxUEJySGRFdWJWOHNJSVdMc01TVEZtbEw3U3Bod3E2eVU0MV9fZnhlNGI3N012cktreWdCeVFsSF81ZkFDVXFMekRxVnF0ejh5OHZQMGkxVDRnNGZEdE1PY3k3OWhGLV9NeHV5TVN0ZEJZVEIxeXMwZ0RMQ0tud1hLUHZvZjNGT08zc1hlUmNCaDZSS21ncVFGZlFyM1lhODdHUGZ2bHc2YzJxdW14YWttRlZxTWhFc3pGUHNkc3pXT05GVmNGcDRCaWpjSDJIV1JJc0syeW9haUUySE90amlmdmFhedIBigJBVV95cUxQTnVWSDJzdlU0bmNDdzdvSkRqMTNJbi13OHZGZUlvZ0Z5clpjOUJtOFlTTi0wTDgyX0hvODdOOURNamh0RFR0S2dNQVdFbnN3amtZdFhJY2p0MGhuSWNWS01mZmNGN3pINzlwRmtadWxLa3UwUW96elFtVXRoeHZ4MXhmbFAzbmVrU25ld0RSMHNTUXBpVWhDU2twNW5pRkNQR2h5VUhLc1hZSTkxYjNqeTJuN1lzYlE5RGY1Q0s0SHJoUTE2N0dNclFfLWdyLUVfMkRTRVJCWVUwNHA5X2JaNXNEZ0FzN0JJcXFXMndHNTNlb3Fvd2NJd1NISS1XOVVoNndSZGVUM0ZKQQ?oc=5"
+        },
+        {
           "title": "Tata Motors CV Q2 Results Preview: Profit may rise up to 44% YoY, revenue 45%; margins, volume growth in f - The Economic Times",
           "source": "The Economic Times",
           "source_url": "https://m.economictimes.com",
@@ -747,41 +843,17 @@
           "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOQm8yeUV3RU84YXZiSUtvTzQxX2dadTNkTDVvOEN0cURCbEJiSFlJMDFFU3ZkeEswS28zODVkZWhKVktCNE1weUJPM0gzaFh2M1NSUnFRVng3cmJiZHZPT1ctak5TZnZIWjkzQVpiSjVRa3NZVWdlQWsyTHdiVklMZjZUbUJjZmhiV1pWNGpGeE1yclZiWlUxMElIMW1NeG00MnVPcWNkX3g4V0J3UWFYM2h2dHY0WDVPcUVSZEJhMmM2MEMzcW1vaEUxYlFxZU92dXVRNFQ2OExTSVZ2ZXN5TjBXMjNtOXJWTFg4SXpsVjhuWVh0S2xkTkpoc0pCNkhwOFJKZmpXc1FxYjJuQjlZ0gGUAkFVX3lxTE5ic2N0dERiOTJSSTB3Qnp2MzV4RS1zODNaRE96cF9GdWJpYVZCLV9wNmU0ejZkN2tlZFNOamZpd3RwYjVIWHRSQmF3MjIxbXZkZUhKeWJ6Q185eXYtb2tfUWdhR1B3TmhISEJaUkJvb0hXS2QxU1VrSDAxa1QwT3BYM0JtcmZkaVpNUDRpUlBqeEhETTRoeU82NjFrbHJNcnZXM3M3LUZJZ1RhbXBuaGVUSl9yT0swY0pZMnpiREtfZXJIZ1pMWG95SEM3aEdnVzZYYVVZOS1fdDNFaDd0eklLd0plLTdUcVpEajVfSDh4ZkdjaG9JOVJfVkVvekQ3cW5KVm9mcHdFalV0YzZJd1NiQlRLVQ?oc=5"
         },
         {
-          "title": "JM Financial sees 49% upside in this retail stock under Rs 150 on festive demand - The Financial Express",
-          "source": "The Financial Express",
-          "source_url": "https://www.financialexpress.com",
-          "tier": "B",
-          "published": "2026-10-22 12:12 IST",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR2c2UkxhTkFvQk8tNVpRQzRndERBMzZGM3dYSkFXMWM2ajhMN0w3TTdKcjNWbF9ocmd4TVpJemsyR0pjOHlQX1RHWGdMT1ZpU3JyRmZRWTJpZGVaMHpHb20tVjlEMjEwOF9MOFlyd3g3bTN1NFZRbEU1QkF0ZVgxZkxDRVJWdGJONDN1TnlDdmJXamNCakU3MTZNX2k3RmdnbDhlajRwa1cxMlMzdkt5Mlg3ci1BbDJzUzRkdTRrdDc1dlNIYUM00gHOAUFVX3lxTE5aSWZkNXB5YmxXZzB1M0VUTnl0MHI2dU5QZUZMVzBsNVRQbFZvUVlFbTVCOU1ISUZoTWN6emtLa0VlWHpMQkgySzVTdFRkalhldElIVlVGNDdUVndZY2FycUxpMmQxQWl1OWUzSjczcUxYLXVqbklPUFpKWmE2SkRnck0wdW1fdGxkRmRFWW1vb21JUWRjcFpMLWlRaHhuWlVTWlNVbHBGaHh5QnB0VkN1bDBFR3h2ckpmWjFNODQwalZSNy1vZ3FXMlVmTEln?oc=5"
-        },
-        {
-          "title": "Cancer drug price cap: Hospitals face up to 3% EBITDA impact, says JM Financial - The Financial Express",
-          "source": "The Financial Express",
-          "source_url": "https://www.financialexpress.com",
-          "tier": "B",
-          "published": "2026-10-20 17:45 IST",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQS3k2T3U1MXlKWnBySS1DZ3NxOXJ4U29hNEgxMjVOSWZ1RVhJOEppd3F4Q3o3WDE2LXF3M2hxeGRzem9OUHluTU5adjl0Z045c2RGSUpSMUNtWkc1SXhNVExPck9Na0d6Mk8zLUwtVXRJUGFiUXE5cEc4OHdTQjRZSG5FbUhSM21KUVV1ZTdzTUNkUFZIOVVxQjM2M2lndkxmSGxvNGpKRG9GSTdlZzYwT2VLMkdoWXp5RXh1dGo4RU9MS0RNandQbm9rcG9tMDAtalHSAdgBQVVfeXFMT1B2anZDOUdKQTZTUTUyYXI1OEQ1aFg2Z2NZR2dYbzZwc2FZaVZXVkF2amhpRW84VFNpYjdSdWRiejdQSHkteFlwRVFfOU9jRFlOdDQ2emRlQmR6RFZmSFlRSHRhSXVwcVRzQ2VGUGRWS3Z1dDBOY0hZUUZsdnpyYzJVdDJaTW5GWTZDbURlV1d5eVV6N0JiZzhXNmlmTDFWaE5lcHFOS3NtVmpkanY2elBTUlZkWUZ4MVY5NWFkRHRteHI1QXpyOVZBREFnSVh3VVZOWmZHa3Ez?oc=5"
-        },
-        {
           "title": "9 ‘Buy’ recommendations by JM Financial with 31% to 49% upside potential - The Financial Express",
           "source": "The Financial Express",
           "source_url": "https://www.financialexpress.com",
           "tier": "B",
           "published": "2026-10-23 16:05 IST",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQmRIM3p4TDNHRmlSZENiaDNTQUVPNm9kZzA2VGdGOU5pdC16N1Rnc1ZxQmRySWJlTVAxR21BcHVJbHFQS2NxaDVPWXVnbk5EVmZXYUljVEx1eFZZdk43UU1xSWtRbHVEWl8tTy00d3plelFEaGpIMHRWMF96RVA4OVFITExUd1JPdGFwcG9yZ2c4VzRtZ2NsOFFLakFDN21YejJQTGVibnlrZ3NMbW96WXFjc2NOOVJvODZPRFdLb9IBvwFBVV95cUxOQmRIM3p4TDNHRmlSZENiaDNTQUVPNm9kZzA2VGdGOU5pdC16N1Rnc1ZxQmRySWJlTVAxR21BcHVJbHFQS2NxaDVPWXVnbk5EVmZXYUljVEx1eFZZdk43UU1xSWtRbHVEWl8tTy00d3plelFEaGpIMHRWMF96RVA4OVFITExUd1JPdGFwcG9yZ2c4VzRtZ2NsOFFLakFDN21YejJQTGVibnlrZ3NMbW96WXFjc2NOOVJvODZPRFdLbw?oc=5"
-        },
-        {
-          "title": "Bank Q2 results: HDFC Bank, Axis Bank beat estimates, brokerages see margin recovery ahead - The Financial Express",
-          "source": "The Financial Express",
-          "source_url": "https://www.financialexpress.com",
-          "tier": "B",
-          "published": "2026-10-19 17:15 IST",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS2prbjJCNmVIbHNMN19WTi1lbGQzN2VJSFNLMGhQa1pPZ1RsZjh2YXE3NVdkNFItTTFSamJGWnNxUkJqbU9jdFpEZjI4TU9sTVpsOEFzQnF3RnlQM3kxWWZxWGRJUnlWUWdweXJvc1FQSjhoR29GaHUwQTVrREZBVkZkNGpjeHhVSDZwZS1GZlllSVpKTTBranBRdEY2djlzbldzOFVfbENidG5GMWZkZEl0aXcxY3F2bzRoY2o3TUwwVklYaTFkRGVsQnJaNTdnMTQzOTZsekJZLVp6azNxQtIB5wFBVV95cUxNUXo5WkdEdDVCeXdmQ0ZOekNSVWl1VXMyWVJpRU52WGZlZTBDSUluLURuZk80ZV9qcWlfMXduaUNaNDNoNE5OUWxjOWZ2Rjl1TUhJZXRlUFAzTloweWViaVQ2N2k0VV8tR0xocWg1a2ZuR0VtNFcybFpnQktRT2g0alVRNlc0bU9UVl9yZUFpVGQtdHRWU1pHaTFfandRcWZ2TDBKRkxucXZWbWdiU0M4Ul81NkI1VWViMlFuTVVMTzRQeHRzUDR6RzByYklwM2g0dndtNmRGVnJQVENmNVRhYV8tMDJqNjA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYncxR2VQX2RvUC12TUJBZHF1d2FCaWlNek9mX01sOVJuZERreXZTZ2IySUxuV1hYcnRBOWFCYlU5MENqb2p2dXJwMTNMc1ltT1BfaHJXU0FBa29hVlJLemNOdXRqR1dzZnVBR0JLWFB2TDl4SW5qbklGUjJLcVFGblJCWTJGdm1TYlFRQXFWNUJPdWVrZkxoTGgxQm5UUU84eEk2SjB0LU5XUnJZNVBHYUYyMnN3Y3R60gG_AUFVX3lxTE5CZEgzenhMM0dGaVJkQ2JoM1NBRU82b2RnMDZUZ0Y5Tml0LXo3VGdzVnFCZHJJYmVNUDFHbUFwdUlscVBLY3FoNU9ZdWduTkRWZldhSWNUTHV4Vll2TjdRTXFJa1FsdURaXy1PLTR3emV6UURoakgwdFYwX3pFUDg5UUhMTFR3Uk90YXBwb3JnZzhXNG1nY2w4UUtqQUM3bVh6MlBMZWJueWtnc0xtb3pZcWNzY045Um84Nk9EV0tv?oc=5"
         }
       ],
       "bse_filings": [
         {
-          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261018&strScrip=523405&strSearch=P&strToDate=20261025&strType=C"
+          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261019&strScrip=523405&strSearch=P&strToDate=20261026&strType=C"
         }
       ],
       "nse_filings": []
@@ -800,20 +872,44 @@
       },
       "news": [
         {
-          "title": "Shriram Finance Q2 profit jumps 59% YoY to Rs 3,677 crore on strong interest income, lower funding costs - The Economic Times",
+          "title": "Shriram Finance Share Price Today, Shriram Finance Stock Price Live NSE/BSE Updates - The Economic Times",
           "source": "The Economic Times",
           "source_url": "https://economictimes.indiatimes.com",
           "tier": "B",
-          "published": "2026-10-23 21:35 IST",
-          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOeGR2TjNjWWgtMzZkTjlkZ2NvS1dCNUowemE0RGpGZVZwYkM1czMxR0hkazF2SGE5b1NHYVRhTEVkUEJzb2htRFZmbWRrQ284UDVhbUtGc3Z2ek5MMGlaNC1SMzNfRDFQMmV3RzhpYVFYdVZTMi03bHpUeThTTFhaZGxDSzZnWjdHNFdHbG1FdkpNZ3RubWhHN3dKblF3X2E3eUgxWjNMU2pSd2dRTGV1S0xBSWFqaXI1MGR4SEszbW9iXzF4UXlIN1NubGx6NElIbnNUSVRxSlhXbERkeVVRNF9LclZqOVhFd2JrbHlTQXk2bzFYY3JITC1ock0wVmR4YjctWGRFaEFnU2d6Zk5RM2daaU5PY2_SAZACQVVfeXFMUHFQdjhSamhxT1BuaDBNOXpScDR6X3Q3b1gyUFFZby1NVGJJeXVzSG83V2F5V01ua1ItdGJqdnJBOUk2TElGeGstVEZETUdwTjRZM21jNjQ5SFJzaktUYTFFRVNEV2pzVkxIRjd3Q250c3lDc3Y3TWdvbmNFMERYOTBOajJXMGdLME1Uc1FJVEZfOUIyVjJwVDdodmdMU0ZEVHZETEw3Y1dLQ1RQU3A0UHdDWnBaakxzdDhTUHM5cEtHcjdKR3VHXzczT24wSjdHT1BOM0ZJeF9LV2FXZjhwRlhvNERyMFNseDR0eFhNUXNmWFFKcWh1VzlxUG5WWUpYdmprUU5XN2NIcWVDRnlOVEk?oc=5"
+          "published": "2026-10-23 03:29 IST",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObVljMllFcFhwUlhJdlA3aDJoS0Y4bUNIQmh5SHJGYkl6ZEwxX21pc0VtbV9BQ1paNWQ2N0hZTzZmSW9IOWNWVWY4SWNlQWNYYnV5WmtsV0w0S043cTlxalRqUDA0clhPT1VNZnYyUW1YUjRYc3VwQTdJLThwWTdTdzhqUV9PY1BFR3Q4?oc=5"
         },
         {
-          "title": "Shriram Finance Q2 Results: Profit Jumps 59% To Rs 3,677 Crore, Dividend Declared | Check Record Date - NDTV Profit",
+          "title": "Shriram Finance eyes ₹20,000 crore gold loan book, bets big on EV growth - Business Standard",
+          "source": "Business Standard",
+          "source_url": "https://www.business-standard.com",
+          "tier": "B",
+          "published": "2026-10-25 17:09 IST",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNblNybW5HdzlpM3VNdEZkUHFXZkttdkhGSi1JWnVGUTdHdHAtSXBEbi11Rm1jMGNJSTNYTmZQbUcwQ1ZWYzM1QWt5b0pUZjhsdkhtazRVcWs0aFBWN0ZRX09rV2FCR2hqTTFEZmFQOHhXa3M0OTRFS0lIbFFqOTJwTXpkT2E4bDJiRmNOdHpjNENxNF82OGFzc3NKZjFEbGNFRzJsaXRGYl96QUtYeVYzbUJuY0RyNnZrUW54Sk5TdjFhOUgzRi1RcktXb05ySWhaY0FnRUdEbnTSAd4BQVVfeXFMTTVpTVZtOHZMeDdBaVVLRjFNRTgwcnBya2NteHRZSXVkcDlpeVpmNFFGZEdfRV92TEc3LTRZenhRc0tJbVpXdVRHUFpuQXpScnFyUXJXUWZheTQ3R2YzbmJ5N2xxSW9sZXc5M3g1UEc3VVRlM2pIVnVLLTlOT1BvQm40ZmFOdE9ySmptZGJGcVVyamlxb2RCMDN0anhOV2JYQ3BnbDFzMExvZnpBWG81dVNraTFRWVUzaXozQUw4ay1PLUtLWG55MFRGelZyN29yYkdPRDVoMEVoVEtJMlhn?oc=5"
+        },
+        {
+          "title": "Why Shriram Finance Wants To Double Down On Gold Loans Despite Repayment Red Flags - NDTV Profit",
           "source": "NDTV Profit",
           "source_url": "https://www.ndtvprofit.com",
           "tier": "B",
-          "published": "2026-10-23 15:04 IST",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRS1rcGJPaUxjeHRfajBaeE5BaGRrSkdES3haTGl2eW5UZEYzamxnRURMczBwd2RkWkY1SThPVlh2VW0tSzBzTUl4eXJvVnlFZHg5MUJ0SmxaRENGc3NtTUxCOFpDY2dCWjhTWTBLY0dFbFU5cHdkbXE5YjEyZzM5elJyXzFYb1cxQXJ2QS1sYVVQRjNERmVtTlNQUGQyTmdmU1MxX1lRbEtCcldrRVBuOGZtNi1mRHFQYURzWGI0ZGtPWG93UHZ3dkFKREdxZUxvOVJCaHlMZ9IB3wFBVV95cUxNeU5KUTA5X1dEaV9ZY1BveExkcGtjQm5DeU5UaW5KeFpXVjhwSkxtelUya1Ryd0dMNEdrZURyZmJ2WVBJSklpY1dMTWRYNWJNdzFBb2dxbDVQb2NaYUd3eGl1SDBKSmNRLVJoMEVudmFHZ1owSGZ3N2NtMl9oRzRJZURfMy0tdGpPYkpPd2R1NDR3ZzJkV2dDR0xMamU1SjRXWWpLUjZiSE90aXhyak82SzlGSzNVYmdCVlJzOEc3RWt4M2JDaDNPSm9ELTVqM2dmbmlVcWd3RTZ5b2tpN2xF?oc=5"
+          "published": "2026-10-24 11:15 IST",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPemdXV2JHSTZZdEV1OU1WaExxR3JMbEhFRExMOVhGQUV4VzdsWW1DYUxZMFFTcGxWZjRqZmJic1BSRkVJSHJmckpXS2JoaVVMWjYxaVA4RFlQTlA4dnhGSXFEOXk4Qkk5MWU1ei0xSGttbTN2SmxFYTV1U0N1LWFEY004VDFDYTlFUDJpaXppZXRkckk1Q0xnTUZ0bWhmQ1ZfYjhnWnFsNXBqMXRGMW1EWTROTUQ5YXR4V19YZE0wMFBtOW1I0gHMAUFVX3lxTE42TTJkdFAtUWtLNlVoUWtiYkxyYVNkbXVKMXhURmk4YUwzeWpleTl5aXMzMzJaUll6S2lPeVEwbTE5Z25kdWxpc3J5bkg4ZC12eEhjbGw5Tlp3WjQ2Tkx3MXZFLWNzYVVhV1NwSkVxYlRvdVU2ZDZVcTdiMk9WUm04QzdmaGQwNlUtS3k1ZzVyVE1yaDU4bWViMko3d1o3SlhfMDZNaXBZZEM0MXFmc2pHSkc2ZWFIT1VOaFFjZ0pCQ2d6TkdvNVJ1bGdYUg?oc=5"
+        },
+        {
+          "title": "Shriram Finance Q2 profit jumps 59% YoY to Rs 3,677 crore on strong interest income, lower funding costs - The Economic Times",
+          "source": "The Economic Times",
+          "source_url": "https://m.economictimes.com",
+          "tier": "B",
+          "published": "2026-10-23 21:35 IST",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQajhHeFN0SDlqazlSYV9acGhmQ2w1UFR4em5TeGF1VjR1bGJCeUdXX09ZcDVXNTFyYVFDaC1JTTU2cWEyMWZjOFh4T25NQXIwLUdLYnVONEZBQ1dsbFczLXlaR2ZYdmtqR09zMFd3VDBCWEdOTTdIQVlSRGVRaXRBdGNzc041WEdPTUduZngwQ0E1RWxUbVlCMUVSX3FoSE50di1pazJ3dURaTHIyNWcyLTRvYm1UMTM2OVpEaUNiR2dPYTVvLUJLUkN0ZXBGSEU1TDY2TEswOEo0LUlreDVOVzV3TVhVY2l4YlVteXh0ejZWeGc3QjFwdWgyMHdGTHdqcmdac0ZwYU1NLTDSAZACQVVfeXFMUHFQdjhSamhxT1BuaDBNOXpScDR6X3Q3b1gyUFFZby1NVGJJeXVzSG83V2F5V01ua1ItdGJqdnJBOUk2TElGeGstVEZETUdwTjRZM21jNjQ5SFJzaktUYTFFRVNEV2pzVkxIRjd3Q250c3lDc3Y3TWdvbmNFMERYOTBOajJXMGdLME1Uc1FJVEZfOUIyVjJwVDdodmdMU0ZEVHZETEw3Y1dLQ1RQU3A0UHdDWnBaakxzdDhTUHM5cEtHcjdKR3VHXzczT24wSjdHT1BOM0ZJeF9LV2FXZjhwRlhvNERyMFNseDR0eFhNUXNmWFFKcWh1VzlxUG5WWUpYdmprUU5XN2NIcWVDRnlOVEk?oc=5"
+        },
+        {
+          "title": "Dividends & stock splits: L&T Tech, Shriram Finance among 24 stocks turning ex-record date this week. Do y - The Economic Times",
+          "source": "The Economic Times",
+          "source_url": "https://economictimes.indiatimes.com",
+          "tier": "B",
+          "published": "2026-10-25 10:48 IST",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNLXFVb3lTNllLRUV3VklUSjNVbGpwNDFBcWY3bWxES2owZkVBUnNZV1NoeW9oZnBITTJOalpkb1FnZ0t4dXRpUndRUVRNS24xUDcwY3VteWpoaXJIT2Zzd2h1X0dTTTdxYm92UVBRNGlSSElWNXloY3hXYXl0cFl5Zkw1VDE3UWc5bTNVRlVwQlA1aGFCMGFrbzFuWWcwMEVuWURpblBJYjRhMVRjcTB2aW12RkJkRmk1OVctbEhBT3NqcnRKODRaeDBnNzhSOXRjQ3cyYjFqX0FKWnVYcksxcm9ldy05anRpeElzUmw0bW1ld0FfS3gzdjhxZllrSThVeHBsX2c5M1kzczFPQkphVlgyNkw0LWly0gGSAkFVX3lxTE1XYXlXN3ZXT3RIbV84aUlKWW1Ha3BwRGpId3czajNud1lBX3JTR2ppbV9QRjgtUDBCWGM0eWJud2VBMkNOMUN5dG1NOVJTRldwZkNaMG83cWVTSFdiUHd5X1J5bDZHODZ0a1BtVm1uUlVGV1BMOW1FcXJSeG14Y1VzaGN2SWR0ZTBOMmdhZU5oc2xIWDBvWlozUHdMS1AyZTY4RUstZ2c0bDJjNEMybDJCRGxlRkY5SUJqRmROMkJwckNacFpWR25kZ3JBRnI4TGN3ZU9McmpMclpzVDR2dnFDelNpS0lzSVkwVll6Q3Q1NWVGb1RvcG1kbV9jREFkckN1QUdnYzlJTTVMMWZEOWxWUkE?oc=5"
         },
         {
           "title": "Multibagger stock: Up 30% in 1 year, Shriram Finance among top Nifty gainers - Should you buy stock ahead of Q2 results? - Livemint",
@@ -824,12 +920,12 @@
           "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOb3lLbFhiUlZ5X3Y3THNjWi1rV0Zaek10UGItSWgxbllZY01nRnQwcDdlaDlDdC00ZnAzRHBKTThUd05UM0RmdUR1TGNLZDNQTHhobkNZSWJ4QkR6MmNJa2J5YWw3bWlrS0ctQzRUV0F4OEVIVHZ0bWNZS1E0UkhOeEZEckRqdTZvSWlyRzBTOVhfSEo3dHFKdFhsUmdGT2NhN2ozY2lCWWczTGF5NU9BbjlnaHcyN3FoeFhCVVpzZXlBalA3Qm9fVUtldHBwcG9xRlVycUoyaDNuek9hbU9PTEhiY1RuUjBvSGZGR3JPM2o3Qmhma09qUWJUNXFCRzQ2d3RsMzk3T0IxYzFxTzJYQmpB0gGXAkFVX3lxTE5jMkw3ZExKd04xM1o0YXY1aFRnYy1rd1lZUVd0QS1KbzM0XzF0cVBUd0x2M0luanVMa2tMNkoyX2wtRkFlY2duejJKMHZUWUZWRHMtbWFQaXFMNDJyTHQ5UXVONWlNV1BvelVtSHdUM0QxNGpmM2hPNlJBQW84UHNKNDIydFpYSVRRdEM5QjZoRVNQR3p3bTRaUEE5WHhES1hidk5kM0dkN041bHJKT0R1a1Z0QVdzM0VSd1BrZUg0MTdYeVAybHJORXdGTF9qOFBGcTBycDJjOE5KRVJXejBhRW1XM19EQ2JCTmFFRS1oMzNWNFlyXzBhcU53dDEzdDRFWlRNZkk1QXU5M001TlJ3d0pBUEVrYw?oc=5"
         },
         {
-          "title": "Why Shriram Finance Wants To Double Down On Gold Loans Despite Repayment Red Flags - NDTV Profit",
+          "title": "Shriram Finance Q2 Results: Profit Jumps 59% To Rs 3,677 Crore, Dividend Declared | Check Record Date - NDTV Profit",
           "source": "NDTV Profit",
           "source_url": "https://www.ndtvprofit.com",
           "tier": "B",
-          "published": "2026-10-24 11:15 IST",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPemdXV2JHSTZZdEV1OU1WaExxR3JMbEhFRExMOVhGQUV4VzdsWW1DYUxZMFFTcGxWZjRqZmJic1BSRkVJSHJmckpXS2JoaVVMWjYxaVA4RFlQTlA4dnhGSXFEOXk4Qkk5MWU1ei0xSGttbTN2SmxFYTV1U0N1LWFEY004VDFDYTlFUDJpaXppZXRkckk1Q0xnTUZ0bWhmQ1ZfYjhnWnFsNXBqMXRGMW1EWTROTUQ5YXR4V19YZE0wMFBtOW1I0gHMAUFVX3lxTE42TTJkdFAtUWtLNlVoUWtiYkxyYVNkbXVKMXhURmk4YUwzeWpleTl5aXMzMzJaUll6S2lPeVEwbTE5Z25kdWxpc3J5bkg4ZC12eEhjbGw5Tlp3WjQ2Tkx3MXZFLWNzYVVhV1NwSkVxYlRvdVU2ZDZVcTdiMk9WUm04QzdmaGQwNlUtS3k1ZzVyVE1yaDU4bWViMko3d1o3SlhfMDZNaXBZZEM0MXFmc2pHSkc2ZWFIT1VOaFFjZ0pCQ2d6TkdvNVJ1bGdYUg?oc=5"
+          "published": "2026-10-23 15:04 IST",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRS1rcGJPaUxjeHRfajBaeE5BaGRrSkdES3haTGl2eW5UZEYzamxnRURMczBwd2RkWkY1SThPVlh2VW0tSzBzTUl4eXJvVnlFZHg5MUJ0SmxaRENGc3NtTUxCOFpDY2dCWjhTWTBLY0dFbFU5cHdkbXE5YjEyZzM5elJyXzFYb1cxQXJ2QS1sYVVQRjNERmVtTlNQUGQyTmdmU1MxX1lRbEtCcldrRVBuOGZtNi1mRHFQYURzWGI0ZGtPWG93UHZ3dkFKREdxZUxvOVJCaHlMZ9IB3wFBVV95cUxNeU5KUTA5X1dEaV9ZY1BveExkcGtjQm5DeU5UaW5KeFpXVjhwSkxtelUya1Ryd0dMNEdrZURyZmJ2WVBJSklpY1dMTWRYNWJNdzFBb2dxbDVQb2NaYUd3eGl1SDBKSmNRLVJoMEVudmFHZ1owSGZ3N2NtMl9oRzRJZURfMy0tdGpPYkpPd2R1NDR3ZzJkV2dDR0xMamU1SjRXWWpLUjZiSE90aXhyak82SzlGSzNVYmdCVlJzOEc3RWt4M2JDaDNPSm9ELTVqM2dmbmlVcWd3RTZ5b2tpN2xF?oc=5"
         },
         {
           "title": "Shriram Finance Q2 profit jumps 59% to ₹3,684 crore on auto demand growth - Business Standard",
@@ -846,27 +942,11 @@
           "tier": "B",
           "published": "2026-10-23 06:00 IST",
           "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdFJPb0cyclNCb2JtWlhvaHdmc2tUVWxsempPMlJrc1dPX3lVTjh4eXlKZ3BxeHBBS1lJQTJQSk9WSWgwdHRzTlhMTmQ0QVN3ZTgyUE9RQkczQ0txajhxbV9vZUs4X0VSMWNsV1JfYmNJSUJtV3lZS3Z2LWdpX2VyLV9ycG1ianVPMzZhTDN4NTdLSlp2RTJfbFNLRUhSQ0dGNmhnTGdrV1NRMUowMzNVZWJaV0ZmZTBJX1VVV3JIejhtcWN3eDhSTlpxOTIzMEl3S3ZVWlExMWUwclNTaXNrUG5lR0UzV1h0MkVvU0VMVEFIWkNfa3YtVE92UWVaY0nSAYQCQVVfeXFMUGRWcjB5dlJoeTZfSTctblFMeUdUNG1QTl9KdERjS010RVRqM2ROYUsxRWoxdjJWeWtteURwTFBrOGNUbW1KMkduVzQ4aG83bXgwU3ZOWUc5bWVMbHVfX3NQN0ktWnVCZGgzUFVaWHBza0twY25xMHpzbVRjcGFnUkZmTERhcXVzdGpMSzZ6enF0X0JPY2s1NFRGa1I0a1dQSG1HMnZVb2tlbEI1XzJEb1UtOFN5MGlPQ3c2aTRMNEl5ZG9QM3VtYmgyUGY2WnAybXFGVS1FdG9aZTE5b19NQ3lraWdfYXI4NVVoTm5hbUMtQzhneFNOeGlHVDkzdWlpeWJWS28?oc=5"
-        },
-        {
-          "title": "Market wrap: Eternal, Apollo Hospital, Shriram Finance, Adani Enterprises among top gainers and losers on - The Economic Times",
-          "source": "The Economic Times",
-          "source_url": "https://m.economictimes.com",
-          "tier": "B",
-          "published": "2026-10-23 17:30 IST",
-          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPMFNuVzhBMFJfY3VMdW5SSFhEcndpR3Z2M2lGd1A0ckgtNWhIcThFa3VrNV8xSnpic3B5bEVLaG5vZExHcnFickJ3Y05sV1czbXFvWUdxeFRXandBdWZkS0s0N1V6aXo3UXIxbURBZXZ0T3MzMmxOYm1UTkxrVWFSZmVxRkZIMndwdmVmcl96enNkdXZHNVNhS0JraXFqM3JlRjBWOS1XOGh5R0M4X1dSTmVjQTJVOEFIY0hueFRDU1ZveHQzTHcwS2JwaVB5YUZQRTZ6bUFha1p1TzZ2MG45Q1RZYXNyeGtZM0owRWNYNEhWZE1ELUI3VVN6Rll2UHQzLWFwelNVNUhsSkVkblN1T0VyVlZManpBam04NlRrbHZGRkc3VmpuMXVR0gGvAkFVX3lxTE9VUkk4NHNwdHA0V1hSMWdtWkJfdEhvLWt6YUdRRTJDTzd5Ym9wRFdJX0hnbWxURzNTVWlnckNqWnhmMWxVUnFRa2lpNG5Td3J6dEJDQlFDUktJNkJQNGozSmM1SzZiVnl6eUotczhYYU1zYW55MU5RMWRJU2sxdjNqUTZqcFFMSE0yS20wX1RDeHVFSGNQNFZ2LXlYX2dvRTh0Tl9Pb3lDbmp0M2FhR1hleWZJWENBbVZ1Mk9CN1JhdGhpZU5LM002MG85M0RocVg5Y0JMa2RyNEN4UGdKNFlfc0tSdWx4Zk5rNGhaTTRBVEp1c3dacnU1dEY0T2V4WFJ2ZWFFUjZzTFdlQnNDMU9DZE42N0RlVURjcUlrczZPemI0V19meVc5WTNoMDVrQQ?oc=5"
-        },
-        {
-          "title": "Shriram Finance Q2 results: Shares fall up to 6% as gross, net Stage 3 assets rise - CNBC TV18",
-          "source": "CNBC TV18",
-          "source_url": "https://www.cnbctv18.com",
-          "tier": "B",
-          "published": "2026-10-23 15:07 IST",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZ21uV1VlWlRsWVpXamtkZlJBcHFnZUFxR0c1V2NqaFoxdkJDVHZUSWhFb3F3Z1A1NExVOGRfT2xRZEVCQlNOUGVIWkIzdWR6WjdfS21iY3ZGSmgwUU8yN3U0NUdvaHl4eE1qWXI3azBDeUNDMVo2c0pRV01PdkpDcDhqQk9vVHJZWFVQLUg2UnFZQ2JQbXVaZkZwUFdFUmVPa013bTRWMGdYVFlrQmdsb2k4c05rTlRpcWpBV2E5eXNSYWxRd3Y0TXpIbnBmU3hheWVnN9IB2gFBVV95cUxOWllpRGpfRFMxRTRXelBNRXhrM18wcG9ZOUlGdS13c0lPWUVBU0ttRHVtNldNVWQ5MWZrM3ZSMFpsWWM2WUhoZXJuYlJJOWhDbGdmd3JNZGFBbEdpaGhzQlRKN3RCejhQSnQ2R2p3Rmp6ZFQ2cGpaQVFPek9HVHc5dVItNkM3S19xUEhETG9nUldzWnhPVm1JVFdQdnROTEZjZVdIRDdZTVNBRExTRklramprTUk4Z2J5ZDluZ2NUV3VWTFRoVm5YbHFFd1lxeDFHbFQ4Wm9RVUFMUQ?oc=5"
         }
       ],
       "bse_filings": [
         {
-          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261018&strScrip=511218&strSearch=P&strToDate=20261025&strType=C"
+          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261019&strScrip=511218&strSearch=P&strToDate=20261026&strType=C"
         }
       ],
       "nse_filings": [
@@ -971,7 +1051,7 @@
       "news": [],
       "bse_filings": [
         {
-          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261018&strScrip=543387&strSearch=P&strToDate=20261025&strType=C"
+          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261019&strScrip=543387&strSearch=P&strToDate=20261026&strType=C"
         }
       ],
       "nse_filings": []
@@ -990,28 +1070,12 @@
       },
       "news": [
         {
-          "title": "Bharti Airtel launches voice-only prepaid plans starting at ₹185 after TRAI's mandate - BusinessLine",
-          "source": "BusinessLine",
-          "source_url": "https://www.thehindubusinessline.com",
-          "tier": "B",
-          "published": "2026-10-18 20:25 IST",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRi1uMU1saGpSVC1aT3l0MTRtQWpWelVCU1JPcjNLSElMNGdEZm5kNjhXQmpEeW0zTkI2aFl3XzVzNHUtd1c1SWdsYXg4cm9CMkN0LWE3RkpHMkliMG1Cb1dkMDhtRTl5bTd0T0Z1LWRBUWhHZlBjOW91V0tLZWRWOHlGc3FMeHhyazRiVl9YR0hoOHZyeHFyNWpEUW1tZXBEQ0oteFNNZVJJUTU0NEhuMDFFLWVrYjMzLUE4NnVIeUxyZ29UZWx4cmlsTGJpMHlRM25KcmplTWtZRUtkMVdDUUR5WU3SAesBQVVfeXFMTm9Gem9rckVrN0VoUEMtblFzQzdjUFo3TFk2QV9wY2V5cUVLTnZQMU5ma2RXYUdqeFJBbVBUTTFOZDZUQ0c0dFdrQnF5TFlyMmNPM2FwbFBHWUpHVWltSDRJd1h5cmZ4bXQ0NjJIMUNkU1BlNExyOHlZckpFel9OY2FQX2JBaENNY0VmbmFUYlROT3lRS2xPdG15aldkSmxnaG50LU9kVi1jUURMOWpvbVQxeS1YeHBpTm5KQmt6RzJlQ3ZLU2lrMGpLUGdjUE9NNS1tV0tWcDN4Sll3Um8yaWxDaE55dEsydXBBQQ?oc=5"
-        },
-        {
-          "title": "5G SA adoption lags, Bharti Airtel deploying RedCap, says GSA: Report - ET Telecom",
+          "title": "Bharti Airtel launches mass market voice-only tariffs after TRAI mandate - ET Telecom",
           "source": "ET Telecom",
           "source_url": "https://telecom.economictimes.indiatimes.com",
           "tier": "B",
-          "published": "2026-10-24 08:15 IST",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOemdxWDFvcy1xU0ZIWGl5UnR0TmZBbGVpQlZYUWlDa3lIejZUakZIejZCbEg3VXNuQWhPSWFhOWNNOWtvYWNiMHRyMXJUWDZIMGdocGFSWlFoZFlYRHBHenUtWFVuek9tZ1BvU19ZRWRRbHkwbkpMcnl4RDR6OExOLXF5WS1NaFJyRDlXUzJ0RDVXY3pPSTBSM3hkTGFkd29yUXpOY2JmUVVRdG44aXJJRjZIWE5XVnlTbThrVzV2QzhzU3ZQeklPZ0JxOUFMTnVq0gHWAUFVX3lxTE5pWktCVlgxaVYyZlBVbUpaWG5zaWhQRjJreDU2ZjRrMndBOU1fVXpnOUdrUUF0MHhDdkVrTjFsd1BkOUFtMkhvNEF0dlNKXzRjZ0w0S3Fwd196dWZwU2FqVVFkR1ZPWVpLMEpvNHRnNDk5WDB6bGplQ1JrY2x4c3k1OFMtalRMMUg0U3Y5YkVYbGZEWlZOb3ZOamhOZHFYWElaV01kbVFsTjB1UTFlQ3VFQVBSRjBOdFlJdGhsSUxnT28zMy0yVGhNa0pGbk93ZmNVelFZN3c?oc=5"
-        },
-        {
-          "title": "Top telecom shares to buy: Bharti Airtel, Vodafone Idea, Indus Towers by Ambit Capital with new stock target price - Livemint",
-          "source": "Livemint",
-          "source_url": "https://www.livemint.com",
-          "tier": "B",
-          "published": "2026-10-23 15:25 IST",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQYUY0aE1HbnM3RGFoZ2Q3aTRTUU9ONzE4MUhGbDlvV002elZBOTdlbjMycWp6YVAyYmlucVFreTdtY29nUWJ1djN0NzJ5RTZWMVZYdDVEM1ViMXhUM0FQWUVjVmVsQmkxUEdqVW11Rl9IQkdsZjRSN0xsN3lEd1JsQlVIMl9iZUd5UFBNVWg1MjJMNUFtaEdsSFI0ZkxEeXMtN094SldHUHNxbHBHQzI1MHIyeHZKb1hWSC00ZUZFSUtWMXVkazhYQWFiUEg3OXllSWpTX211RXpjX0FNeVZrVUg0Rm1RN2ZNNnZIV1dick55QXI2cDVXR1Z3Mk04NFJGQ3h3WlJyUGo1dkRxVXfSAZMCQVVfeXFMTzBabV9kRWJYalVtQlM1QXI3TnQtMEptMVJhVWxrTVpEWU9raUs4aThwdnV4TVFqRGg5NGJKb2tkY2piTG1LNVZZV21xMTBoOHpQY2tEYTkxMklMLXQ4aWJ4aUhuNU1DN0lNdW5pN0N5b3R5RUk3ZmN4S1NwMldxUkNkYmVzUUJNWkR1d1JsWDJqLVlRdUhlUEJuUEZFd1dxMXMxLXVqX3pPYUxHWENaMjh6dko1OTV3Tk53TV9ORVdxRk9MX1gtMXh2amVESGk2dW5CRXlscWw2T2kzRXlvb1NzWndBNWlUMHVrUzJQWFlLRTRNMHA5T04zRFNEQW50d2ZMVk9acTFpOFJ6V21ic1Y4QzQ?oc=5"
+          "published": "2026-10-19 06:54 IST",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdl9pb0xHWDJGZGZQanBjTDNuczRiMkxIWHVkX1VWSkRTRHQtZlIwbmF0ZWFoNHRGUHl1UTdJcGRqQ2piNjFTZjJmdXl6NVo0RHdMZzFKX3NwdENaSDBiZFJKY29yTlA4N3ExV25pQnFZTnk2cGdqbUE1cV9wcjRVb0Zmczd4d3BvOUJzQnNuRHFNaE42YW9rdkJPUEFDaVl6Sm9Vd0ZqUlN1Nm9mTFlnZExTWnhzNi1EVHlXaXdOM0t6YmhGem80VUs1MllKUXRwYmRNVGVkRVZ2ZjR4WG12Rl9Qek1XUEc3elNVOWNB0gHzAUFVX3lxTE1BNy1OZWYxTmJTUTNPNGlyVkcwa1Qwa0FiSnZVS2MtZzF4bl9OQVc4akN5N0pZc2w3dlNhT0pJSDdOMnM3a1hSUUNYVEswTVNfblNZejg3RXZyRExENmpWaG1OWWdyWEtVOGFZN01ScmhiazF2VnhPZlFPSVhtMTI0M180Z0w2Z0dTMUV0bWx6RDFMZm40dFFvT0hJQWxxRVJBSDlnZGhOam9GbUFDV3hqcl8yUTBIWTNUS0VkTXloakFGOWtzOWd5YmNWLWp4eTFFaEtCNngxODV2NVY1X1otZ0cwY1VMMUkxV2ZNQnJOb2hJSQ?oc=5"
         },
         {
           "title": "Tech Query: Bharti Airtel, Power Finance Corporation (PFC), REC, Alkyl Amines Chemicals — What is the outlook? Where are these stocks headed? - BusinessLine",
@@ -1022,28 +1086,20 @@
           "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOYzNxbTN4OWl5Q0RETVZqUVYtNjZ6a1U3dEo0Nzh0c1JjLWlQWld4TmNxdFhsUVlsdUo3R3FEcF9ia0tkTkpOZHgtX3o5UmYzRExicW5HZjR0Wl9fNlVFc0U3Z2NVZFlDRHVUYk4xVTFwb3pMQTBqSHFwUjZnUmJGVFBIWi1RS08zSnpFeG9NRF91UkxSNGVHODhPaTREdTlWTXN3S1BXNE02aUcwXzNHWk9rVWhUR0dnems0dGQ0WXJVd01oQVR5b0J5d2pqOVFMRlRtN1o4bEkwb2pSOGJXeC1hWWNGU0lDS2dfbF9TZEdOQmh6UEROUUlpVU93ZWEzTHVQWHBlR3RZR01XTWtoWmZJZnNuVEdacEtpa05UVktpRlB0d0xxSFVQOFhQZWhHSnFaZkVab2U3RVVfQ1HSAcQCQVVfeXFMTnZHSTQweTU0MDh6RzRBVlI0bGM1b0hQeTFDM3Vvd3d1TDc2T3Vlb19tYlNvbU1PRE8wRFU5U0syT1dHTjIxNE9VcS1wRzl6dm5uOEdGSmhodXg3THVpTlA2Y1ZSdmQxck5SRHc3eVItcnBhcEZRRDJMQVY4dFBfVFVDU3lHN0FJM2JGMVltc3FYb2dTb2d0bko5Qk11Y0E5ZVEyTWpsZGhyVkNYM2szUXZKaV9HYldyTDZGV0s3N3lBQXp3TkFEbFlZdGdyR3JlZ1B0dy1TS05DTUtEdmM1bEt4ejNuOUR6R3pRWTQ0aVp2U0hmbFR0UTIyUTQ4eEEtWk9PVHdtYUdhZF9NRkZVZlFaUk82LUZhSlhWVnpKRXBDZUNMNTFONmZQQ2M0eURudW82NUpmTEhJcFZVcVN3SFFHcEpq?oc=5"
         },
         {
-          "title": "Bharti Airtel launches mass market voice-only tariffs after TRAI mandate - ET Telecom",
-          "source": "ET Telecom",
-          "source_url": "https://telecom.economictimes.indiatimes.com",
+          "title": "Bharti Airtel launches voice-only prepaid plans starting at ₹185 after TRAI's mandate - Fortune India",
+          "source": "Fortune India",
+          "source_url": "https://www.fortuneindia.com",
           "tier": "B",
-          "published": "2026-10-19 06:54 IST",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdl9pb0xHWDJGZGZQanBjTDNuczRiMkxIWHVkX1VWSkRTRHQtZlIwbmF0ZWFoNHRGUHl1UTdJcGRqQ2piNjFTZjJmdXl6NVo0RHdMZzFKX3NwdENaSDBiZFJKY29yTlA4N3ExV25pQnFZTnk2cGdqbUE1cV9wcjRVb0Zmczd4d3BvOUJzQnNuRHFNaE42YW9rdkJPUEFDaVl6Sm9Vd0ZqUlN1Nm9mTFlnZExTWnhzNi1EVHlXaXdOM0t6YmhGem80VUs1MllKUXRwYmRNVGVkRVZ2ZjR4WG12Rl9Qek1XUEc3elNVOWNB0gHzAUFVX3lxTE1BNy1OZWYxTmJTUTNPNGlyVkcwa1Qwa0FiSnZVS2MtZzF4bl9OQVc4akN5N0pZc2w3dlNhT0pJSDdOMnM3a1hSUUNYVEswTVNfblNZejg3RXZyRExENmpWaG1OWWdyWEtVOGFZN01ScmhiazF2VnhPZlFPSVhtMTI0M180Z0w2Z0dTMUV0bWx6RDFMZm40dFFvT0hJQWxxRVJBSDlnZGhOam9GbUFDV3hqcl8yUTBIWTNUS0VkTXloakFGOWtzOWd5YmNWLWp4eTFFaEtCNngxODV2NVY1X1otZ0cwY1VMMUkxV2ZNQnJOb2hJSQ?oc=5"
+          "published": "2026-10-19 08:38 IST",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNmczdWQtWFhCMUN6TS1ESVBkTGFDYW9KbWpydjNpeVhTeHJPRkJQbTFTamc0ZUtFN05JWDktSkFSZG56aWtFYW5pTkpNcktXLTNObGFBQUtscS0zaFIyeC1yS3JiVFZ6ZHlyWlBDRWJTeWRkaWFPOFBBbE93MkxfUl9QTW9VS1Rad2RaOG13Zm51MHFkbnBzNF9nWTZ2bmN3WW0xU0pUaWtiQ0txRnVTcks0MEQ2ZWdUaFJkeEZ3a0pUZ0otZXdyb1p4UU9SVkxqQjhV0gHgAUFVX3lxTE15UTByRzBuRXVlSC1KT0FaZWd3cDlnWW1LTW1FVEhWVzRHWFpqc0wxZWtEY3NmYW5KWWJTVXZkUXF2cExJUU9OWXpzZWxHY2tkWGFFRFNQR3J0ZmtWTEZFX1UtZ2NkSmMzMi0wakNKU2k2eDFxZHFfdVZQMFlqdXJwZzdOT1pXQnFva2pzTHBhYkl6SVg3X3oyRFN1YWJab1c5TGVDQTBpTDhjRUN1MC0xT0JZMnNBVHRNOHExT3pmYmQ1SUh2OUJzWl9SMnpBU3FlRUs2WW0ybzc5Q1dZUVdy?oc=5"
         },
         {
-          "title": "Bharti Airtel launches voice-only prepaid plans starting at Rs 185 after TRAI's mandate - The Economic Times",
-          "source": "The Economic Times",
-          "source_url": "https://m.economictimes.com",
+          "title": "Top telecom shares to buy: Bharti Airtel, Vodafone Idea, Indus Towers by Ambit Capital with new stock target price - Livemint",
+          "source": "Livemint",
+          "source_url": "https://www.livemint.com",
           "tier": "B",
-          "published": "2026-10-18 21:31 IST",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOVXFYRnVwMU9yOTlFQ3EyVFVpb3lDUFVhYUttOGNRVy05eERxM0dtcHV2eHJQaU9jdWFBRkMxS1QxSjBVQ05NRUxhcGNDTmR1Y0pYNkRCV3FGTXpabnRTeEZZUjhaNlRlSGMzM01LLXV2MUJ4cTdZRkF0MTdJWEhGTWdLZE43T1lBRS0xQ1cxa1lQekFYMmFJYm45ZGRzQVNYcFJYdm9pNU50ajZYZVBOWm5TdVpOdUc5YjlBSE92a1pGdk5MbTZFb19XS0hGZVBFUUN3N21iLTAxMVp4c3F0emhwQlNVdWFqZktReEU1U1V0N3h2TzBQOF9JZm1FalXSAYQCQVVfeXFMTUdwME9ROHdMU2EwdUI5RGs3ZUhlMnpzb3c3V0RRRUFrUDMxOU52Zk55NDFfRU1TYXFQYlI2WDJlN2ktWVRPbDJVQ3F0eFNMbGV0eFlrNi04TUtlRDMtbnVXTTNUcjhwa2xqdTdSRTk1amcyWU15MDhkWVRSMnpWUC10LUl2c2R4UkFpaW5wS0tuQUswWnNPa3FpZzZKZ0laSzdpTkVNU0U0b1BoajU1a0NobThNUWxHazBGSzVjeUZYQUxGRDZNdWdNaWZMSjFCYmJRc2pNaVZNWkMxUkVwVDZCSUxhc29maTZGRVRvelRzb3c4NjY1ZHNYMzZBcmstNVV1Skk?oc=5"
-        },
-        {
-          "title": "Bharti Airtel inks premium content partnership with YouTube - ET Telecom",
-          "source": "ET Telecom",
-          "source_url": "https://telecom.economictimes.indiatimes.com",
-          "tier": "B",
-          "published": "2026-10-23 13:26 IST",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbnNCUDM5SnNGRmlYZ3NIeFd2aE0wS3ZlSGJLNFBMU3hwV3F0VXlSNWExOElpZFBZaHdMMkh4VlJTU3gwWlpCN3hLaWJsUV8wS1RVZXloN0NGek1jcnFqOWFkUmVrWk85NjBVcXduOURQbWVlWGo5UzNZYnlCN1J4cHJvVWJYXzJlNnhqaGdSQld2cXFLRlVfVVlSSWJfQkEySUNjYU9KTWxlS0VoVjhHODFjYTNkb01SRFRvZjVIVVhUZEpuSnUwY9IBzgFBVV95cUxPM1NBNjNlZmRRT1BnVHhUNDhiT21FaUxDM21FU29LUy1pNkItR3NVRE5lSlhndXdJbl9oOUw0NGg3a0xLMG5qZ3hWMUpvdXlyYVlReUw5T042a25NOUR6bkE4V2VpSVptd0RNUHRCSld4cWdLRC1GcnVMQkQ5NGpMVm42T0l1cXNOaDg5WlZGemluYkdUa3Y2QlpZMUJtMFdCMldrdGZWWDYyVThONEJoV3FjaENiRV9vOFJ0SlR2U05pUldzZzVNTFdhZVMydw?oc=5"
+          "published": "2026-10-23 15:25 IST",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQYUY0aE1HbnM3RGFoZ2Q3aTRTUU9ONzE4MUhGbDlvV002elZBOTdlbjMycWp6YVAyYmlucVFreTdtY29nUWJ1djN0NzJ5RTZWMVZYdDVEM1ViMXhUM0FQWUVjVmVsQmkxUEdqVW11Rl9IQkdsZjRSN0xsN3lEd1JsQlVIMl9iZUd5UFBNVWg1MjJMNUFtaEdsSFI0ZkxEeXMtN094SldHUHNxbHBHQzI1MHIyeHZKb1hWSC00ZUZFSUtWMXVkazhYQWFiUEg3OXllSWpTX211RXpjX0FNeVZrVUg0Rm1RN2ZNNnZIV1dick55QXI2cDVXR1Z3Mk04NFJGQ3h3WlJyUGo1dkRxVXfSAZMCQVVfeXFMTzBabV9kRWJYalVtQlM1QXI3TnQtMEptMVJhVWxrTVpEWU9raUs4aThwdnV4TVFqRGg5NGJKb2tkY2piTG1LNVZZV21xMTBoOHpQY2tEYTkxMklMLXQ4aWJ4aUhuNU1DN0lNdW5pN0N5b3R5RUk3ZmN4S1NwMldxUkNkYmVzUUJNWkR1d1JsWDJqLVlRdUhlUEJuUEZFd1dxMXMxLXVqX3pPYUxHWENaMjh6dko1OTV3Tk53TV9ORVdxRk9MX1gtMXh2amVESGk2dW5CRXlscWw2T2kzRXlvb1NzWndBNWlUMHVrUzJQWFlLRTRNMHA5T04zRFNEQW50d2ZMVk9acTFpOFJ6V21ic1Y4QzQ?oc=5"
         },
         {
           "title": "Jio Platforms vs Bharti Airtel: Which is the Better Telecom Giant? - Equitymaster",
@@ -1052,11 +1108,27 @@
           "tier": "B",
           "published": "2026-10-22 07:00 IST",
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNX3VEZnNtTm9fRzc4dTFPTTN5aXJZNU0wX0diRlRwWnVBenZtLXpfTDMwczZHREF5OHpzR29VMDE3UU5CMDFyZ1VYdk5FQmd2UWE3QXhMaHJYenFqNk1ubjVsYmUtX21NZEozM1JHN1JONVFuaGd0bkJZSURkQjE3MGNRcE1BZllZM2k4RUNJQ3I5X1d5S3BvQmhXWEpfLTVwQ2FXeTFEVEZ1ZHI4S3JPdS1PQ1JvU25GWEsxR19qcmtFem9waUFLQ2xuLTdEMlE?oc=5"
+        },
+        {
+          "title": "5G SA adoption lags, Bharti Airtel deploying RedCap, says GSA: Report - ET Telecom",
+          "source": "ET Telecom",
+          "source_url": "https://telecom.economictimes.indiatimes.com",
+          "tier": "B",
+          "published": "2026-10-24 08:15 IST",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOemdxWDFvcy1xU0ZIWGl5UnR0TmZBbGVpQlZYUWlDa3lIejZUakZIejZCbEg3VXNuQWhPSWFhOWNNOWtvYWNiMHRyMXJUWDZIMGdocGFSWlFoZFlYRHBHenUtWFVuek9tZ1BvU19ZRWRRbHkwbkpMcnl4RDR6OExOLXF5WS1NaFJyRDlXUzJ0RDVXY3pPSTBSM3hkTGFkd29yUXpOY2JmUVVRdG44aXJJRjZIWE5XVnlTbThrVzV2QzhzU3ZQeklPZ0JxOUFMTnVq0gHWAUFVX3lxTE5pWktCVlgxaVYyZlBVbUpaWG5zaWhQRjJreDU2ZjRrMndBOU1fVXpnOUdrUUF0MHhDdkVrTjFsd1BkOUFtMkhvNEF0dlNKXzRjZ0w0S3Fwd196dWZwU2FqVVFkR1ZPWVpLMEpvNHRnNDk5WDB6bGplQ1JrY2x4c3k1OFMtalRMMUg0U3Y5YkVYbGZEWlZOb3ZOamhOZHFYWElaV01kbVFsTjB1UTFlQ3VFQVBSRjBOdFlJdGhsSUxnT28zMy0yVGhNa0pGbk93ZmNVelFZN3c?oc=5"
+        },
+        {
+          "title": "Analysis ahead of Reliance Jio IPO: Bharti Airtel is better or Mukesh Ambani shares? Top value things before bid opens - Livemint",
+          "source": "Livemint",
+          "source_url": "https://www.livemint.com",
+          "tier": "B",
+          "published": "2026-10-20 13:32 IST",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOQXc4R0E3RHJqZGRILTdFa01GVVlmYUw2dTJQZy1TZVR1Z3k2aUtwMWxXOEtaM0xSMXg0VGx6X1pjX1p4UlBSTlRrcFhXNWttWmFMNVRaQkNyV2hGSGJxdEhZTVRRaDVrUDNWWm5SX3NKUk1kRGpmQ2tBeVFmcm5kS29fZWlPQU42cU1tbkhkVjZ2Si12N3V6N3BQdUdwVmZnU0hsdncyOFFDTWNhd3JlZno5NldLUDdKcWdYei1fZE0tNHUzTk9hcEd1OUYzRFY0TkJfbGpydF82Y2JwY192STRGX3ZVdkM4T1MzT09pWkhWU3J3NHBEbGN0MkRaRUJCelHSAYcCQVVfeXFMTnM1ZHVXY0ZpRXA5R0RkSWt4X3d0TFFDdlUyTThIVW1xNnc5SDZKblNibThpNXl6US1xbEtEOFFfM24zc1NIdlk0aV9tSDdBT3h3aE56eDBBZDRuSThmMWtvOGREQUZQOFBIRTVQNUNXamxXNmNaT1RuNW01NkNEaS1QeFpaZnNWLU9XSW5vWTRMM3hGbkhYd1I3aWlnMEpFeHZOSVBIa3hXMEYtdTA2U0dBa2ZrZEtoTXN5UDhHS2xjNk5jWXllaTRsbUI0M3F4eGxFSmFhQjRIaklGb2k5cnpLVzMxcUU1OXFRb2lNZGM3VmNVOEdETU1maWtGck45NUY3ZFNqWXM?oc=5"
         }
       ],
       "bse_filings": [
         {
-          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261018&strScrip=532454&strSearch=P&strToDate=20261025&strType=C"
+          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261019&strScrip=532454&strSearch=P&strToDate=20261026&strType=C"
         }
       ],
       "nse_filings": []
@@ -1085,7 +1157,7 @@
       ],
       "bse_filings": [
         {
-          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261018&strScrip=532493&strSearch=P&strToDate=20261025&strType=C"
+          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261019&strScrip=532493&strSearch=P&strToDate=20261026&strType=C"
         }
       ],
       "nse_filings": []
@@ -1104,6 +1176,14 @@
       },
       "news": [
         {
+          "title": "Global Markets: French markets tumble as riots add to political crisis - The Economic Times",
+          "source": "The Economic Times",
+          "source_url": "https://m.economictimes.com",
+          "tier": "B",
+          "published": "2026-10-19 20:52 IST",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNN1ItVlZOa2dHMUNyRFNDQ2RnNDRSNmZrM1hmbEtMZ1YxaHF2SnJsYXN6dHdfYTZIOFpJZVliWmduR3J4bVlMc25JcHEtWEVROHlxY0dQQzlMaWpKNnFwWWRvOUdkWmd1azNZS2xaVlRCWjhjVW83TGVTcTQ0MXVkaHQxVkJndjNrY3lJa0lzSlhPY2NlR05TSEZSWlBNdmd6cGtSUEYwUFEzTU1zNDdfNVlfaDZ4RjZGN19SdG9nbnVKTl9wWGpNMW1OcFFSN2toYWpPeXNFc2NQaG03eVJj0gHkAUFVX3lxTE1wQmlRMy1FaDhGWkZHbFV5c0Fuc21EeGNDVzNjYUNFUDFrQWtFX01iN1cwTkNZOXdWbDhJbUd5bm5oU0RIRUdnMFRidVhqM1RqZGhoM2ZvZE5FcWxqV0Z1UVJKWG1HV1kyR2pQb3ZxQUtNVU5sY0RfTmtqTDdTcTJEaVZsQ3dGdm1vdUp5TVlxc2VTWTRhZmk0MDR0N0pFUGtUcFRlXzA1SzRINERBQ0xpeVZJSFhlNkFHWlVCU0pqLUNNV0xoRDJmbV9OVVdJWmRSZ0xySVp0ME1nbEhzSmx4NjI1cg?oc=5"
+        },
+        {
           "title": "EAAA India Alternatives to float Rs 1,200-cr IPO on Oct 26 - The Economic Times",
           "source": "The Economic Times",
           "source_url": "https://m.economictimes.com",
@@ -1112,12 +1192,20 @@
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOWtxV1ZISzN0SXpjSWFvRnRaYkZNOVgxSlR6R1NrVGFROHBRUm1za2Y0U1RfTk1kdExuNlhFRWhDc0JUSkM0dHUydDNqbGpMZDJYTklRQ3dBNUlxV25LdVlnSExTRHpxZHJaVF9oOHZNZDRQWThoU1otVU5VOVY2S3VYVzFXYVBMd3JhRHlzMENNcTd6UFJNVXdMNXFfSTJ0bHBtM1pHbEE0X1ZDak1NNWJIYkxfUnVnNTc5ekppZEcyOEptZFh4YdIBzgFBVV95cUxOd3JPQkNvT0VrQ2UtVTRtOTlZUUdMRHh4OUlIcm1VenpJak1TQjd0bzNFOWxhWFdJUTFfTmJ5Yk1rSEs1RDRRS1FFTEdNbUY3T1g4WnpxcnZwSGNJRFBITGNFcWxDdFY3ZXBqQVJuVVJIQXlSVEpTeXNZYUR6SllRTXFUaEN3dmJzWUYxMmRaaGtqRjBLVmNFTHI1X09rbE9nSm1yVWozUzBmNjVXWkVJbkhVVGZDVXZKcXAwdlh0OUx5aU1mSV9sWWMwb0M3dw?oc=5"
         },
         {
-          "title": "Global Markets: French markets tumble as riots add to political crisis - The Economic Times",
+          "title": "Jio IPO: LIC, BlackRock, Fidelity, GIC among 212 anchor investors to pour Rs 8,110 crore - The Economic Times",
           "source": "The Economic Times",
           "source_url": "https://m.economictimes.com",
           "tier": "B",
-          "published": "2026-10-19 20:52 IST",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNN1ItVlZOa2dHMUNyRFNDQ2RnNDRSNmZrM1hmbEtMZ1YxaHF2SnJsYXN6dHdfYTZIOFpJZVliWmduR3J4bVlMc25JcHEtWEVROHlxY0dQQzlMaWpKNnFwWWRvOUdkWmd1azNZS2xaVlRCWjhjVW83TGVTcTQ0MXVkaHQxVkJndjNrY3lJa0lzSlhPY2NlR05TSEZSWlBNdmd6cGtSUEYwUFEzTU1zNDdfNVlfaDZ4RjZGN19SdG9nbnVKTl9wWGpNMW1OcFFSN2toYWpPeXNFc2NQaG03eVJj0gHkAUFVX3lxTE1wQmlRMy1FaDhGWkZHbFV5c0Fuc21EeGNDVzNjYUNFUDFrQWtFX01iN1cwTkNZOXdWbDhJbUd5bm5oU0RIRUdnMFRidVhqM1RqZGhoM2ZvZE5FcWxqV0Z1UVJKWG1HV1kyR2pQb3ZxQUtNVU5sY0RfTmtqTDdTcTJEaVZsQ3dGdm1vdUp5TVlxc2VTWTRhZmk0MDR0N0pFUGtUcFRlXzA1SzRINERBQ0xpeVZJSFhlNkFHWlVCU0pqLUNNV0xoRDJmbV9OVVdJWmRSZ0xySVp0ME1nbEhzSmx4NjI1cg?oc=5"
+          "published": "2026-10-19 23:04 IST",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPU2RtZXZwQVFtQkpFaGZ1NXpJRkZVamFsdUFObl9WM3I4cFBQdzhsaVYtT1NiTlJaYkdpbTJrOWNLamxBUmNYYS1aUkVsOXN4SVpMc29PZktNLUMzMXdVanNVeWRxM2tFelBqTjkyaFk1clFIeUYydFJkaE0yZnFjczd1ajczWXJXSlRyU3VpV1FfRUpsNW9mbGxUTHdRd19XUGdubjhnWldDY1ptYXliQzltcWVjNFRZTXI5ZVliQlhZSmYzVERMSlpvRmoyOFJ2cGNyUDhDRkRRMU9mTjFJU1J1MlBRZnc?oc=5"
+        },
+        {
+          "title": "Bonfiglioli Transmissions IPO Day 3: GMP at 22%, issue subscribed 99%; Should you apply? - The Economic Times",
+          "source": "The Economic Times",
+          "source_url": "https://m.economictimes.com",
+          "tier": "B",
+          "published": "2026-10-19 09:42 IST",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNFNDOUxSakNpRlRwNWdXa28wM1R5YW1qS1RvR2FIT01ITXJjTEVYa05Id0lkVnh3cVJaVEIzR3NnUGltTlRIWVZaa2JpZlJnNlRMdUhRZ2FRU2xTWVBCSVRVV2dpYm1memNITHpjOGdXWExlTGVMWkttNkRuUTVBT3g1Mk45d1o3aGkyb2F0VE81ZUxzY3E0alNqNmxyU19fcm1OUGZPdlhoZVRZYklHd2FQREJIYVNPa2RHNjA5WmRYOFJSbUF2ZG51OGhXMjA1VlZFLTdNRTZmRkpHQVhMTVBNalZlallMYnfSAe8BQVVfeXFMUGFiMjBtdzVicmwzeExMQ3RidDIwSDJkeDVqajdTMWdOci13NXFVaXkwcUFiR2lXdjUzc05UOG9henBtWVFkdWpibFg3SFdRRlpWYkk4TS0xUThaaHV5dVpjbE5rZldhZDZpLXVyVGg0MldtZFJUMGtRYXJZOTR6ZHRocTlqbldGTDJualNIX1dodHZUbjBHNXNzanRscWN3RmNJVW0wTkRtRlNvRzlyTERoRzAzLU5kVGdpRDRmZ3NwWEt2ck9FcS10eU9xbTNTR2JPRGh5b01PcV9uUEVRNjB0TmdkOUgyNi1ZRmU1Y1k?oc=5"
         },
         {
           "title": "Bonfiglioli Transmissions IPO allotment today; GMP signals 23% listing gain. Here's how to check status - The Economic Times",
@@ -1130,7 +1218,7 @@
       ],
       "bse_filings": [
         {
-          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261018&strScrip=544027&strSearch=P&strToDate=20261025&strType=C"
+          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261019&strScrip=544027&strSearch=P&strToDate=20261026&strType=C"
         }
       ],
       "nse_filings": [
@@ -1168,6 +1256,14 @@
       },
       "news": [
         {
+          "title": "Force Motors Share Price Today, Force Motors Stock Price Live NSE/BSE Updates - The Economic Times",
+          "source": "The Economic Times",
+          "source_url": "https://economictimes.indiatimes.com",
+          "tier": "B",
+          "published": "2026-10-23 02:45 IST",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORDlhd3oyR0pOSWhua0J2UWVrQ0RJLWdRT1lNTGtBMG93UlBJRzR0WEFBOWg2MG1fT1lkamF0bFh0V3d4akhiN21WVHpnQ21iYW5ZbEh3VjQxZndzaVQ3WmpwMzlCeVQybEtjem5LcVhYck9JOXZsM3h6Z0VQWjJUZVl4R2ZrUUE?oc=5"
+        },
+        {
           "title": "Force Motors partners with Rosmerta for vehicle scrapping - BusinessLine",
           "source": "BusinessLine",
           "source_url": "https://www.thehindubusinessline.com",
@@ -1190,19 +1286,11 @@
           "tier": "B",
           "published": "2026-10-22 11:38 IST",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQjFhVnN3ZllxcG1FTFZJbmVYYlEtSFRNNlEwbHc5UTFQT0xDVXhJYjlJdUVtNDJHcnZuY0tVcWdwZFBRQlBQNGdXbi1QQkRYTUhtN091YTJLNTlTWURDeGpHNEhHQzBsN0FfQk9HWXFQZTVDZnJ4SmNPdktVT3dUcFJPOGFpUmpWanNQYXNmU1h2eUNlT2Q1M2NUQjVBeXBmbGFucVI3U1VvOWcwMnA0Y1RFeGVXdTlUYjNsOVJJVVl3V2Q2emg5X9IBzgFBVV95cUxOTVhMY3lQVFhEYzM3R1JvYndIZ0JLVy1lTVFZUEV1blJ0d1hwUUh6MWM2a2cwQnkycldJREhQRGw5VDdzUFFHb094NjdOWDdMX2pDV2M4Nl9tNjBqQU1KNUVuNlpuTmFWS1ROcUNiUTc4eUYzRVktbEhSWTJfYlVteWRFd0kzdlo3YkNBc1U2dmdlUEV4UmwxUmp2dGh3TXJYemFvOWhrdlFVaUFsSUxtRVNoNkJGWGUwTUVVTjVod0hwRjNFZDFLcDRORmV5dw?oc=5"
-        },
-        {
-          "title": "Event data recorders may be mandatory for vehicles - The Economic Times",
-          "source": "The Economic Times",
-          "source_url": "https://m.economictimes.com",
-          "tier": "B",
-          "published": "2026-10-22 23:56 IST",
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNSVZiS2FyZTZjc2VJV181WnNMWHJYWnF2Z2d4aV9qQ21fc2VvWG54MzJpNXFzd3Q5WFpYa0JZSi1iT3ZBZ0VpLWttTnNta0R2cGd3NGt2VUZSTTdZZm40SVlVblFqR2hVMDJWOEs1aHBMVWZBUEVwRS1CbzN4Y05BdXhlamN1M1VfcURpT19hUTdtMmF6bTRldlhtMXk5VERtT0dpZzJha1Y4VlkzN3VDWU9abEZZU3Y4M2RVWEZzV25qVU5FVEdFZTJCRnNSaHhHdUYyTlg1M0Rtb1pzc0k4ZzcwWW8wU2VQQUpDSkJKWmtuOVluNllfdi1ZWURRTW5vaDkwZ2xIZk14NDZs0gHUAUFVX3lxTE5DeW1PS3BZcUJ3SVVqMVJCYkhnWHB6TW42M3V1bWFXQnkwM3JrazdLVmdRbGU3WFRaVFp6MThFTS01RDUtLTdUbjhzOFZ2RVRhZ3lETy1BdVI5UTRvSy1TTDJXUXhQV1VaMEdJdU1MZWhHSUtzcTF6TTM0Q3ZNM2NJZUNFYUNsd2dYVGxMYS13ZzVsZURhT3NRUTBTcHA5Ry0yUGpkaXUxSW5uS2Y5dzVLUmFjRFFvVGhHNkRybzdJalhmekNPOGR4ZmI1OWQyOGFOWER6?oc=5"
         }
       ],
       "bse_filings": [
         {
-          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261018&strScrip=500033&strSearch=P&strToDate=20261025&strType=C"
+          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261019&strScrip=500033&strSearch=P&strToDate=20261026&strType=C"
         }
       ],
       "nse_filings": [
@@ -1248,12 +1336,12 @@
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPR3JZWGxzNDlKckhFUHllWEh2MmVrZlRGRU5qRE15RTdiY2Vfd2E2RFNrMXFZN2dCSklfS1Z6blpzbEtOUjV3Z0YwM2lGMVZxQ1RTLVlMWDF1NllQemNkeXhMb2Z4R0NlOGxyWVo5a1F6cXI4aWhKcmJNVTJsWnU3SWl2dFRvRmtlUGdxcjFDLVNmN242UlNYU2FzRDdtRXVvbTV6a0hWNTluSWZldVZjTHJsaWdJUTN6MmVCTTlXbzJBWGU3TkxJS0VFZUZLUkhpaE85WGJB0gHbAUFVX3lxTFBkd1F4Y3VpXy1IM3NueHRoUHZra2VJZmV1blNKYXpSWHhHdGt0TDh4UmpHYWhTUFN3M1pyV0RSVFc1eTViRWVYOHRJRFRoOElJRHpNMHgtVjR0Sjc4WFNPZzB6T0Q0djQ3SWM3VlRJaDdCbUphRkNYUE5pWnN2VEd1c2FobDVhNlRQZXdGVTR1ZkRzaW9zZk81VVJ2VUVDUmlPUENjXzRDTE4wS2pOdGY4aGZEQmxibm9YRWYxeFNlRGYzWDZsUU1GRXY5NEUwczlQWHNhSEpkbWowcw?oc=5"
         },
         {
-          "title": "ITC Hotels signs Welcomhotel Roorkee Mandawar in Uttarakhand - ET HospitalityWorld",
-          "source": "ET HospitalityWorld",
-          "source_url": "https://hospitality.economictimes.indiatimes.com",
+          "title": "ITC Hotels Ltd. Share Price Today - ITC Hotels Ltd. Stock Price Live NSE/BSE - CNBC TV18",
+          "source": "CNBC TV18",
+          "source_url": "https://www.cnbctv18.com",
           "tier": "B",
-          "published": "2026-10-22 18:37 IST",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV29zazZ5Nl9jc19WNzNydVpDeGdyYnpzMFR0YjR4VUxQNUVGTEVuSG9GRFdJajVLbGFUaEF0R08yQ3hFVGFXSUphblZJNmh1aU5XUzI5S3M2WHNGdGl3TFJMSWNYSV8tallualdOeFQzZjVMOGJXNmVKbFItZzN1OEs2Wm9OODlZWlNreV9RVS1OWWRRWWt2a3F1SWZEOXkyYnlDQU84NVZTUF9wdmpoc3g0MTBuRE00ZnE0Vkg4Z2xscGxpd182WExsVdIBzwFBVV95cUxPQUdqcmNpdU1pMXFmc3ZhclB5VlFFdmo2ckxSbnVvd3dEZy1YVHJZZHZOTGYtVnpsQjV3ZFVGc0JWM2FrX2hSWEM5ZGVaU18tZ0Eyck1DX3lQcTlmVnVzd2N6Sk1UbF9UUVluRENnM1hiWV85UHZEQzREYUJJYkMxTjhQejZiSFNvLUxrQV82Qm9xVEo5d3FtZlJVeXhfZlBSQUxISFlESURuUnhyWllUZ2U1ZkJzMDV5UG03ZlFKaW1zNnUzZUtOR3JUMnJ1VDQ?oc=5"
+          "published": "2026-10-23 15:30 IST",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YRjF6Skt0dmhHbFFmclJ6SDlBQjlSYUNQdlQyUzFLSW9GYXJUckpnWVYtV3BPb2I5T2l0alotdVNzaS1xRURTU25qOVRUQzJoSlREV0E2Yy1Md2ppcXM2alZuRWlnMnYwbzNnQkJaWDUtdWVBTUQwd282NE0?oc=5"
         },
         {
           "title": "Rajasthan govt launches campaign to curb GST evasion, fraudulent ITC claims - Business Standard",
@@ -1266,7 +1354,7 @@
       ],
       "bse_filings": [
         {
-          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261018&strScrip=500875&strSearch=P&strToDate=20261025&strType=C"
+          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261019&strScrip=500875&strSearch=P&strToDate=20261026&strType=C"
         }
       ],
       "nse_filings": []
@@ -1285,25 +1373,25 @@
       },
       "news": [
         {
+          "title": "Adani Ports & Special Economic Zone Ltd. Share Price Live Today - CNBC TV18",
+          "source": "CNBC TV18",
+          "source_url": "https://www.cnbctv18.com",
+          "tier": "B",
+          "published": "2026-10-23 15:28 IST",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQl84SWU1MXAyc1FONmJSSmlpaHJkR1R1eTlGeC1qMDNQdVJGLURsYVBKMHZRbGZBbDk4R21XYk4wQWFMNFRDN0VUUXdYemV3RS0zZ3hGOHcxQWlrVmxiVWlYVk5DdktiX1NMVWg4b2xJSWc3VU5lclpqZUVVUF9RMjdtMDRmV05uWlhSM1pWQzFoaXA3Ym5LdQ?oc=5"
+        },
+        {
           "title": "Half Yearly Results, Half yearly Earnings for Kewal Kiran Clothing - The Economic Times",
           "source": "The Economic Times",
           "source_url": "https://economictimes.com",
           "tier": "B",
           "published": "2026-10-19 12:30 IST",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbmZsQU1ib1NQVHdJR3RQMExqZDBBNUdfdkp3eHJCUjlfVE5IT1o4YzR5dGpmVlBJS3p4YkhITFdfQVpKbFk4YTY5UGRJZXd2VEJXaEJlV1p6R0ZqVzA1bW9qMjQ0bldvSEhfYVVGVDUyRTNMQlBUZEJDQ1o2NDR1LTdtb2hCLWc1YlI3aURFMUNLZnVlNFZz?oc=5"
-        },
-        {
-          "title": "Mahendra Realtors Cash Flow, Financial Statements - The Economic Times",
-          "source": "The Economic Times",
-          "source_url": "https://m.economictimes.com",
-          "tier": "B",
-          "published": "2026-10-19 12:30 IST",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc0MxWm5UQW9jVmkwSlhIT2F6LUxXQWs2R3Y1dEN0UF9uM1dtNWg0eUlSM0VyaGNzT1dWbEhFeFdNMFBDUEQxOHVRdzNvbTM1cERtb0VBdmpieENINE1WbXVLbl96NUxyZFN3SUZTRVh3WER5Nm9DSmdOLUR6bDU2clJ0VjdvQVpqbERxRlp5Si1NNTM3Q2Y0bGtKZGg?oc=5"
         }
       ],
       "bse_filings": [
         {
-          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261018&strScrip=532921&strSearch=P&strToDate=20261025&strType=C"
+          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261019&strScrip=532921&strSearch=P&strToDate=20261026&strType=C"
         }
       ],
       "nse_filings": [
@@ -1366,12 +1454,12 @@
           "source_url": "https://bfsi.economictimes.indiatimes.com",
           "tier": "B",
           "published": "2026-10-24 08:16 IST",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNG9XNGZtMlM1ZVN5YUhiMjZ3cE8xNGJGOU0xblBsZTVPTDA2ckwzcWRWaEpkemFsa2lJcjNncHJ0Ql81dlk5VW1Pdk5MVnVINVZ6OV9Cb3NpYVpiTkdad2lsRHFDbDFoUzJZeVVNamFjX2FHcWxCUTYyOTg5SUU1T3JmNHBfc25JQmx1RV9PV21uTGhfaUkzU3VvdFl0VkFXU01yZDJjaWI4ak1BUmN4Z3Zn0gGyAUFVX3lxTE80b1c0Zm0yUzVlU3lhSGIyNndwTzE0YkY5TTFuUGxlNU9MMDZyTDNxZFZoSmR6YWxraUlyM2dwcnRCXzV2WTlVbU92TkxWdUg1Vno5X0Jvc2lhWmJOR1p3aWxEcUNsMWhTMll5VU1qYWNfYUdxbEJRNjI5ODlJRTVPcmY0cF9zbklCbHVFX09XbW5MaF9pSTNTdW90WXRWQVdTTXJkMmNpYjhqTUFSY3hndmc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdUtZMDZxT3lWcEJ2cExwdUhRNkFfM3E0ODNYSnBqOF9yVGZEZ1djZTI5SzdBM0EtbFZ4aGFTWjI1SHVxd3czNnlyM0VhV1pZSDdNZlNaNzJQMlEtRUJzd2ZoRENIcXJxdEdpMWFYbFh2Q1BJZEJNXzFVWnBBdU1kR0ZzbVdDc0RDb19RQzVQOFFJRVl6ZDh1elJyeVRrLWxkWEFGVUpoeWtiQmpBTjlNRkRzVG5DUFNFUjBHWHVFSjQ3Y1A5Vy1SYUxQRlFkTjZ1eU5LU2laZDFkTzVFZm5TTFlhY2FiZ9IBsgFBVV95cUxPNG9XNGZtMlM1ZVN5YUhiMjZ3cE8xNGJGOU0xblBsZTVPTDA2ckwzcWRWaEpkemFsa2lJcjNncHJ0Ql81dlk5VW1Pdk5MVnVINVZ6OV9Cb3NpYVpiTkdad2lsRHFDbDFoUzJZeVVNamFjX2FHcWxCUTYyOTg5SUU1T3JmNHBfc25JQmx1RV9PV21uTGhfaUkzU3VvdFl0VkFXU01yZDJjaWI4ak1BUmN4Z3Zn?oc=5"
         }
       ],
       "bse_filings": [
         {
-          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261018&strScrip=542867&strSearch=P&strToDate=20261025&strType=C"
+          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261019&strScrip=542867&strSearch=P&strToDate=20261026&strType=C"
         }
       ],
       "nse_filings": [
@@ -1427,6 +1515,14 @@
       },
       "news": [
         {
+          "title": "Marico Ltd. Share Price Today - Marico Ltd. Stock Price Live NSE/BSE - CNBC TV18",
+          "source": "CNBC TV18",
+          "source_url": "https://www.cnbctv18.com",
+          "tier": "B",
+          "published": "2026-10-23 15:28 IST",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93SktXcjBHYWk3VUtoX2c2RmZCZVhfQnV4d1E4bG1hcmlCM0hpNy1PZ25RaktFMnd0TG1uNXR4aWZHbHE4NDNwa0t5N2NPSWc5bUlQV2VpMjM5ODEwNDZ0bzRMSHZPVTg0cEN3akxnRVcxeF80?oc=5"
+        },
+        {
           "title": "FMCG stocks to buy: Anand Rathi names Marico, GCPL, Asian Paints, Mrs Bector Food - check ratings and target prices - Livemint",
           "source": "Livemint",
           "source_url": "https://www.livemint.com",
@@ -1445,7 +1541,7 @@
       ],
       "bse_filings": [
         {
-          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261018&strScrip=531642&strSearch=P&strToDate=20261025&strType=C"
+          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261019&strScrip=531642&strSearch=P&strToDate=20261026&strType=C"
         }
       ],
       "nse_filings": [
@@ -1471,6 +1567,14 @@
       },
       "news": [
         {
+          "title": "Multi Commodity Exchange of India Ltd. Share Price Live Today - CNBC TV18",
+          "source": "CNBC TV18",
+          "source_url": "https://www.cnbctv18.com",
+          "tier": "B",
+          "published": "2026-10-23 15:27 IST",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQmpjdWsxX1l2QUg1WHhyUTBmTXJ1aGt0OWdIZjR0bHRWY0ZnLXJnSFd4RGtkQkNOODFWa0xuQ1ZsM1VZVF9pVXBqR1prNXU2dnhWNHFrU0c1am5hMGhlcmg0T0pycmFZWUhjcGZBblpobW9ERHYxR21xbm40NTJQSmZJTVZCN1V2NWt1R05OSkQ5X3lQUkxXcA?oc=5"
+        },
+        {
           "title": "Retail Investors Join High-Speed Traders to Fuel a New Options Boom in India - Bloomberg.com",
           "source": "Bloomberg.com",
           "source_url": "https://www.bloomberg.com",
@@ -1487,12 +1591,12 @@
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLTVBTUZXR2tnd1VVM0hETy1XTk5LWTZaajJUbmIwWFlBMXFIaUF1empzaURRNlNYNnE4YVZCUGNKMFE5MDloRmIyQk96R3JkcjgyRWthZUZQeWpUanZRcVFmNlkzUWFVeVdSeUdwb2ZWYUFKd1ZCQl9xUnJhYkwySXVEMXlqLU1yYmxmUklRSFg0SmFteS1zMG1CT0lKOVB2eTJwZzZvTm9TcjlMVnB6N0NyX0VsZlEyTHhFeUNhLThrVXNNTS02VGpKZXlYWTTSAdYBQVVfeXFMT3JKMHo0NXlmbUlOLXFCWm5lNEU1OHpCX095RExkV2lCQ3dXREJmZVJWRlhYc2J2TjhjTzVlNUhieVRJbVp2T2oyNW90NmpHbUF5RjEwcm9TUTBuX0R0N3dzcXZkTHlzeVF3ei1ibGRYUk1WWHhkZURKMFJjSTVMYzJudlJuUnp5UmYtSkhFSUxieUQzQ2dVWGdCekpESi1tandtdlVLY3ItQ2V4bHFSSVBrNFluS3RqNWJ1Ty0zTlBrSWh6Z2twWGotbmdHUFV4WW1aa2t1UQ?oc=5"
         },
         {
-          "title": "Gold, silver prices gain on MCX: Key factors Indian buyers should track - CNBC TV18",
-          "source": "CNBC TV18",
-          "source_url": "https://www.cnbctv18.com",
+          "title": "Two Stocks to Sell Today, October 22: United Spirits, MCX Among Analysts' Picks - NDTV Profit",
+          "source": "NDTV Profit",
+          "source_url": "https://www.ndtvprofit.com",
           "tier": "B",
-          "published": "2026-10-19 09:50 IST",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVGFudTBEVFVid0UwTGZqTG9Yd3VsejhHeDNXeVFtQldzRExDM0ZPcTlIS2ZkNnItUVNycWcwOFBVMTF6STdYN3NIUWwxa0VpODZXcThTaWtOa0FncmxhZ2RJLVUzek5kemNFT3JrRk41cFdRdWxodFFFeGEyVFFDUGpvZmN5LWJsemc0QmNOR0dYNTNWUnRNT2o1Rjl0YTVNRldCcm1jdW1LOTIwQ3Z1TVZleWMwbjZFU1ZzNDduUkLSAcYBQVVfeXFMUFdQN1pKaDlFc2l5ZzBldlZOSjNVWXhZZFVXWjB5RFNLZUR5UjlKbGwzM2FUVkZzRjhVRWhyVmxxbm5EREwtMG82VWxacVBWelZ5eEJHQjZ5NnB1NWhEdUhFWjVpRDhzWDJQeENqdUNDQjhweHdMcnRBZkYwZkVMU2hud04ya2xnc2dkeUsyQTBvdWpiMkZ3SVB0MGZRamhlSUVKZUIzVzREOGxRelpJZklUc3FfMUFOUGVrYXdLd3NaaVBXWktR?oc=5"
+          "published": "2026-10-22 09:04 IST",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMkxMVmxvSXVWTEUwR0VpNzBSbmthUWRiLUFscUxNbDJsTzduYVV1d3hlNUh5TWJPemhfLUlxY1NOcGpzQXhoTkpFYVlJNFJIbmdLRUFyZVNPU0piZTE1c003V3FJanphWTB0QnoxbjRaRjYzS1JwZ2VkNVV3X1VKOE50NVpPdC11QTA3SXVNYzJZZzJLVXB5NkFrejZGMHI2ckxYYnpqcmVoamtkcElkVU5zTjJFQl9ZZHRj0gHDAUFVX3lxTE9xVFBzRGRnOGpfak5FM3FQcURZQVFJSmpvdmxNU3JSTWtLSXVvOGN5WXFjcGNRQldObjdrd1l4UTFjNVNOU2dQTll1X0NwZ19qcHFDQWR6RXZnbFNPUDBmc0o0VFo0RWRSYzM4RFJJME1zSzdFLVJyZDFMYThtTHgycUpOT2RFZlk4eFc5a3hzOGJuOGRvRUFtTEQ4WklEenppNW1SbU0tc2gxTFJBU2FoTWJSQ3B6STJ1Q0QzLUp1ekg1UQ?oc=5"
         },
         {
           "title": "MCX gold falls over 1% to Rs 1,44,519 as US-Iran tensions drive oil prices higher, fuels inflation fears - Moneycontrol.com",
@@ -1503,20 +1607,20 @@
           "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQOE0tb1hBQU5fd0Z4eWdMdEtiWkNZUlUweEZ1eDhqZlVVWkFfd1hhbFZJcmdPQ0pKdkxqaXcwZVZxTzdULVJ1NFpCdjFIVVh6M2NIczMwVHZzWXllQ3hmZmtSUVN6M1pvY1ctSElZNUlTMUdFcUtTb1FDT095cFA3S2ludnpFMmNGUC1aMC1oakQzNmR2VEVFU0VyWjdqNmw5MHg1YnZJelNyeWJmbk16ZEV5b24tSllYNUVVZl90bjUyMV9tME1JbFB2TVVjS29sbEN3dnQ1dEJTbkd5TGlRTmV6OHFtU051VjU0U0EzWENaSnFCWHNCU3MtOHNidWdra3p6Y0d3b9IBjAJBVV95cUxPZ3pBY2RWWXhIbm1CNktNVF9DLWhneUlnZUYyN0tQcFVlVnFMTDNpajF1cUk1RXBqaW1JZWJYVFVBR2IydE9Ob3AzMndUQktzY3piSUdwTDhYdWxfRWJ3Q0VKV2o5ODcxWENlMjgxSm0xWU9EQlVzVDdSS2laYXFGRmF4d1hlc3luZUVFWnlrUGJ3VlI1NHcyV0xCdDhnM0wwSVF3ZjJub1lWVFdVZ1A0djh0VWlTSDdtbzlZUldpNE5jS3ZuVlV4SGdBblV0NjhqSmVyWlJuOXhLdlVna0RfVjFabzdTUkQyR1kzYzMzRGxyTGtQRFZoaDRmVENITU5aa3A5Vllaem02djJW?oc=5"
         },
         {
-          "title": "Gold & Silver ETF prices today: Silver Funds tank up to 3.7% as MCX, COMEX slip - The Financial Express",
-          "source": "The Financial Express",
-          "source_url": "https://www.financialexpress.com",
-          "tier": "B",
-          "published": "2026-10-23 14:17 IST",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY0J5RjZhYmMwdG1NbGJhRkh6c0diWjRud2wxWUx4aFVjNHlkNXR1X3dNZE5GU2kwNGYyLTRicnF0U21RYlhZU3pTcWY3REJIa3N4aFAyMG84TEE2QkJIVkN3cWJPcjlJX2ZiMjVSa3Q3UjFSbGVtUDhXeXZTdUV6NUdDYWpjRlZtaHZUUjVpbzVaZHBYdmtGU1M4RmVpQWdpV1ZCQlZwTzlWcGRiZmlaTUxnS3QwU3ptMGMzVTQ1Y001UHk0R1HSAcwBQVVfeXFMTVlmVnhJWGRpUmdNTzNrVk1DNjhoeEZid1ppcHk0VUZSOWVlU3JkWXpPWUtSZlItUmpfaC1DR09tOGhTaUpXeUE1ZndLVFpkWVpLOG54YTZybXBzdmk3WV9TTHRBRl9xa0lKZGNnZjExLTlZMlRJeHhSTkZiVkgtWVdGZDVFVVhpd2FlUlpPYm53TVNmQ05PR1g5NGh6c2MwU2dEdm10bTBfY3NuTGJiZFZPM1VTRldLQ25LZWFZcWRYZ2JkUExpQ2Nmc09x?oc=5"
-        },
-        {
-          "title": "Why are mid, small-caps bleeding? Indices crash up to 4% - Swiggy, Meesho, Vedanta Aluminium, MCX lose big - Livemint",
+          "title": "Gold price crashes over ₹38,600 from record high — What'll happen amid Diwali 2026 fervour? Right time to buy? Decoded - Livemint",
           "source": "Livemint",
           "source_url": "https://www.livemint.com",
           "tier": "B",
-          "published": "2026-10-23 13:52 IST",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQWlRJNmhTekp5cmtwbUctTGY0enhha2NRb3J0SURQdVFXRGMzcVA5UXFBSmtscGxVNXZOcHBLdHQ2V0FvUDdTV2VpS1NqaC14Snd3Y0Q0b1JidFpKMnpaOG9VMUx2dUhLNHBMdkpKLUVLVFQyVVQyYmJiZW1sSklDZldVaF9yQlg5RDVfZE1mVUZXeTEwaGYtUzFTQTZYOTJOX2FTamN2X0JQRUVYNjNfNndCRHJOdHdORGl2SS1PZ2V4LUJDQ3dGT2p2enN3OVROb2xfS2xxcGJpOF9WWG1TM2pDZUc4Y3g0SzdnUTRnQ3gzVVQ2amNoYjFLNlDSAYICQVVfeXFMUFFtY1puRDdTaHZ2YXlZT2p5SEszX3Y5a0tmQ2gzNkN6c2M4Wk1XRFZhM3VyYnFOa05uejFTakJrV0FWX0p3c21QSjJUeGY5ZUtyVW9KRnlDY2dJN2dtZDQyRXpoVkpVbGJJOVlTQTJITHpEdG1GRU5WSjE0eE11ZDNUX1ZLb2hrYnE1b1RIZVdoMlZscURLZ0F2bHNOOVMtNHFLZVNna3R3b21YOG9iRGMzaE04X3MxQmNxeFIzLTlUMktSTUdVbzZBRG5sQzE1bnMwMlNBd01FYm0yNjl6X3RBRXJ6REdoai1xdE5Qa1JjNlltWHZRWXNINE1HeU1xejdB?oc=5"
+          "published": "2026-10-25 13:18 IST",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQR2M2ZDNOWGZCVjhVTVF5VVlpck5QUWRMSS1WNE1FNmQtXzVwSDBJVnB5SEFBN0ZzOXFjQjVzcEx5cnpYa0NVS3dDMmhDZDNDbDg5VzV5Q3dOdXN0aE1EU2RIRkw0dFBtX1dXNWo5R3VqMTZIOFRjcXBGUGFfc2JUYlhQdDk3aFRaTmZXRXI2a0lIaFlndm0wVUpFTWNrYm9uQWV2TU9QcXgtN05OSEVFVl9NTjVfWEJheUVtSDJTaFU1SmtWNUNHRzZ3YldDckk4WFhqZ2wyaTBLMk9EVzc5TkgwS1NrVzJUUHhnV2R4UE4xYzB1ZVFLREJUUlNxZWdsRXcweXZwMXBnYkR5X3dHYTFzd9IBmAJBVV95cUxPQXB4RFRmcF9sYWQxR1A2UDVHQ0NXMzZJUmRUNGR0M29VaEV0X29wUXk0QVhWSG8tTWRjMkRmQU1rZjBHb0g0MWZPOXJnUVZ5YkhYSzl0Y2ZxZmRTVjM0RWZoU0VCN19VNExJMWRLbWRTczBwZWVWVGVOMDRUdjRXZWo3RlFBMEI5cFRkV09kcExLY1hsWWhKazVVSmFBVURPd1hlcWFDUFNrUEFnVkJRUmg1QXZ0T0hYaGd3d204M0thUHprSHpIa0pEbS15WjJ2ZjdhYlZpRkdILTRjdW9GYXNNdFRKN0YxcHlPSlZTalp6NTA1Q1N0YV9YenA2dkZzeUpsUFVzTlFrck9OUHNYLVV0eU45TnQ3?oc=5"
+        },
+        {
+          "title": "Gold, silver prices gain on MCX: Key factors Indian buyers should track - CNBC TV18",
+          "source": "CNBC TV18",
+          "source_url": "https://www.cnbctv18.com",
+          "tier": "B",
+          "published": "2026-10-19 09:50 IST",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVGFudTBEVFVid0UwTGZqTG9Yd3VsejhHeDNXeVFtQldzRExDM0ZPcTlIS2ZkNnItUVNycWcwOFBVMTF6STdYN3NIUWwxa0VpODZXcThTaWtOa0FncmxhZ2RJLVUzek5kemNFT3JrRk41cFdRdWxodFFFeGEyVFFDUGpvZmN5LWJsemc0QmNOR0dYNTNWUnRNT2o1Rjl0YTVNRldCcm1jdW1LOTIwQ3Z1TVZleWMwbjZFU1ZzNDduUkLSAcYBQVVfeXFMUFdQN1pKaDlFc2l5ZzBldlZOSjNVWXhZZFVXWjB5RFNLZUR5UjlKbGwzM2FUVkZzRjhVRWhyVmxxbm5EREwtMG82VWxacVBWelZ5eEJHQjZ5NnB1NWhEdUhFWjVpRDhzWDJQeENqdUNDQjhweHdMcnRBZkYwZkVMU2hud04ya2xnc2dkeUsyQTBvdWpiMkZ3SVB0MGZRamhlSUVKZUIzVzREOGxRelpJZklUc3FfMUFOUGVrYXdLd3NaaVBXWktR?oc=5"
         },
         {
           "title": "Gold declines over ₹1,000 per 10 grams, silver tumbles ₹4,191 per kg on MCX - CNBC TV18",
@@ -1525,11 +1629,19 @@
           "tier": "B",
           "published": "2026-10-23 12:35 IST",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT2l0M0ZOUDlGd0JfQ2VBWGhYcmloY0FlREhVUHJCUlBUdHcwbkRONkdma2x0Z0p4SGh0eXB5N2NmcXJsdnZVZW1PUEtlMkFBX0FrbUR5V3hoWF9YMkV3RnVnTktqSkJsU1VBXzhZcUYwaVVEY0J3cWdOT3lOOXloVEppYW14YmdGRl9oZGJNemxWYURXUEgzdnktWFhUc01GTHcwaXpjbjhBdXVaZTUyS2thUm5KdWRoWVFUc3AtZmxnYWN20gHKAUFVX3lxTE1LR3hMRVgwZlg4S1ZlMHBzTGUyUlptSzNxUzAwMkhHYjBreUEtWXh0WV9Ob1lDZFRjZWJHQW1wRVE2WGRKcXJFUE5XOWNWX2otVVJlWWw1NGFQeGV1YS1udWh0U0dYWGZTVTZKV0VZMHJIamNXWExUREJqSUNBbURlRkVWaUJKN3pCNjZodzFETGUtSUlQeUdVVVFHa0ZraFFzUmlMMnhIc3RBYUtOdldpOE9MTHd0LU5rd0dPc2RJVlpnaDZQa3BsWmc?oc=5"
+        },
+        {
+          "title": "Why are mid, small-caps bleeding? Indices crash up to 4% - Swiggy, Meesho, Vedanta Aluminium, MCX lose big - Livemint",
+          "source": "Livemint",
+          "source_url": "https://www.livemint.com",
+          "tier": "B",
+          "published": "2026-10-23 13:52 IST",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQWlRJNmhTekp5cmtwbUctTGY0enhha2NRb3J0SURQdVFXRGMzcVA5UXFBSmtscGxVNXZOcHBLdHQ2V0FvUDdTV2VpS1NqaC14Snd3Y0Q0b1JidFpKMnpaOG9VMUx2dUhLNHBMdkpKLUVLVFQyVVQyYmJiZW1sSklDZldVaF9yQlg5RDVfZE1mVUZXeTEwaGYtUzFTQTZYOTJOX2FTamN2X0JQRUVYNjNfNndCRHJOdHdORGl2SS1PZ2V4LUJDQ3dGT2p2enN3OVROb2xfS2xxcGJpOF9WWG1TM2pDZUc4Y3g0SzdnUTRnQ3gzVVQ2amNoYjFLNlDSAYICQVVfeXFMUFFtY1puRDdTaHZ2YXlZT2p5SEszX3Y5a0tmQ2gzNkN6c2M4Wk1XRFZhM3VyYnFOa05uejFTakJrV0FWX0p3c21QSjJUeGY5ZUtyVW9KRnlDY2dJN2dtZDQyRXpoVkpVbGJJOVlTQTJITHpEdG1GRU5WSjE0eE11ZDNUX1ZLb2hrYnE1b1RIZVdoMlZscURLZ0F2bHNOOVMtNHFLZVNna3R3b21YOG9iRGMzaE04X3MxQmNxeFIzLTlUMktSTUdVbzZBRG5sQzE1bnMwMlNBd01FYm0yNjl6X3RBRXJ6REdoai1xdE5Qa1JjNlltWHZRWXNINE1HeU1xejdB?oc=5"
         }
       ],
       "bse_filings": [
         {
-          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261018&strScrip=534091&strSearch=P&strToDate=20261025&strType=C"
+          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261019&strScrip=534091&strSearch=P&strToDate=20261026&strType=C"
         }
       ],
       "nse_filings": []
@@ -1564,22 +1676,6 @@
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPXzYyMk5hbVNWbS02VnlGTzc0LUVTYTNOTG5xZnBUeF9tX3B3OEx4Smx4NTNRRktsZzdWVWFqQXlndDk4ZEhrOU90MDZNVjlHbXE3S0dHUUNGTDZtWU5iV0UwVWRZNEhnWnRXNGFQN3ZaSXlWbUdXY21PVncxX1lNOE9qbThPT3ZwTll6SWJPbmZQUTRqUnFmSFFDdVFiTG1ZYWNFcVVRbFJwM2ZtVllBQ00xM29XclpTZVFZbENhZGNTQ01ibUZhSl9xLUxvbEh5cWNYelZSNi1XdmNqcnlYN21oQXNjV0sw0gHuAUFVX3lxTE1wSFlPNUZlN1Z2cEI3TzVwd05JaG1NNWo3TTBXTW1RYWQxOUJKaTYxVmItaEVTRHk0TV81ZTkwbW5sUWdmU1U5VVNSVWoxYkN0NnpiRFZrVjRWQjhKLVp2dGdNZHhXNzdwN2VhdzlMcEl3dk5UeW52YWFTUElvaEZocDQ0Vkp2SWdPT1VrTWNMYVhDdlF1R0U3Slhva2tfS25VLW9WZG16MFdDQUZTVEVjMEg2Sl96NkFTR0pHU20tTS1XUWtzOXNkZW4zLUJJMlhFU0tueGUzQ1hWem85elJnV1dDSXlVZzVEWUVfQWc?oc=5"
         },
         {
-          "title": "Sensex, Nifty snap two-week winning streak, fall for fourth straight session; Swiggy slumps 17% - Fortune India",
-          "source": "Fortune India",
-          "source_url": "https://www.fortuneindia.com",
-          "tier": "B",
-          "published": "2026-10-23 16:29 IST",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUERjdTZvNVJtZXZQNkdxaTFFdzhWd0l2aFVxaUx4alBQRnY5cW5XbnN0QTlGeWdBRDJjcUlHSTlPdGlQZFBTeDR0TUtxLU5OVHBHRWxTbUY5dE1rMEdZa1hHWlRkTVF5R2RfWTk5cDVpbnN2bE9VcVNMaDlHNHdLeWZNanJNeU1UdmY4aUNUcmZvY0RJaTA4Nmg5WDBRZUFfblRYQVlVcXZvbVVJa29VZXVUcWxCTWdQalo4dU54cHB3bV9MZEFZMnZhSE1wSzVlSVgtTGdIa2E0NDFtNVHSAd4BQVVfeXFMT1BEY3U2bzVSbWV2UDZHcWkxRXc4VndJdmhVcWlMeGpQUEZ2OXFuV25zdEE5RnlnQUQyY3FJR0k5T3RpUGRQU3g0dE1LcS1OTlRwR0VsU21GOXRNazBHWWtYR1pUZE1ReUdkX1k5OXA1aW5zdmxPVXFTTGg5RzR3S3lmTWpyTXlNVHZmOGlDVHJmb2NESWkwODZoOVgwUWVBX25UWEFZVXF2b21VSWtvVWV1VHFsQk1nUGpaOHVOeHBwd21fTGRBWTJ2YUhNcEs1ZUlYLUxnSGthNDQxbTVR?oc=5"
-        },
-        {
-          "title": "Lupin, SRF, TMPV, Maruti, NTPC among 74 BSE 500 stocks hit 52-week lows - Business Standard",
-          "source": "Business Standard",
-          "source_url": "https://www.business-standard.com",
-          "tier": "B",
-          "published": "2026-10-22 10:07 IST",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZzdENU1aVmlCanJnMVoyRE81bXJxZW9iT3lzTTliTlBDSFl5T0hnbmwwMzVpVERGNXg5ZW94LWgwWWZQN1JsbFdfZDVyTEcxNm5RRzRweUtDUWN0VjNvX2ZGclRTNHJ4eEJtdXE0THd4NzVyamllQ1Z6ZTkwNFlQN2JreXpWZHpGYWNzZVRmWDRYaDN3REpUbzUyUkswQ25iQkgwUkV3emtqOHkyWTFtcVAyOXNOQzhCWmRlaXRJbUNJMmQ2WmFmQWo3UGI1dmxsQlZ0Q3FTYmhxZ1BiR1h2NEtLTnRIdm9oNldWR3h2b9IB7wFBVV95cUxPZzdENU1aVmlCanJnMVoyRE81bXJxZW9iT3lzTTliTlBDSFl5T0hnbmwwMzVpVERGNXg5ZW94LWgwWWZQN1JsbFdfZDVyTEcxNm5RRzRweUtDUWN0VjNvX2ZGclRTNHJ4eEJtdXE0THd4NzVyamllQ1Z6ZTkwNFlQN2JreXpWZHpGYWNzZVRmWDRYaDN3REpUbzUyUkswQ25iQkgwUkV3emtqOHkyWTFtcVAyOXNOQzhCWmRlaXRJbUNJMmQ2WmFmQWo3UGI1dmxsQlZ0Q3FTYmhxZ1BiR1h2NEtLTnRIdm9oNldWR3h2bw?oc=5"
-        },
-        {
           "title": "India’s warship boom has a catch: Why Goldman Sachs is betting against Mazagon Dock, GRSE - The Financial Express",
           "source": "The Financial Express",
           "source_url": "https://www.financialexpress.com",
@@ -1590,7 +1686,7 @@
       ],
       "bse_filings": [
         {
-          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261018&strScrip=542011&strSearch=P&strToDate=20261025&strType=C"
+          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261019&strScrip=542011&strSearch=P&strToDate=20261026&strType=C"
         }
       ],
       "nse_filings": []
@@ -1633,20 +1729,20 @@
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbUpBUUZiT3RhOFJzRTVIblBRbXZMcTdXMDRHeHNJSkRHQUJpR1g4MTlTVzFCb2Q5VWdxYkU4NEIza2htZlpnWXhfMzRsdm40UENvMUNfYldybVE1OVZLWHJuejlvRG9UX24taEhKUndkcVZkVGJ4OW5nYnRtVHBtUE83SzNTeG9MSlgyOHUtdHlRaXJ5X3JZdEZsa1pjTGk5eUpuaG9KQ1NpNWk3SE15OVRhNC15VTBKTlZpbWd4NGdObF91QjJUOUJ5Q3dwUdIB0wFBVV95cUxQNjJxeW15d3NSRGd1VjBDUlVwY1Y0ZUNCMVlzLXF5RXM0eUktY2pORWp6emhucm16dEVqSm1WVkRyTldhZkZPeDhiV3ZrNU5aZjEwOHVDcFNVX0t3cmEzQ0gxMF9hSXBySlk5MV9qTzhKZ2M1VnByUjFfaDg5SUVQWC1nYVNya3o0bGN0dm9jdHRSQ3plXzFGS1R5VTZJeTI0cWRVTm1LX25VT0REV19oT2x3Z0NubXNRS1luMWdRd3YzeFE4eUl4R0dEcHc0SVh6dXhF?oc=5"
         },
         {
-          "title": "Why Bharat Electronics Share Price is Falling - Equitymaster",
-          "source": "Equitymaster",
-          "source_url": "https://www.equitymaster.com",
-          "tier": "B",
-          "published": "2026-10-21 15:22 IST",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOTlnajhZTkNncHFUdlJqRXJRV3NybGhDUzN3cDM0UkdLMG9jVVBnYXZCOUQyaHNSLUZsaGU2anRhUVFyeTJYSm83TmxteC03S1d4clJ2bjJFSmswcFA1QmNOc1R2OTRTMm15dWRkMG1nNW90N0lkZ1N5VlVwdHRhNnFzWHpKdUY2dDctUjFVZklBMkVRSG1UTGZScm9KTGNFOS1IY3kxdlZXSFFTZEdyLTgwbkhHdw?oc=5"
-        },
-        {
           "title": "Stocks to Watch for October 22: M&M Fin, Indian Hotels, Bharat Electronics, Eternal and more - CNBC TV18",
           "source": "CNBC TV18",
           "source_url": "https://www.cnbctv18.com",
           "tier": "B",
           "published": "2026-10-21 18:07 IST",
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRlBWVE5VYnBiZDJ2T2RwVHpVbnRDaXRqOWlqYURUZF9QQnNWYWdyOFVzdk9hVEcycUV3OWNWM2hZOEdualgxaXVFcERud1VtOUNLTXVWekhKVEhhczI1LWZFV0pxbjNZRGdhTWl2SlQ1SmJoaE96OEluVG1VUXFWM1o0bmRQcHV0SUFoandNWEdvNHJaUlZ3T1QxMnhMNTdaSTdLRWo0S3JiU1IwOXVwNDBnZ3ZtQkNjOUp0cERLM0ZjcGNrMXF6MkYxS3VJbHg2Mk9JSG5R0gHbAUFVX3lxTE5HLTUzc0VNUGdkQ3gzZl9pWHNHZVdzVG04VVdGUDVhUlVJNk5zMjBoZXF2Unh1YlBTd0VoajMxRUgxUE9WWU9VSDVDNm9lTjJvUzFnZUtYc1djeGltWlVGcnBVSkNqWEU2T3kxdV80dXFWa2FKTGtnczFONTRfdmpxUXROZ0dQcVNGbThnb0lndHp4eE51S1lWVkF6VmFaeGtycGxjaWlBckVtdVhSM043NG9sejhKaFNfM3FKaEczalJtR0hSZVZSelN1ZjI1S21NZndrWkt2RU9ONA?oc=5"
+        },
+        {
+          "title": "BEL to invest ₹2,500 crore in defence ecosystem in Sri Sathya Sai district - The Hindu",
+          "source": "The Hindu",
+          "source_url": "https://www.thehindu.com",
+          "tier": "B",
+          "published": "2026-10-25 20:23 IST",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNY0dtQS1ONC1MQ0VmRk8zbGZUUGcxYmFBa1c2LXVPVVgwVlVfbnEyamhiSnBrY01zN3RrcXhpYnVnUUExSjlUc1ViN09INjlwNVZiOW9HR0R5QzhYMEpnUUtzcDRBOXhwaGZQSjJFdlgwSHpDNlZPdUFONDUwaGJ0X28xLWJESkJIVmVJYTJMZkFHSkwxOTA5NGI4V2pURlRJWkxTc29jV0lscFJYbmV5Y1lUbHVBV1pteG00c3RJMTNjTmxORzNjMVZ3eE5CRjkxUnFrcEgyUUMtZkEzRlE00gHmAUFVX3lxTE5hd0ZIWjlKMUVScHZuZ0pSdnpjcXVmNE5UUkphdXRCbVQyaTVoUDA3SFBaSWVBdm5XUDlPNmhNTm1iWW5GdjNhNmxqc3RRUTZxN1p0bUhud2hLU0tCZE5mVXo1UFVFMl82WDN1VUdBZjZISV90cXNSMDNUQkVuak5RaWpsVjVkejBLQkZBNXNZb1l1Skl1N3UwLUtHUm9ONnhQbmFVZ3BUTFBrRndhM21CYlhNQTFsSlJuX25YRVl0dmhPeHFTbTdmbkZFUEhyNTI2cFM2Tk5FU2VOS09IM1VtVkpUR1pn?oc=5"
         },
         {
           "title": "Bharat Electronics remains top defence pick for PL Capital; sees order inflows picking up in Q4 - CNBC TV18",
@@ -1663,6 +1759,14 @@
           "tier": "B",
           "published": "2026-10-23 19:08 IST",
           "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQU1RiRjR0WU9qU3cyYmNlX2NzWUhsRnU5a0c4TERWRTV4MWJ3S0JDUE4ydklDek51TjQwdm42VXotcTQ0MWFNdDR6RWZ5dEVULU82WkRuT0FEaUh0azVlN0Vva3lvN2QyUXYtdkcyWmswTnlIY1Jmem4zaU9jT0pWazZkUTMzZWlUMHhlbkpLS0pna2NIWVBObGsyQzUwN0NpUDNXVDdnempCUU45TjFuTm9LdV9XX0w2aTNsdzU3Yk15anplaTQ5Mzc2dFNvN2Y4S1Z5aC0td29iemtnZkJsN1JEZDBZeFVNMk9aZnQ0elZCMm1rRDlIME5VMkcwSlNkMWc?oc=5"
+        },
+        {
+          "title": "PSU Q2 results 2026 preview: BEL, Coal India, IGL - Earnings estimate, brokerage target price, returns potential - Livemint",
+          "source": "Livemint",
+          "source_url": "https://www.livemint.com",
+          "tier": "B",
+          "published": "2026-10-25 22:18 IST",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPN0syWjBfdUQyTTg5OTF5Ykk0UWlabDctV2NCcV9aYWtublhmaHUwVFdzQXljaTBHa1BoWFVybFh2QVVhSm1SaV9LQ3c1NTNEOEtSZkJ4ZXFiTUNJVTZDc2JBdG92bU91bnF5ZHAyOGk2c3lTN0U1U0pqeTk3TmMtbzNTbEpBWG5MQ2I0YVJLVFZMZlFzaF9oVDJrSWx2d0RYQjYtaWl6dkpIcVl1Zm9QT3FwVDNNaU1yZ2t4aVUwMThrNmlobWN2Z3JpbVdjcTUyMXd3NkJCYzhYVHBUUGxPclVEZHM0RjM1Z3hwaEQ1YXFqVGpTN2xiU0JGdld5eVZCQnBLYXh30gGLAkFVX3lxTE5LMGlDSGtBaUJRbm9YMG9oN2l0ZE9CMHota1lvRDZZcWItYm43Sy1WM1dlLXlnYmdBME9PR3hEc1B1dTVITkJWQy0xMlhpRkg2MDdVU3BqQklwNG5uVmJMYVNJLWoyQVZHUmlKX3kycnd4NjI0UXJKNUJVMGNLUnJzQ3RtVzhCYkxqaV9nTTFYbEJ1UXZmdUVqbk5ndmtQcWl4eHVKYUxCc00tdFVQSHdpRlEyLTlMaHg3cGJYWUZYZ20yWVJGaUFmZ1NHZ0NCZzZfYy1MSU9DTjZqcE83czVxN2c3Q3ZHWGFWMzlneFFiZnlEdlNzVkZPZlJjUTBybDBhVl9rbG93ckxuTQ?oc=5"
         },
         {
           "title": "Defence Ministry signs ₹770 crore radar procurement contract with BEL - CNBC TV18",
@@ -1683,7 +1787,7 @@
       ],
       "bse_filings": [
         {
-          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261018&strScrip=500049&strSearch=P&strToDate=20261025&strType=C"
+          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261019&strScrip=500049&strSearch=P&strToDate=20261026&strType=C"
         }
       ],
       "nse_filings": [
@@ -1727,7 +1831,7 @@
       ],
       "bse_filings": [
         {
-          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261018&strScrip=543232&strSearch=P&strToDate=20261025&strType=C"
+          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261019&strScrip=543232&strSearch=P&strToDate=20261026&strType=C"
         }
       ],
       "nse_filings": [
@@ -1769,12 +1873,12 @@
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMU8tNjRiUW5OSlpjWmVJNVZ2SzRKaXNHMGdLcnhHUmU2WFFndHhFRTV5NENhRGo5TVpZSEdvTWJNeDljS2lEdm5TUFFvak5nNkNHMWdpZG4zcmdFT0pSN1hOSm1ZcTRndUUxTlNvcGJDY1g3TVZ2VC15TmFueDdrMjM0LVhyVE45RnlFc1JRSHhNLUVMTWd0WjIxSmRWdEVVNTBHNTN4QVhaU2o2ODFZS0NDYlc3RE9VWjU3c3lWcjJSWjDSAcoBQVVfeXFMTmNyMVdJZTRNaFVNZWhtdHNJbHA3Y282RVFRUkg2Z1RpbzdFemh0RUtmcE13TzU4ZUJ4c2kxZGdvWGFsa0xtUjM4TUdHTy1LWXRvVGQxYnNKZk1pNWVTcFQ1Vm85czV6ZjZTaktaMXNWTlRjcjBWUTlVQ0x3SkpLclp4TkUxTWRjX0xZR3BJTDRjQldVc1FtV180OU56UHNtdFhoNGlwOUJndmN0VFVVMWkxcTZxVEVPb3ppWlRaSFVMSUNmRlVYM2p2dw?oc=5"
         },
         {
-          "title": "AU SMALL FINANCE BANK Q2: Profit Grows Over 50%, Asset Quality Improves - NDTV Profit",
-          "source": "NDTV Profit",
-          "source_url": "https://www.ndtvprofit.com",
+          "title": "AU Small Finance Bank Q2 net profit rises 53% to Rs 858 crore - Moneycontrol.com",
+          "source": "Moneycontrol.com",
+          "source_url": "https://www.moneycontrol.com",
           "tier": "B",
-          "published": "2026-10-24 16:10 IST",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUl9kdkVJZ3VhWEZrWndlX0JpVFN6N2tfbkxFOWNlR29Ya3ZYT1FNeng2eDdESnpWbl9FWGF0LUctdEFYR0trdUVxUXBjTTBqY1BRUVlEcThlZXQ5WnlWWWUzR3BHNWtnSmRuOVFUOEpkNWxrbGxscEQ2SEZxSjE3ZmRzX2ViWDRFcGgxZkxGZ0JtV3V2N2h0Q3EwVXlIOW1PME1fR05zRGZMWE5DVFQ5a0930gG6AUFVX3lxTE1fZi1lcmxNMFhVQUZfai15Q1hsS0MtMlZfSnpIT0t1dy1id0RfQlBUbVBJZnMxMjhUZHpKMmVIMGhvYklfM1QtS2Vob2NPRnJIZWk4RWFwRFdnOFphcVlxN3kzY0RRMnl1YmxLTHo2STdxLUl5OHF5enlOaWlZUUZkWDlOZTVfTFlqSU9TNHFsaHpUT000dldOUENlNWgxM3RwVC1iam9hWnhsOWoyUGpIUFpOaC1BZG9IQQ?oc=5"
+          "published": "2026-10-24 16:42 IST",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY0NjVzNRRXpCWnAtYmdNZXpyRzd6WjFhLUZsOE05RWMtWTBXX0R1SVFQN3hka2Etd29JQWVKRVBpQk9mZG1XU3JUWEZzcUdhZ3RzYkozWEdfUDBOUlNTVF80NjlUamRFaXVQM2hBTjZzSWhjNEpGcGdwS0YtVTh2TEhtX2ZsaWpHQnpoX2lnd0xKYlBmUFU0ckV6Y1JhQXBCSWhXb29CMkN6M2JGU2EzZFVLTHVvX29CdUpZTDA1TmVla1BU0gHKAUFVX3lxTFB6dVh3WmRfUlRVLTIxRlJlQS1XYnZuS0FDVnNMNEhRMFlKRmg0bUtCN2FFZmFMUkxpaGZlcXBhN0p6RDJmZ1Jramh4MTl5clRnN3MxdG1LbU9OLVE2WFBSQkxIbkpNQjRaWnpWbjE1X04zUDNlS1JaZEFUbkpCS2xHbFJQM0EwTWxodmMwZGw1blNMbFIwZFZRbDUtT0VzbWkxc1JWZTAzSHdWRllVbERhbGZrdXJZRzdjRENFUW1PMUt3YlNSQU44dHc?oc=5"
         },
         {
           "title": "AU Small Finance Bank Q2 net profit jumps 53% to ₹858 crore, NII rises 32% - Fortune India",
@@ -1785,20 +1889,12 @@
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQVJfVmx1dTlfWjE3dFdOc2FPaVpQMUwyc0IxUnJlMGY3OG1PTUM5Mkt6eHVIN2Ewd2hFM0lBTWduZEtwOEhrNlI3YnZXaE8wSWxSd2pBcWNRQ0pSLXNLai1HS18xamRTV2F2VEFuTUs2Y2FjRllGcWJZTm5QS000bE5QSDhIbGRZenM2MmdBaFNHdG5iVms0NnpMSndKMDZkWkZkZERBejBDUdIBtwFBVV95cUxOdHAzbkcyZEl5UE9RV28tcVJxOF96bkw4WC1SX1VkVENhakxZVFhJRWtFcGZuemZ3OHJlS0VDNnZOQnpVQ21IZFZMYXZrOUdZN1hldmUxb2xxMm1TeldwdVNUZjBsUDM3RWk1OWJRaW4zMXN5dWpoWmM1LUd5TFBmWVBvWTBYNXNvbDNkWDZDUV9sdm9nMFNvWDVlUm5RRUNvOHk4VUpUcXN4TXMzSnpQVEYxaVhWcEk?oc=5"
         },
         {
-          "title": "AU Small Finance Bank Q2 net profit rises 53% to Rs 858 crore - Moneycontrol.com",
-          "source": "Moneycontrol.com",
-          "source_url": "https://www.moneycontrol.com",
+          "title": "AU SMALL FINANCE BANK Q2: Profit Grows Over 50%, Asset Quality Improves - NDTV Profit",
+          "source": "NDTV Profit",
+          "source_url": "https://www.ndtvprofit.com",
           "tier": "B",
-          "published": "2026-10-24 16:42 IST",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY0NjVzNRRXpCWnAtYmdNZXpyRzd6WjFhLUZsOE05RWMtWTBXX0R1SVFQN3hka2Etd29JQWVKRVBpQk9mZG1XU3JUWEZzcUdhZ3RzYkozWEdfUDBOUlNTVF80NjlUamRFaXVQM2hBTjZzSWhjNEpGcGdwS0YtVTh2TEhtX2ZsaWpHQnpoX2lnd0xKYlBmUFU0ckV6Y1JhQXBCSWhXb29CMkN6M2JGU2EzZFVLTHVvX29CdUpZTDA1TmVla1BU0gHKAUFVX3lxTFB6dVh3WmRfUlRVLTIxRlJlQS1XYnZuS0FDVnNMNEhRMFlKRmg0bUtCN2FFZmFMUkxpaGZlcXBhN0p6RDJmZ1Jramh4MTl5clRnN3MxdG1LbU9OLVE2WFBSQkxIbkpNQjRaWnpWbjE1X04zUDNlS1JaZEFUbkpCS2xHbFJQM0EwTWxodmMwZGw1blNMbFIwZFZRbDUtT0VzbWkxc1JWZTAzSHdWRllVbERhbGZrdXJZRzdjRENFUW1PMUt3YlNSQU44dHc?oc=5"
-        },
-        {
-          "title": "AU Small Finance Bank Q2 profit jumps 53% to Rs 858 crore - The Economic Times",
-          "source": "The Economic Times",
-          "source_url": "https://m.economictimes.com",
-          "tier": "B",
-          "published": "2026-10-24 17:21 IST",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVDB0NFh2ZmsyazczWmhsSXVSTXpLMVhuOTl6R3lCYWl3U3BieXM0WDBLdEcxNDV1NVBhQ1dGMWRubkk3dHZDc3dSekhQY0E1ZFgwY2lkQ2d4WGxtRVcwRWFzLXA5TGl0R3hUTWtnQy1fNVJ3Yzl5T053amhJZ0poV1d1R0pMNmY2OHFuYUhYRXVXTTlVSk5tYVpCNWY2ZlA0NFpqUXo0eW4wWmdiWGNvOGZUV1oyNEhydXhER1hrQmVKSGNxUFM2VVR4d25CRm_SAdQBQVVfeXFMT3lZR3BpNy11Mlh0R0QtMldSenZtX0tzRlI3NmZUOWtyRTkxR09TUFdnVjNMYmJHS2hWNFNXalROSG90a0c5QmNtaDdfQ1M3LWkzMTBDaGZoYnlkaFBpaU9mNkVzNFNqMXVDSzF6OWFjOEdwWlJmUE5UeHM0d3hQSFFRbXVNSTY5YnZwaGxfWUJMZVEyZlFqdDFlRFhra1g1cmhEcHM1UkRRbUhmTC1jWkQ5N3RYakJ1WUJxZFp0V0Jucl9qQnRNWnVISzNkQjVySmkwQ0g?oc=5"
+          "published": "2026-10-24 16:10 IST",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUl9kdkVJZ3VhWEZrWndlX0JpVFN6N2tfbkxFOWNlR29Ya3ZYT1FNeng2eDdESnpWbl9FWGF0LUctdEFYR0trdUVxUXBjTTBqY1BRUVlEcThlZXQ5WnlWWWUzR3BHNWtnSmRuOVFUOEpkNWxrbGxscEQ2SEZxSjE3ZmRzX2ViWDRFcGgxZkxGZ0JtV3V2N2h0Q3EwVXlIOW1PME1fR05zRGZMWE5DVFQ5a0930gG6AUFVX3lxTE1fZi1lcmxNMFhVQUZfai15Q1hsS0MtMlZfSnpIT0t1dy1id0RfQlBUbVBJZnMxMjhUZHpKMmVIMGhvYklfM1QtS2Vob2NPRnJIZWk4RWFwRFdnOFphcVlxN3kzY0RRMnl1YmxLTHo2STdxLUl5OHF5enlOaWlZUUZkWDlOZTVfTFlqSU9TNHFsaHpUT000dldOUENlNWgxM3RwVC1iam9hWnhsOWoyUGpIUFpOaC1BZG9IQQ?oc=5"
         },
         {
           "title": "AU Small Finance Bank posts 53% rise in Q2 net profit; asset quality improves sequentially - CNBC TV18",
@@ -1807,6 +1903,14 @@
           "tier": "B",
           "published": "2026-10-24 16:37 IST",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNjhGQm93N0t0RW1NeWxhTDRSLUppUWxvZlRBN3hfVl82andQMGxHZlRnWWV0WFdjMVA4ZXo0bzU5VVl5ZE1ZYkRNcE9CelV6UVdiZDdNVkM3Q0hLTHk4WHFxZlJiSmhUWE9hdjhQa1A4aVNNMDdNVG9VLUNaRkNXT0VKcGFHeUVIaV9nMTNuQ2taRzJyaVdueXljMzBNRHVzTG9pX3dmRGFldnhXYXRaUTE2NlNEQ29US2phVzJrWjFuYknSAcgBQVVfeXFMUGFJajRCS3ZkbmRDQVJ6dUZQOFpFemEyQ1NoU0NfYmRkeGRXd1B2N21xbjZJQjR1Z2g0YlJnYko3ODY5SU1xTVNfaEJrU3o3Njh5ZjhRZnA0Tk9ackhIdWQzNW95dFBZZHFwRDE3a0p1OUplVW9UemV4clg4cWRQNkxRZ0RqLW50Z0tZUDltaWk4MnlvSnAzM21ScmxiVXhFTUMtUkUxYnpQdkd4bW5iNVFacEZfSWNMUmFVN0x4NW5qUTUxSVJhVTk?oc=5"
+        },
+        {
+          "title": "AU Small Finance Bank Q2 profit jumps 53% to Rs 858 crore - The Economic Times",
+          "source": "The Economic Times",
+          "source_url": "https://m.economictimes.com",
+          "tier": "B",
+          "published": "2026-10-24 17:21 IST",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVDB0NFh2ZmsyazczWmhsSXVSTXpLMVhuOTl6R3lCYWl3U3BieXM0WDBLdEcxNDV1NVBhQ1dGMWRubkk3dHZDc3dSekhQY0E1ZFgwY2lkQ2d4WGxtRVcwRWFzLXA5TGl0R3hUTWtnQy1fNVJ3Yzl5T053amhJZ0poV1d1R0pMNmY2OHFuYUhYRXVXTTlVSk5tYVpCNWY2ZlA0NFpqUXo0eW4wWmdiWGNvOGZUV1oyNEhydXhER1hrQmVKSGNxUFM2VVR4d25CRm_SAdQBQVVfeXFMT3lZR3BpNy11Mlh0R0QtMldSenZtX0tzRlI3NmZUOWtyRTkxR09TUFdnVjNMYmJHS2hWNFNXalROSG90a0c5QmNtaDdfQ1M3LWkzMTBDaGZoYnlkaFBpaU9mNkVzNFNqMXVDSzF6OWFjOEdwWlJmUE5UeHM0d3hQSFFRbXVNSTY5YnZwaGxfWUJMZVEyZlFqdDFlRFhra1g1cmhEcHM1UkRRbUhmTC1jWkQ5N3RYakJ1WUJxZFp0V0Jucl9qQnRNWnVISzNkQjVySmkwQ0g?oc=5"
         },
         {
           "title": "Paytm, AU Small Finance Bank launch RuPay credit card with family lounge access - CNBC TV18",
@@ -1827,7 +1931,7 @@
       ],
       "bse_filings": [
         {
-          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261018&strScrip=540611&strSearch=P&strToDate=20261025&strType=C"
+          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261019&strScrip=540611&strSearch=P&strToDate=20261026&strType=C"
         }
       ],
       "nse_filings": [
@@ -1872,7 +1976,7 @@
       "news": [],
       "bse_filings": [
         {
-          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261018&strScrip=517206&strSearch=P&strToDate=20261025&strType=C"
+          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261019&strScrip=517206&strSearch=P&strToDate=20261026&strType=C"
         }
       ],
       "nse_filings": []
@@ -1892,7 +1996,7 @@
       "news": [],
       "bse_filings": [
         {
-          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261018&strScrip=520073&strSearch=P&strToDate=20261025&strType=C"
+          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261019&strScrip=520073&strSearch=P&strToDate=20261026&strType=C"
         }
       ],
       "nse_filings": [
@@ -1936,7 +2040,7 @@
       ],
       "bse_filings": [
         {
-          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261018&strScrip=516072&strSearch=P&strToDate=20261025&strType=C"
+          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261019&strScrip=516072&strSearch=P&strToDate=20261026&strType=C"
         }
       ],
       "nse_filings": []
@@ -1965,7 +2069,7 @@
       ],
       "bse_filings": [
         {
-          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261018&strScrip=500330&strSearch=P&strToDate=20261025&strType=C"
+          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261019&strScrip=500330&strSearch=P&strToDate=20261026&strType=C"
         }
       ],
       "nse_filings": []
@@ -1985,7 +2089,7 @@
       "news": [],
       "bse_filings": [
         {
-          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261018&strScrip=513097&strSearch=P&strToDate=20261025&strType=C"
+          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261019&strScrip=513097&strSearch=P&strToDate=20261026&strType=C"
         }
       ],
       "nse_filings": []
@@ -2005,7 +2109,7 @@
       "news": [],
       "bse_filings": [
         {
-          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261018&strScrip=543748&strSearch=P&strToDate=20261025&strType=C"
+          "error": "403 Client Error: Forbidden for url: https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?strCat=-1&strPrevDate=20261019&strScrip=543748&strSearch=P&strToDate=20261026&strType=C"
         }
       ],
       "nse_filings": [
